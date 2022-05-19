@@ -1,0 +1,202 @@
+You’re a biologist on a mission
+
+to keep the rare honeybee 
+Apis Trifecta from going extinct.
+
+The last 60 bees of the species 
+are in your terrarium.
+
+You’ve already constructed wire frames
+of the appropriate size and shape.
+
+Now you need to turn 
+them into working beehives
+
+by helping the bees fill 
+every hex with wax.
+
+There are two ways to fill a given hex.
+
+The first is to place a bee into it.
+
+Once placed, a bee cannot 
+be removed without killing it.
+
+The second:
+
+if at any point an unfilled hex has three
+or more neighboring wax-filled hexes,
+
+the bees already in the hive 
+will move in and transform it.
+
+Once the bees have transformed 
+every hex in a hive,
+
+you can place an additional bee inside
+and it’ll specialize into a queen.
+
+The hive, if well cared for, 
+will eventually produce new bees
+
+and continue the species.
+
+If there are no hexes with three or more 
+transformed neighbors,
+
+the bees will just sit and wait.
+
+And once a bee transforms a hex, 
+it can never become a queen.
+
+You could put 59 bees in one wire hive,
+wait till they transform all the hexes,
+
+and then create a queen.
+
+But then just one collapse 
+would end the species.
+
+The more viable hives 
+you can make now, the better.
+
+So how many can you make with 60 bees?
+
+Pause the video to figure
+it out yourself
+
+Answer in 3
+
+Answer in 2
+
+Answer in 1
+
+Answer in 0
+
+What you're looking for here is some 
+kind of self-sustaining chain reaction,
+
+where a small number of bees 
+will transform an entire hive.
+
+The lower the number of bees needed,
+the better.
+
+So how low can we go, 
+and how can we engineer a chain reaction?
+
+Let’s start with the first question.
+
+There's a really clever approach to this,
+
+which involves counting the sides 
+of the filled-in hexes,
+
+and examining their total perimeter.
+
+Let’s suppose we put bees 
+in these three hexes.
+
+The total transformed 
+perimeter has 18 sides.
+
+But the middle hex 
+has three transformed neighbors,
+
+so the bees will transform it too.
+
+What happens to the perimeter?
+
+It’s still 18!
+
+And even after the bees transform the next
+sets of hexes with three neighbors,
+
+it still won’t change.
+
+What’s going on here?
+
+Each hex that has at least three sides 
+touching the bee-friendly space
+
+will remove those sides from the perimeter
+when it transforms.
+
+Then it adds at most three new sides 
+to the perimeter.
+
+So the perimeter of the transformed hexes
+will either stay the same or shrink.
+
+The final perimeter 
+of the entire hive is 54,
+
+so the total perimeter of the hexes 
+we place bees in at the start
+
+must be at least 54 as well.
+
+Dividing that 54 by the six sides 
+on each non-adjacent hex
+
+tells us it’ll take at least 9 bees 
+to transform the entire hive.
+
+That’s a great start,
+
+but we still have the tough question 
+of where the nine bees should go,
+
+and if we’ll need more.
+
+Let’s think smaller.
+
+We already know that three bees could
+completely transform a hive this big.
+
+What about a slightly bigger one?
+
+The perimeter of this hive is 30,
+
+which means we’ll need 
+at least 5 bees to fill it in.
+
+With 6 it’d be easy.
+
+Placing them like this would fill out 
+the whole hive in just three steps.
+
+But we can do better!
+
+We don’t actually need to place 
+a bee on this hex,
+
+since the other bees will transform
+that spot on their own.
+
+It looks like we have 
+the beginning of a pattern.
+
+Can we extend it to our full hive?
+
+That would mean placing 
+our 9 bees like so.
+
+Once they get to work, 
+they’ll create a chain reaction
+
+that fills in the center of the hive 
+and extend it to its edges.
+
+Add a 10th bee to the completed hive 
+and it becomes a queen.
+
+Repeat that process five more times
+
+and you’ve helped the last 60 members
+of Apis trifecta
+
+create 6 producing hives.
+
+All in all, 
+it’s a pretty good bee-ginning.

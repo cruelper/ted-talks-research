@@ -1,0 +1,249 @@
+Smuggling yourself aboard the rogue
+submarine was the easy part.
+
+Hacking into the nuclear missile launch
+override— a little harder.
+
+But now you’ve got a problem: 
+you don’t have the override code.
+
+You know you need 
+the same two numbers
+
+that the agents of chaos just used
+to authorize the launch.
+
+But one wrong answer will lock you out.
+
+From your hiding spot, 
+you’ve been able to learn the following:
+
+The big boss didn’t trust any minion 
+with the full information
+
+to launch nuclear missiles on their own.
+
+So he gave one launch code to Minion A, 
+the other to minion B,
+
+and forbade them to share 
+the numbers with each other.
+
+When the order came,
+
+each entered their own number 
+and activated the countdown.
+
+That was 50 minutes ago,
+
+and there's only 10 minutes left
+before the missiles launch.
+
+Suddenly, the boss says, “Funny story— 
+your launch codes were actually related.
+
+I chose a set of distinct positive
+integers with at least two elements,
+
+each less than 7, and told their sum
+to you, A, and their product to you, B.”
+
+After a moment of awkward silence,
+A says to B,
+
+“I don’t know whether you know my number.”
+
+B thinks this over, then responds,
+
+“I know your number, and now I know
+you know my number too.”
+
+That’s all you’ve got.
+
+What numbers do you enter 
+to override the launch?
+
+Pause now to figure it out for yourself.
+Answer in 3
+
+Answer in 2
+
+Answer in 1
+
+Ignorance-based puzzles like this are
+notoriously difficult to work through.
+
+The trick is to put yourself 
+in the heads of both characters
+
+and narrow down the possibilities 
+based on what they know or don’t know.
+
+So let's start with A's first statement.
+
+It means that B could conceivably
+have something with the potential
+
+to reveal A’s number,
+but isn’t guaranteed to.
+
+That doesn’t sound very definitive, 
+but it can lead us to a major insight.
+
+The only scenarios where B could know
+A’s number
+
+are when there’s exactly one valid way 
+to factor B’s number.
+
+Try factoring a few 
+and you’ll find the pattern—
+
+It could be prime— where the product
+must be of 1 and itself—
+
+or it could be the product of 1 
+and the square of a prime, such as 4.
+
+In both cases, there is exactly one sum.
+
+For a number like 8, factoring it 
+into 2 and 4, or 1, 2, and 4,
+
+creates too many options.
+
+Because the boss’s numbers 
+must be less than 7,
+
+A’s list of B’s possibilities
+only has these 4 numbers.
+
+Here’s where we can conclude a major clue.
+
+To think B could have these numbers,
+A’s number must be a sum of their factors—
+
+so 3, 4, 5, or 6.
+
+We can eliminate 3 and 4,
+because if the sum was either,
+
+the product could only be 2 or 3,
+
+in which case A would know that B 
+already knows A’s number,
+
+contradicting A’s statement.
+
+5 and 6, however, are in play,
+
+because they can become 
+sums in multiple ways.
+
+The need to consider this is one of 
+the most difficult parts of this puzzle.
+
+The crucial thing to remember 
+is that there’s no guarantee
+
+that B’s number is on A’s list—
+
+those are just the possibilities 
+from A’s perspective
+
+that would allow B to deduce A’s number.
+
+That ambiguity forces us to go through
+unintuitive multi-step processes like:
+
+consider a product, see what sums
+can result from its factors,
+
+then break those apart 
+and see what products can result.
+
+We’ll soon have to do something similar 
+going from sums to products
+
+and back to sums.
+
+But now we know— 
+when A made his first statement,
+
+he must have been holding
+either 5 or 6.
+
+B has access to the same information 
+we do,
+
+so he knows this too.
+
+Let’s review what’s in each
+brain at this point:
+
+everyone knows a lot about the sum,
+but only B knows the product.
+
+Now let’s look at the first part 
+of B’s statement.
+
+What if A’s number was 5?
+
+That could be from 1+4 or 2+3,
+
+in which case B would have
+either 4 or 6.
+
+4 would tell B what A had, like he said,
+
+because there’s only one option to make
+the product: 4 times 1.
+
+6, on the other hand, could be broken 
+down three ways, which sum like so.
+
+7 isn’t on B’s list of possible sums,
+but 5 and 6 both are.
+
+Meaning that B wouldn’t know
+whether A’s number was 5 or 6,
+
+and we can eliminate this option 
+because it contradicts his statement.
+
+So this is great— 5 and 4
+could be the override code,
+
+but how do we know it's the only one?
+
+Let’s consider if A’s number was 6—
+
+which would be 1+5, 2+4, or 1+2+3,
+
+giving B 5, 8, or 6, respectively.
+
+If B had 5, he’d know that A had 6.
+
+And if he had 8, the possibilities for A 
+would be 2+4 and 1+2+4.
+
+Only 6 is on the list of possible sums,
+so B would again know that A had 6.
+
+To summarize, if A had 6,
+
+he still wouldn’t know whether
+B had 5 or 8.
+
+That contradicts the second half 
+of what B said,
+
+and 5 and 4 must be the correct codes.
+
+With seconds to spare you override 
+the missile launch,
+
+shoot yourself out of the torpedo bay,
+
+and send the sub 
+to the bottom of the ocean.

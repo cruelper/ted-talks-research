@@ -1,0 +1,2576 @@
+Audrey Tang: Very happy to be joining you,
+
+and good local time, everyone.
+
+David Biello: So, tell us about --
+
+Sorry to --
+
+Tell us about digital tools and COVID.
+
+AT: Sure.
+
+Yeah, I'm really happy to share with you
+
+how Taiwan successfully
+countered the COVID
+
+using the power
+of digital democracy tools.
+
+As we know, democracy improves
+as more people participate.
+
+And digital technology remains one
+of the best ways to improve participation,
+
+as long as the focus
+is on finding common ground,
+
+that is to say, prosocial media
+instead of antisocial media.
+
+And there's three key ideas
+that I would like to share today
+
+about digital democracy
+that is fast, fair and fun.
+
+First about the fast part.
+
+Whereas many jurisdictions began
+countering coronavirus only this year,
+
+Taiwan started last year.
+
+Last December, when Dr. Li Wenliang,
+the PRC whistleblower,
+
+posted that there are new SARS cases,
+
+he got inquiries
+and eventually punishments
+
+from PRC police institutions.
+
+But at the same time,
+
+the Taiwan equivalent
+of Reddit, the Ptt board,
+
+has someone called nomorepipe
+
+reposting Dr. Li Wenliang's
+whistleblowing.
+
+And our medical officers
+immediately noticed this post
+
+and issued an order that says
+
+all passengers flying in
+from Wuhan to Taiwan
+
+need to start health inspections
+the very next day,
+
+which is the first day of January.
+
+And this says to me two things.
+
+First, the civil society
+trusts the government enough
+
+to talk about possible
+new SARS outbreaks in the public forum.
+
+And the government trusts citizens enough
+
+to take it seriously and treat it
+as if SARS has happened again,
+
+something we've always
+been preparing for, since 2003.
+
+And because of this open civil society,
+
+according to the CIVICUS Monitor
+after the Sunflower Occupy,
+
+Taiwan is now the most open society
+in the whole of Asia.
+
+We enjoy the same freedom
+of speech, of assembly,
+
+[unclear] as other liberal democracies,
+
+but with the emphasis
+on keeping an open mind
+
+to novel ideas from the society.
+
+And that is why our schools
+and businesses still remain open today,
+
+there was no lockdown,
+
+it's been a month
+with no local confirmed cases.
+
+So the fast part.
+
+Every day, our Central Epidemic
+Command Center, or CECC,
+
+holds a press conference,
+which is always livestreamed,
+
+and we work with the journalists,
+
+they answer all the questions
+from the journalists,
+
+and whenever there's a new idea
+coming in from the social sector,
+
+anyone can pick up
+their phone and call 1922
+
+and tell that idea to the CECC.
+
+For example, there was one day in April
+
+where a young boy has said
+he doesn't want to go to school
+
+because his school mates may laugh at him
+
+because all he had is a pink medical mask.
+
+The very next day,
+
+everybody in the CECC press conference
+started wearing pink medical masks,
+
+making sure that everybody learns
+about gender mainstreaming.
+
+And so this kind of rapid response system
+
+builds trust between the government
+and the civil society.
+
+And the second focus is fairness.
+
+Making sure everybody can use
+their national health insurance card
+
+to collect masks from nearby pharmacies,
+
+not only do we publish the stock level
+of masks of all pharmacies,
+
+6,000 of them,
+
+we publish it every 30 seconds.
+
+That's why our civic hackers,
+our civil engineers in the digital space,
+
+built more than 100 tools
+that enable people to view a map,
+
+or people with blindness
+who talk to chat bots, voice assistants,
+
+all of them can get the same
+inclusive access to information
+
+about which pharmacies near them
+still have masks.
+
+And because the national
+health insurance single payer
+
+is more than 99.9 percent
+of health coverage,
+
+people who show any symptoms
+
+will then be able to take
+the medical mask,
+
+go to a local clinic,
+
+knowing fully that they will
+get treated fairly
+
+without incurring any financial burden.
+
+And so people designed a dashboard
+
+that lets everybody see
+our supply is indeed growing,
+
+and whether there's over- or undersupply,
+
+so that we codesign
+this distribution system
+
+with the pharmacies,
+with the whole of society.
+
+So based on this analysis,
+
+we show that there was
+a peak at 70 percent,
+
+and that remaining 20 percent of people
+were often young, work very long hours,
+
+when they go off work,
+the pharmacies also went off work,
+
+and so we work with convenience stores
+
+so that everybody can collect
+their mask anytime,
+
+24 hours a day.
+
+So we ensure fairness of all kinds,
+
+based on the digital democracy's feedback.
+
+And finally, I would like to acknowledge
+that this is a very stressful time.
+
+People feel anxious, outraged,
+
+there's a lot of panic buying,
+
+a lot of conspiracy theories
+in all economies.
+
+And in Taiwan,
+
+our counter-disinformation
+strategy is very simple.
+
+It's called "humor over rumor."
+
+So when there was a panic buying
+of tissue paper, for example,
+
+there was a rumor that says,
+
+"Oh, we're ramping up mass production,
+
+it's the same material as tissue papers,
+
+and so we'll run out
+of tissue paper soon."
+
+And our premier showed
+a very memetic picture
+
+that I simply have to share with you.
+
+In very large print,
+
+he shows his bottom,
+
+wiggling it a little bit,
+
+and then the large print says
+
+"Each of us only have
+one pair of buttocks."
+
+And of course, the serious table shows
+
+that tissue paper came
+from South American materials,
+
+and medical masks
+come from domestic materials,
+
+and there's no way that ramping up
+production of one
+
+will hurt the production of the other.
+
+And so that went absolutely viral.
+
+And because of that,
+the panic buying died down
+
+in a day or two.
+
+And finally, we found out the person
+who spread the rumor in the first place
+
+was the tissue paper reseller.
+
+And this is not just
+a single shock point in social media.
+
+Every single day,
+
+the daily press conference gets translated
+
+by the spokesdog of the Ministry
+of Health and Welfare,
+
+that translated a lot of things.
+
+For example, our physical distancing
+is phrased as saying
+
+"If you are outdoors,
+you need to keep two dog-lengths away,
+
+if you are indoor,
+three dog-lengths away," and so on.
+
+And hand sanitation rules, and so on.
+
+So because all this goes viral,
+
+we make sure that the factual humor
+spreads faster than rumor.
+
+And they serve as a vaccine,
+as inoculation,
+
+so that when people see
+the conspiracy theories,
+
+the R0 value of that will be below one,
+
+meaning that those ideas will not spread.
+
+And so I only have
+this five-minute briefing,
+
+the rest of it will be driven
+by your Q and A,
+
+but please feel free to read more
+
+about Taiwan's
+counter-coronavirus strategy,
+
+at taiwancanhelp.us.
+
+Thank you.
+
+DB: That's incredible.
+
+And I love this "humor versus rumor."
+
+The problem here in the US, perhaps,
+
+is that the rumors seem to travel
+faster than any response,
+
+whether humorous or not.
+
+How do you defeat that aspect in Taiwan?
+
+AT: Yeah, we found that, of course,
+
+humor implicitly means
+there is a sublimation
+
+of upsetness, of outrage.
+
+And so as you see, for example,
+in our premier's example,
+
+he makes fun of himself.
+
+He doesn't make a joke
+at the expense of other people.
+
+And this was the key.
+
+Because people think it hilarious,
+
+they share it,
+
+but with no malicious or toxic intentions.
+
+People remember the actual payload,
+
+that table about materials
+used to produce masks,
+
+much more easily.
+
+If they make a joke
+that excludes parts of the society,
+
+of course, that part of society
+will feel outraged
+
+and we will end up
+creating more divisiveness,
+
+rather than prosocial behavior.
+
+So the humor at no expense,
+
+not excluding any part of society,
+
+I think that was the key.
+
+DB: It's also incredible
+
+because Taiwan has such close ties
+to the origin point of this.
+
+AT: PRC, yes.
+
+DB: The mainland.
+
+So given those close economic ties,
+
+how do you survive
+that kind of disruption?
+
+AT: Yeah, I mean, at this moment,
+
+it's been almost a month now
+with no local confirmed cases,
+
+so we're doing fine.
+
+And what we are doing, essentially,
+
+is just to respond faster
+than pretty much anyone.
+
+We started responding last year,
+
+whereas pretty much everybody else
+started responding this year.
+
+We tried to warn the world
+last year, but, anyway.
+
+So in any case,
+
+the point here is
+that if you start early enough,
+
+you get to make sure
+that the border control
+
+is the main point where you quarantine
+all the returning residents and so on,
+
+instead of waiting until
+the community spread stage,
+
+where even more human-right
+invading techniques
+
+would probably have to be deployed
+one way or the other.
+
+And so in Taiwan, we've not declared
+an emergency situation.
+
+We're firmly under the constitutional law.
+
+Because of that, every measure
+the administration is taking
+
+is also applicable
+in non-coronavirus times.
+
+And this forces us to innovate.
+
+Much as the idea of
+"we are an open liberal democracy"
+
+prevented us from doing takedowns.
+
+And therefore, we have to innovate
+of humor versus rumor,
+
+because the easy path,
+the takedown of online speech,
+
+is not accessible to us.
+
+Our design criteria,
+which is no lockdowns,
+
+also prevented us
+from doing any, you know,
+
+very invasive privacy encroaching
+response system.
+
+So we have to innovate at the border,
+
+and make sure that we have
+a sufficient number of, for example,
+
+quarantine hotels
+or the so-called "digital fences,"
+
+where your phone is basically connected
+to the nearby telecoms,
+
+and they make sure that if they go out
+of the 15-meter or so radius,
+
+an SMS is sent to the local
+household managers or police and so on.
+
+But because we focus
+all these measures at the border,
+
+the vast majority of people
+live a normal life.
+
+DB: Let's talk about that a little bit.
+
+So walk me through the digital tools
+
+and how they were applied to COVID.
+
+AT: Yes.
+
+So there's three parts
+that I just outlined.
+
+The first one is the collective
+intelligence system.
+
+Through online spaces
+
+that we design to be devoid
+of Reply buttons,
+
+because we see that,
+when there's Reply buttons,
+
+people focus on each other's
+face part, not the book part,
+
+and without "Reply" buttons,
+
+you can get collective intelligence
+
+working out their rough consensus
+of where the direction is going
+
+with the response strategies.
+
+So we use a lot of new technologies,
+
+such as Polis,
+
+which is essentially a forum
+that lets you upvote and downvote
+
+each other's feelings,
+
+but with real-time clustering,
+
+so that if you go to cohack.tw,
+
+you see six such conversations,
+
+talking about how to protect
+the most vulnerable people,
+
+how to make a smooth transition,
+
+how to make a fair
+distribution of supplies and so on.
+
+And people are free to voice their ideas,
+
+and upvote and downvote
+each other's ideas.
+
+But the trick is that we show people
+the main divisive points,
+
+and the main consensual points,
+
+and we respond only to the ideas
+
+that can convince
+all the different opinion groups.
+
+So people are encouraged
+to post more eclectic, more nuanced ideas
+
+and they discover,
+at the end of this consultation,
+
+that everybody, actually,
+agrees with most things,
+
+with most of their neighbors
+on most of the issues.
+
+And that is what we call
+the social mandate,
+
+or the democratic mandate,
+
+that then informs our development
+of the counter-coronavirus strategy
+
+and helping the world with such tools.
+
+And so this is the first part,
+
+it's called listening at scale
+for rough consensus.
+
+The second part I already covered
+is the distribute ledger,
+
+where everybody can go
+to a nearby pharmacy,
+
+present their NHI card,
+buy nine masks, or 10 if you're a child,
+
+and see the stock level
+of that pharmacy on their phone
+
+actually decreasing by nine or 10
+in a couple of minutes.
+
+And if they grow by nine or 10,
+
+of course, you call the 1922,
+
+and report something fishy is going on.
+
+But this is participatory accountability.
+
+This is published every 30 seconds.
+
+So everybody holds each other accountable,
+
+and that massively increases trust.
+
+And finally, the third one,
+the humor versus rumor,
+
+I think the important thing to see here
+
+is that wherever there's a trending
+disinformation or conspiracy theory,
+
+you respond to it with a humorous package
+
+within two hours.
+
+We have discovered,
+if we respond within two hours,
+
+then more people see the vaccination
+than the conspiracy theory.
+
+But if you respond four hours
+or a day afterwards,
+
+then that's a lost cause.
+
+You can't really counter that
+using humor anymore,
+
+you have to invite the person
+who spread those messages
+
+into cocreation workshops.
+
+But we're OK with that, too.
+
+DB: Your speed is incredible.
+
+I see Whitney has joined us
+with some questions.
+
+Whitney Pennington Rodgers: That's right,
+
+we have a few coming in already
+from the audience.
+
+Hi there, Audrey.
+
+And we'll start with one
+from our community member Michael Backes.
+
+He asks how long has humor
+versus rumor been a strategy
+
+that you've implemented.
+
+Excuse me.
+
+"How long has humor versus rumor
+strategy been implemented?
+
+Were comedians consulted
+to make the humor?"
+
+AT: Yes, definitely.
+
+Comedians are our most
+cherished colleagues.
+
+And each and every ministry has a team
+of what we call participation officers
+
+in charge of engaging
+with trending topics.
+
+And it's a more than 100
+people-strong team now.
+
+We meet every month
+and also every couple of weeks
+
+on specific topics.
+
+It's been like that since late 2016,
+
+but it's not until our previous
+spokesperson, Kolas Yotaka,
+
+joined about a year and a half ago,
+
+do the professional comedians
+get to the team.
+
+Previously, this was more about inviting
+the people who post, you know,
+
+quotes like "Our tax filing system
+is explosively hostile,"
+
+and gets trending,
+
+and previously, the POs
+just invited those people.
+
+Everybody who complains
+
+about the finance minister's
+tax-filing experience
+
+gets invited to the cocreation
+of that tax filing experience.
+
+So previously, it was that.
+
+But Kolas Yotaka and the premier
+Su Tseng-chang said,
+
+wouldn't it be much better
+and reach more people
+
+if we add some dogs to it
+or cat's pictures to it?
+
+And that's been around
+for a year and a half.
+
+WPR: Definitely, I think it makes
+a lot of difference, just even seeing them
+
+without being part
+of the thought process behind that.
+
+And we have another question here
+from G. Ryan Ansin.
+
+He asks, "What would you rank
+the level of trust
+
+your community had before the pandemic,
+
+in order for the government
+to have a chance
+
+at properly controlling this crisis?"
+
+AT: I would say that a community
+trusts each other.
+
+And that is the main point
+of digital democracy.
+
+This is not about people
+trusting the government more.
+
+This is about the government
+trusting the citizens more,
+
+making the state transparent
+to the citizen,
+
+not the citizen transparent to the state,
+
+which would be some other regime.
+
+So making the state
+transparent to the citizens
+
+doesn't always elicit more trust,
+
+because you may see something wrong,
+something missing,
+
+something exclusively hostile
+to its user experience,
+
+an so on, of the state.
+
+So it doesn't necessarily lead
+to more trust from the government.
+
+Sorry, from the citizen to the government.
+
+But it always leads to more trust
+between the social sector stakeholders.
+
+So I would say the level of trust
+between the people
+
+who are working on, for example,
+
+medical officers,
+
+and people who are working
+with the pandemic responses,
+
+people who manufacture medical masks,
+
+and so on,
+
+all these people,
+
+the trust level between them is very high.
+
+And not necessarily
+they trust the government.
+
+But we don't need that
+for a successful response.
+
+If you ask a random person on the street,
+
+they will say Taiwan is performing so well
+because of the people.
+
+When the CECC tells us to wear the mask,
+
+we wear the mask.
+
+When the CECC tells us not to wear a mask,
+
+like, if you are keeping
+physical distance,
+
+we wear a mask anyway.
+
+And so because of that,
+
+I think it's the social sector's trust
+between those different stakeholders
+
+that's the key to the response.
+
+WPR: I will come back shortly
+with more questions,
+
+but I'll leave you guys
+to continue your conversation.
+
+AT: Awesome.
+
+DB: Well, clearly,
+part of that trust in government
+
+was maybe not there in 2014
+during the Sunflower Movement.
+
+So talk to me about that
+
+and how that led to this,
+kind of, digital transformation.
+
+AT: Indeed.
+
+Before March 2014, if you asked
+a random person on the street in Taiwan,
+
+like, whether it's possible
+for a minister -- that's me --
+
+to have their office in a park,
+literally a park,
+
+anyone can walk in and talk to me
+for 40 minutes at a time,
+
+I'm currently in that park,
+the Social Innovation Lab,
+
+they would say that this is crazy, right?
+
+No public officials work like that.
+
+But that was because on March 18, 2014,
+
+hundreds of young activists,
+most of them college students,
+
+occupied the legislature
+
+to express their profound opposition
+to a trade pact with Beijing
+
+under consideration,
+
+and the secretive manner in which
+it was pushed through the parliament
+
+by Kuomintang,
+the ruling party at the time.
+
+And so the protesters
+demanded, very simply,
+
+that the pact be scraped,
+
+and the government to institute
+a more transparent ratification process.
+
+And that drew widespread public support.
+
+It ended a little more
+than three weeks later,
+
+after the government promised and agreed
+
+on the four demands [unclear]
+of legislative oversight.
+
+A poll released after the occupation
+
+showed that more than 75 percent
+remained dissatisfied
+
+with the ruling government,
+
+illustrating the crisis of trust
+that was caused by a trade deal dispute.
+
+And to heal this rift
+and communicate better
+
+with everyday citizens,
+
+the administration reached out
+to the people who supported the occupiers,
+
+for example, the g0v community,
+
+which has been seeking
+to improve government transparency
+
+through the creation of open-source tools.
+
+And so, Jaclyn Tsai,
+a government minister at the time,
+
+attended our hackathon
+
+and proposed the establishment
+of novel platforms
+
+with the online community
+to exchange policy ideas.
+
+And an experiment was born called vTaiwan,
+
+that pioneerly used tools such as Polis,
+
+that allows for "agree" or "disagree"
+with no Reply button,
+
+that gets people's rough consensus
+on issues such as crowdfunding,
+
+equity-based crowdfunding, to be precise,
+
+teleworking and many other
+cyber-related legislation,
+
+of which there is no existing
+unions or associations.
+
+And it proved to be very successful.
+
+They solved the Uber problem, for example,
+
+and by now, you can call an Uber --
+
+I just called an Uber this week --
+
+but in any case,
+they are operating as taxis.
+
+They set up a local
+taxi company called Q Taxi,
+
+and that was because on the platform,
+people cared about insurance,
+
+they care about registration,
+
+they care about all the sort of,
+protection of the passengers, and so on.
+
+So we changed the taxi regulations,
+
+and now Uber is just another taxi company
+
+along with the other co-ops.
+
+DB: So you're actually, in a way,
+
+crowdsourcing laws
+that, well, then become laws.
+
+AT: Yeah, learn more at crowd.law.
+
+It's a real website.
+
+DB: So, some might say
+that this seems easier,
+
+because Taiwan is an island,
+
+that maybe helps you control COVID,
+
+helps promote social cohesion,
+
+maybe it's a smaller country than some.
+
+Do you think that this could be
+scaled beyond Taiwan?
+
+AT: Well, first of all,
+
+23 million people
+is still quite some people.
+
+It's not a city,
+
+as some usually say, you know,
+"Taiwan is a city-state."
+
+Well, 23 million people,
+not quite a city-state.
+
+And what I'm trying to get at,
+
+is that the high population density
+and a variety of cultures --
+
+we have more than 20 national languages --
+
+doesn't necessarily lead
+to social cohesion, as you said.
+
+Rather, I think, this is the humbleness
+of all the ministers
+
+in the counter-coronavirus response.
+
+They all took on an attitude
+of "So we learned about SARS" --
+
+many of them were in charge
+of the SARS back then,
+
+but that was classical epidemiology.
+
+This is SARS 2.0,
+it has different characteristics.
+
+And the tools that we use
+are very different,
+
+because of the digital transformation.
+
+And so we are in it to learn
+together with the citizens.
+
+Our vice president at the time,
+
+Dr. Chen Chien-jen, an academician,
+
+literally wrote the textbook
+on epidemiology.
+
+However, he still says,
+
+"You know, what I'm going to do
+is record an online MOOC,
+
+a crash course on epidemiology,
+
+that shares with,
+
+I think, more than 20,00 people
+enrolled the first day,
+
+I was among them,
+
+to learn about important ideas,
+
+like the R0 and the basic transmission
+
+and how the various
+different measures work,
+
+and then they asked people to innovate.
+
+If you think of a new way
+that the vice president did not think of,
+
+just call 1922,
+
+and your idea will become
+the next day's press conference.
+
+And this is this colearning strategy,
+
+I think, that more than anything
+enabled the social cohesion,
+
+as you speak.
+
+But this is more of a robust
+civil society than the uniformity.
+
+There's no uniformity at all in Taiwan,
+
+everybody is entitled to their ideas,
+
+and all the social innovations,
+
+ranging from using
+a traditional rice cooker
+
+to revitalize, to disinfect the mask,
+
+to pink medical mask, and so on,
+
+there's all variety
+of very interesting ideas
+
+that get amplified
+by the daily press conference.
+
+DB: That's beautiful.
+
+Now -- oh, Whitney is back,
+
+so I will let her ask the next question.
+
+WPR: Sure, we're having
+some more questions come in.
+
+One from our community member Aria Bendix.
+
+Aria asked, "How do you ensure
+that digital campaigns act quickly
+
+without sacrificing accuracy?
+
+In the US, there was a fear
+of inciting panic about COVID-19
+
+in early January."
+
+AT: This is a great question.
+
+So most of the scientific ideas
+about the COVID are evolving, right?
+
+The efficacy of masks, for example,
+is a very good example,
+
+because the different characteristics
+of previous respiratory diseases
+
+respond differently to the facial mask.
+
+And so, our digital campaigns
+
+focus on the idea of getting
+the rough consensus through.
+
+So basically, it's a reflection
+of the society,
+
+through Polis, through Slido,
+through the joint platform,
+
+the various tools
+that vTaiwan has prototyped,
+
+we know that people are feeling
+a rough consensus about things
+
+and we're responding
+to the society, saying,
+
+"This is what you all feel
+
+and this is what we're doing
+to respond to your feelings.
+
+And the scientific consensus
+is still developing,
+
+but we know, for example,
+
+people feel that wearing a mask
+mostly protects you,
+
+because it reminds you
+to not touch your face
+
+and wash your hands properly."
+
+And these, regardless of everything else,
+
+are the two things
+that everybody agrees with.
+
+So we just capitalize on that and say,
+
+"OK, wash your hands properly,
+
+and don't touch your face,
+
+and wearing a mask reminds you of that."
+
+And that lets us cut through
+
+the kind of, very ideologically
+charged debates
+
+and focus on what people
+generally resonate with one another.
+
+And that's how we act quickly
+without sacrificing scientific accuracy.
+
+WPR: And this next question
+sort of feels connected to this as well.
+
+It's a question from an anonymous
+community member.
+
+"Pragmatically, do you think
+any of your policies
+
+could be applied in the United States
+under the current Trump administration?"
+
+AT: Quite a few, actually.
+
+We work with many states
+in the US and abroad
+
+on what we call "epicenter
+to epicenter diplomacy." (Laughs)
+
+So what we're doing essentially is,
+
+for example,
+there was a chat bot in Taiwan
+
+that lets you, but especially
+people under home quarantine,
+
+to ask the chat bot anything.
+
+And if there is a scientific adviser
+
+who already wrote
+a frequently asked question,
+
+the chat bot just responds with that,
+
+but otherwise, they will call
+the science advisory board
+
+and write an accessible response to that,
+
+and the spokesdog would translate that
+into a cute dog meme.
+
+And so this feedback cycle
+
+of people very easily accessing,
+finding, and asking a scientist,
+
+and an open API
+that allows for voice assistance
+
+and other third-party developers
+to get through it,
+
+resonates with many US states,
+
+and I think many of them
+are implementing it.
+
+And before the World Health Assembly,
+I think three days before,
+
+we held a 14 countries
+[unclear] lateral meeting,
+
+kind of, pre-WHA,
+
+where we shared many small,
+like, quick wins like this.
+
+And I think many jurisdictions
+took some of that,
+
+including the humor versus rumor.
+
+Many of them said
+
+that they're going to recruit
+comedians now.
+
+WPR: (Laughs) I love that.
+
+DB: I hope so.
+
+WPR: I hope so too.
+
+And we have one more question,
+which is actually a follow-up,
+
+from Michael Backes,
+who asked a question earlier.
+
+"Does the Ministry plan
+to publish their plans in a white paper?"
+
+Sounds like you're already sharing
+your plans with folks,
+
+but do you have a plan
+to put it out on paper?
+
+AT: Of course.
+
+Yeah, and multiple white papers.
+
+So if you go to taiwancanhelp.us,
+
+that is where most of our strategy is,
+
+and that website is actually
+crowdsourced as well,
+
+and it shows that more
+than five million now, I think,
+
+medical masks donated
+to the humanitarian aid.
+
+It's also crowdsourced.
+
+People who have some masks in their homes,
+
+who did not collect the rationed masks,
+
+they can use an app, say,
+
+"I want to dedicate this
+to international humanitarian aid,"
+
+and half of them choose
+to publish their names,
+
+so you can also see the names
+of people who participated in this.
+
+And there's also
+an "Ask Taiwan Anything" website,
+
+(Laughs)
+
+at fightcovid.edu.tw,
+
+that outlines, in white paper form,
+all the response strategies,
+
+so check those out.
+
+WPR: Great.
+
+Well, I will disappear and be back
+later with some other questions.
+
+DB: A blizzard
+of white papers, if you will.
+
+I'd like to turn the focus
+on you a little bit.
+
+How does a conservative anarchist
+become a digital minister?
+
+AT: Yeah, by occupying
+the parliament, and through that.
+
+(Laughs)
+
+More interestingly,
+
+I would say that I go
+working with the government,
+
+but never for the government.
+
+And I work with the people,
+not for the people.
+
+I'm like this Lagrange point
+
+between the people's
+movements on one side
+
+and the government on the other side.
+
+Sometimes right in the middle,
+
+trying to do some coach
+or translation work.
+
+Sometimes in a kind of triangle point,
+
+trying to supply both sides with tools
+for prosocial communication.
+
+But always with this idea
+
+of getting the shared values
+out of different positions,
+
+out of varied positions.
+
+Because all too often,
+
+democracy is built as a showdown
+between opposing values.
+
+But in the pandemic, in the infodemic,
+
+in climate change,
+
+in many of those structural issues,
+
+the virus or carbon dioxide
+doesn't sit down and negotiate with you.
+
+It's a structural issue
+that requires common values
+
+built out of different positions.
+
+And so that is why my working principle
+is radical transparency.
+
+Every conversation, including this one,
+
+is on the record,
+
+including the internal
+meetings that I hold.
+
+So you can see all the different
+meeting transcripts
+
+in my YouTube channel,
+in the SayIt platform,
+
+where people can see,
+after I became digital minister,
+
+I held 1,300 meetings
+with more than 5,000 speakers,
+
+with more than 260,000 utterances.
+
+And every one of them has a URL
+
+that becomes a social object
+that people can have a conversation on.
+
+And because of that,
+
+for example, when Uber's David Plouffe
+visited me to lobby for Uber,
+
+because of radical transparency,
+
+he is very much aware of that,
+
+and so he made all the arguments
+based on public good,
+
+based on sustainability,
+and things like that,
+
+because he knows that the other sides
+would see his positions
+
+very clearly and transparently.
+
+So that encourages people
+to add on each other's argument,
+
+instead of attacking each other's person,
+
+you know, credits and things like that.
+
+And so I think that, more than anything,
+
+is the main principle of conserving
+the anarchism of the internet,
+
+which is about, you know,
+
+nobody can force anyone
+to hook to the internet,
+
+or to adhere to a new internet protocol.
+
+Everything has to be done
+using rough consensus and running code.
+
+DB: I wish you had more counterparts
+all around the world.
+
+Maybe you wish you had more
+counterparts all around the world.
+
+AT: That's why these ideas
+are worth spreading.
+
+DB: There you go.
+
+So one of the challenges that might arise
+with some of these digital tools
+
+is access.
+
+How do you approach that part of it
+
+for folks maybe who don't have
+the best broadband connection
+
+or the latest mobile phone
+or whatever it might be that's required?
+
+AT: Well, anywhere in Taiwan,
+
+even on the top of Taiwan,
+almost 4,000 meters high,
+
+the Saviah, or the Jade Mountain,
+
+you're guaranteed to have
+10 megabits per second
+
+over 4G or fiber or cable,
+
+with just 16 US dollars
+a month, an unlimited plan.
+
+And actually, on the top
+of the mountain, it's faster,
+
+fewer people use that bandwidth.
+
+And if you don't, it's my fault.
+
+It's personally my fault.
+
+In Taiwan, we have broadband
+as a human right.
+
+And so when we're deploying 5G,
+
+we're looking at places
+where the 4G has the weakest signal,
+
+and we begin with those places
+in our 5G deployment.
+
+And only by deploying broadband
+as a human right
+
+can we say that this is for everybody.
+
+That digital democracy
+actually strengthens democracy.
+
+Otherwise, we would be excluding
+parts of the society.
+
+And this also applies to, for example,
+
+you can go to a local
+digital opportunity center
+
+to rent a tablet that's guaranteed
+
+to be manufactured
+in the past three years,
+
+and things like that,
+
+to enable, also,
+the different digital access
+
+by the digital opportunity centers,
+universities and schools,
+
+and public libraries, very important.
+
+And if people who prefer to talk
+in their town hall,
+
+I personally go to that town hall
+with a 360 recorder,
+
+and livestream that to Taipei
+and to other municipalities,
+
+where the central government's
+public servants can join
+
+in a connected room style,
+
+but listening to the local people
+who set the agenda.
+
+So people still do face-to-face meetings,
+
+we're not doing this
+to replace face-to-face meetings.
+
+We're bringing more stakeholders
+
+from central government
+in the local town halls,
+
+and we're amplifying their voices
+
+by making sure the transcripts,
+the mind maps, and things like that
+
+are spread through
+the internet in real time,
+
+but we don't ever ask the elderly to, say,
+
+"Oh, you have to learn typing,
+otherwise you don't do democracy."
+
+It's not our style.
+
+But that requires broadband.
+
+Because if you don't have broadband,
+but only a very limited bandwidth,
+
+you are forced to use
+text-based communication.
+
+DB: That's right.
+
+Well, with access, of course,
+
+comes access for folks
+who maybe will misuse the platform.
+
+You talked a little bit
+about disinformation
+
+and using humor to beat rumor.
+
+But sometimes, disinformation
+is more weaponized.
+
+How do you combat those kinds
+of attacks, really?
+
+AT: Right, so you mean
+malinformation, then.
+
+So essentially, information designed
+to cause intentional public harm.
+
+And that's no laughing matter.
+
+So for that, we have an idea called
+"notice and public notice."
+
+So this is a Reuters photo,
+
+and I will read the original caption.
+
+The original caption says
+
+"A teenage extradition bill
+protester in Hong Kong
+
+is seen during a march to demand democracy
+and political reform in Hong Kong."
+
+OK, a very neutral title by the Reuters.
+
+But there was a spreading
+of malinformation
+
+back last November,
+
+just leading to our presidential election,
+
+that shows something else entirely.
+
+This is the same photo -- that says
+
+"This 13-year-old thug bought new iPhones,
+
+game consoles and brand-name sports shoes,
+
+and recruiting his brothers
+to murder police
+
+and collect 200,000 dollars."
+
+And this, of course, is a weapon
+designed to sow discord,
+
+and to elicit in Taiwan's voters
+a kind of distaste for Hong Kong.
+
+And because they know
+that this is the main issue.
+
+And had we resorted to takedowns,
+
+that will not work,
+
+because that would only
+evoke more outrage.
+
+So we didn't do a takedown.
+
+Instead, we worked with the fact checkers
+
+and professional journalists
+
+to attribute this original message
+back to the first day that it was posted.
+
+And it came from Zhongyang Zhengfawei.
+
+That is the main political and legal unit
+of the central party,
+
+in the Central Communist Party, in CCP.
+
+And we know that it's their Weibo account
+that first did this new caption.
+
+So we sent out a public notice
+
+and with the partners
+in social media companies,
+
+pretty much all of them,
+
+they just put this very small reminder
+
+next to each time that this is shared
+with the wrong caption,
+
+that says "This actually came
+from the central propaganda unit
+
+of the CCP.
+
+Click here to learn more.
+To learn about the whole story."
+
+And that, we found, that has worked,
+
+because people understand
+this is then not a news material.
+
+This is rather an appropriation
+of Reuters' news material
+
+and a copyright infringement
+
+and I think that's part of the [unclear].
+
+In any case, the point
+is that when people understand
+
+that this is an intentional narrative,
+
+they won't just randomly share it.
+
+They may share it,
+but with a comment that says
+
+"This is what the Zhongyang Zhengfawei
+is trying to do to our democracy."
+
+DB: Seems like some
+of the global social media companies
+
+could learn something
+from notice and public notice.
+
+AT: Public notice, that's right.
+
+DB: What advice would you have
+
+for the Twitters and Facebooks
+and LINEs and WhatsApps,
+
+and you name it, of the world?
+
+AT: Yeah.
+
+So, just before our election,
+
+we said to all of them
+
+that we're not making a law
+to kind of punish them.
+
+However, we're sharing
+this very simple fact
+
+that there is this norm in Taiwan
+
+that we even have a separate branch
+of the government,
+
+the control branch,
+
+that published the campaign
+donation and expense.
+
+And it just so occurred to us
+
+that in the previous election,
+the mayoral one,
+
+there was a lot of candidates
+
+that did not include
+any social media advertisements
+
+in their expense to the Control Yuan.
+
+And so essentially, that means
+that there is a separate amount
+
+of political donation and expense
+that evades public scrutiny.
+
+And our Control Yuan
+published their numbers
+
+in raw data form,
+
+that is to say, 
+they're not statistics,
+
+but individual records
+of who donated for what cause,
+
+when, where,
+
+and investigative journalists
+are very happy,
+
+because they can then make
+investigative reports
+
+about the connections
+between the candidates
+
+and the people who fund them.
+
+But they cannot work
+with the same material
+
+from the global social media companies.
+
+So I said, "Look, this is very simple.
+
+This is the social norm here,
+
+I don't really care
+about other jurisdictions.
+
+You either adhere to the social norm
+that is set by the Control Yuan
+
+and the investigative journalists,
+
+or maybe you will face social sanctions.
+
+And this is not the government mandate,
+
+but it's the people fed up with,
+you know, black box,
+
+and that's part of the Sunflower
+Occupy's demands, also.
+
+And so Facebook actually published
+in the Ad Library,
+
+I think at that time,
+one of the fastest response strategies,
+
+where everybody who has
+basically any dark pattern advertisement
+
+will get revealed very quickly,
+
+and investigative journalists
+work with the local civic technologists
+
+to make sure that if anybody dare to use
+social media in such a divisive way,
+
+within an hour, there will be
+a report out condemning that.
+
+So nobody tried that during
+the previous presidential election season.
+
+DB: So change is possible.
+
+AT: Mhm.
+
+WPR: Hey there, we have
+some more questions from the community.
+
+There is an anonymous one
+
+that says, "I believe Taiwan
+is outside WHO entirely
+
+and has a 130-part preparation program --
+
+developed entirely on its own --
+
+to what extent does it credit
+its preparation
+
+to building its own system?"
+
+AT: Well, a little bit, I guess.
+
+We tried to warn the WHO,
+
+but at that point --
+
+we are not totally outside,
+we have limited scientific access.
+
+But we do not have any ministerial access.
+
+And this is very different, right?
+
+If you only have limited
+scientific access,
+
+unless the other side's top epidemiologist
+happens to be the vice president,
+
+like in Taiwan's case,
+
+they don't always do
+the storytelling well enough
+
+to translate that into political action
+as our vice president did, right?
+
+So the lack of ministerial
+access, I think,
+
+is to the detriment
+of the global community,
+
+because otherwise,
+people could have responded as we did
+
+in the first day of January,
+
+instead of having to wait for weeks
+
+before the WHO declared
+that this is something,
+
+that there's definitely
+human to human transmission,
+
+that you should inspect people
+coming in from Wuhan,
+
+which they eventually did,
+
+but that's already two weeks
+or three weeks after what we did.
+
+WPR: Makes a lot of sense.
+
+DB: More scientists
+and technologists in politics.
+
+That sounds like that's the answer.
+
+AT: Yeah.
+
+WPR: And then we have another
+question here from Kamal Srinivasan
+
+about your reopening strategy.
+
+"How are you enabling restaurants
+and retailers to open safely in Taiwan?"
+
+AT: Oh, they never closed, so ... (Laughs)
+
+WPR: Oh!
+
+AT: Yeah, they never closed,
+
+there was no lockdown,
+there was no closure.
+
+We just said a very simple thing
+in the CECC press conference,
+
+that there's going to be
+physical distancing.
+
+You maintain one and a half meters indoors
+
+or wear a mask.
+
+And that's it.
+
+And so there are some restaurants
+that put up, I guess, red curtains,
+
+some put very cute teddy bears
+and so on, on the chairs,
+
+to make sure that people spread evenly,
+
+some installed see-through
+glass or plastic walls
+
+between the seats.
+
+There's various social
+innovations happening around.
+
+And I think the only shops
+that got closed for a while,
+
+because they could not innovate
+quick enough to respond to these rules,
+
+was the intimate escort bars.
+
+But eventually,
+even they invented new ways,
+
+by handing out these caps
+that are plastic shielding,
+
+but still leaves room
+for drinking behind it.
+
+And so they opened
+with that social innovation.
+
+DB: That's amazing.
+
+WPR: It is, yeah, it's a lot to learn
+from your strategies there.
+
+Thank you, I'll be back towards the end
+with some final questions.
+
+DB: I'm very happy to hear
+that the restaurants were not closed down,
+
+because I think Taipei
+has some of the best food in the world
+
+of any city that I've visited,
+
+so, you know, kudos to you for that.
+
+So the big concern when it comes
+to using digital tools for COVID
+
+or using digital tools for democracy
+
+is always privacy.
+
+You've talked about that a little bit,
+
+but I'm sure the citizens of Taiwan
+
+are perhaps equally concerned
+about their privacy,
+
+especially given the geopolitical context.
+
+AT: Definitely.
+
+DB: So how do you cope with those demands?
+
+AT: Yeah, we design
+with not only defensive strategy,
+
+like minimization of data collection,
+
+but also proactive measures,
+
+such as privacy-enhancing technologies.
+
+One of the top teams
+that emerged out of our cohack,
+
+the TW response from the Polis,
+
+how to make contact tracing easier,
+
+focused not on the contact tracers,
+
+not on the medical officers,
+but on the person.
+
+So they basically said,
+"OK, you have a phone,
+
+you can record your temperatures,
+
+you can record your whereabouts
+and things like that,
+
+but that is strictly in your phone.
+
+It doesn't even use Bluetooth.
+
+So there's no transmission.
+
+Technology uses open-source,
+
+you can check it,
+you can use it in airplane mode.
+
+And when the contact tracer
+eventually tells you
+
+that you are part of a high-risk group,
+
+and they really want your contact history,
+
+this tool can then generate
+a single-use URL
+
+that only contains
+the precise information,
+
+anonymized,
+
+that the contact tracers want.
+
+But it will not,
+like in a traditional interview,
+
+let you ask --
+
+they ask a question, they only want
+to know your whereabouts,
+
+but you answer with such accuracy
+
+that you end up compromising
+other people's privacy.
+
+So basically, this is about designing
+
+with an aim to enhance
+other people's privacy,
+
+because personal data
+is never truly personal.
+
+It's always social,
+it's always intersectional.
+
+If I take a selfie at a party,
+
+I inadvertently also take
+pretty much everybody else's
+
+who are in the picture, the surroundings,
+the ambiance, and so on,
+
+and if I upload it to a cloud service,
+
+then I actually decimate
+the bargaining power,
+
+the negotiation power
+of everybody around me,
+
+because then their data
+is part of the cloud,
+
+and the cloud doesn't have to
+compensate them
+
+or get their agreement for it.
+
+And so only by designing the tools
+
+with privacy enhancing
+as a positive value,
+
+and not enhancing only
+the person's own privacy,
+
+just like a medical mask, it protects you,
+
+but mostly it also protects others, right?
+
+So if we design tools using that idea,
+
+and always open-source
+and with an open API,
+
+then we're in a much better shape
+
+than in centralized or so-called
+cloud-based services.
+
+DB: Well, you're clearly
+living in the future,
+
+and I guess that's quite literal,
+
+in the sense of,
+it's tomorrow morning there.
+
+AT: Twelve hours.
+
+DB: Yes.
+
+Tell me, what do you see in the future?
+
+What comes next?
+
+AT: Yes, so I see the coronavirus
+as a great amplifier.
+
+If you start with
+an authoritarian society,
+
+the coronavirus,
+with all its lockdowns and so on,
+
+has the potential of making it
+even a more totalitarian society.
+
+If people place their trust, however,
+
+on the social sector,
+
+on the ingenuity of social innovators,
+
+then the pandemic, as in Taiwan,
+
+actually strengthens our democracy,
+
+so that people feel, truly,
+that everybody can think of something
+
+that improves the welfare
+of not just Taiwan,
+
+but pretty much everybody
+else in the world.
+
+And so, my point here
+
+is that the great amplifier
+comes if no matter you want it or not,
+
+but the society, what they can do,
+is do what Taiwan did after SARS.
+
+In 2003, when SARS came,
+
+we had to shut down an entire hospital,
+
+barricading it with no definite
+termination date.
+
+It was very traumatic,
+
+everybody above the age of 30
+remembers how traumatic it was.
+
+The municipalities
+
+and the central government
+were saying very different things,
+
+and that is why after SARS,
+
+the constitutional courts
+charged the legislature
+
+to set up the system as you see today,
+
+and also that is why,
+
+when people responding
+to that crisis back in 2003
+
+built this very robust response system
+that there's early drills.
+
+So just as the Sunflower Occupy,
+
+because of the crisis in trust
+let us build new tools
+
+that put trust first,
+
+I think the coronavirus is the chance
+for everybody who have survived
+
+through the first wave
+
+to settle on a new set of norms
+that will reinforce your founding values,
+
+instead of taking on alien values
+in the name of survival.
+
+DB: Yeah, let's hope so,
+
+and let's hope the rest of the world
+is as prepared as Taiwan
+
+the next time around.
+
+When it comes to digital
+democracy, though,
+
+and digital citizenship,
+
+where do you see that going,
+
+both in Taiwan and maybe
+in the rest of the world?
+
+AT: Well, I have my job description here,
+
+which I will read to you.
+
+It's literally my job description
+and the answer to that question.
+
+And so, here goes.
+
+When we see the internet of things,
+
+let's make it the internet of beings.
+
+When we see virtual reality,
+
+let's make it a shared reality.
+
+When we see machine learning,
+
+let's make it collaborative learning.
+
+When we see user experience,
+
+let's make it about human experience.
+
+And whenever we hear
+the singularity is near,
+
+let us always remember
+
+the plurality is here.
+
+Thank you for listening.
+
+DB: Wow.
+
+I have to give that a little clap,
+
+that was beautiful.
+
+(Laughs)
+
+Quite a job description too.
+
+So, conservative anarchist,
+
+digital minister,
+and with that job description --
+
+that's pretty impressive.
+
+AT: A poetician, yes.
+
+DB: (Laughs)
+
+So I struggle to imagine
+
+an adoption of these techniques in the US,
+
+and that may be my pessimism weighing in.
+
+But what words of hope do you have
+for the US, as we cope with COVID?
+
+AT: Well, as I mentioned,
+during SARS in Taiwan,
+
+nobody imagined we could have
+CECC and a cute spokesdog.
+
+Before the Sunflower movement,
+during a large protest,
+
+there was, I think, half a million
+people on the street, and many more.
+
+Nobody thought that we could have
+a collective intelligence system
+
+that puts open government data
+
+as a way to rebuild citizen participation.
+
+And so, never lose hope.
+
+As my favorite singer, Leonard Cohen --
+a poet, also -- is fond of saying,
+
+"Ring the bells that still can ring
+
+and forget any perfect offering.
+
+There is a crack in everything
+and that is how the light gets in."
+
+WPR: Wow.
+
+That's so beautiful,
+
+and it feels like such a great message
+to, sort of, leave the audience with,
+
+and sharing the sentiment
+
+that everyone seems to be so grateful
+for what you've shared, Audrey,
+
+and all the great information
+and insight into Taiwan's strategies.
+
+AT: Thank you.
+
+WPR: And David --
+
+DB: I was just going to say,
+thank you so much for that,
+
+thank you for that beautiful
+job description,
+
+and for all the wisdom you shared
+in rapid-fire fashion.
+
+I think it wasn't just one idea
+that you shared,
+
+but maybe, I don't know, 20, 30, 40?
+
+I lost count at some point.
+
+AT: Well, it's called
+Ideas Worth Spreading,
+
+it's a plural form.
+
+(Laughter)
+
+DB: Very true.
+
+Well, thank you so much for joining us.
+
+WPR: Thank you, Audrey.
+
+DB: And I wish you luck with everything.
+
+AT: Thank you, and have a good local time.
+
+Stay safe.

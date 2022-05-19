@@ -1,0 +1,185 @@
+Maybe the fates got clumsy.
+
+Maybe Poseidon had one of his angry days.
+
+However it happened, 
+the underworld is overcrowded,
+
+and Zeus has ordered Hades
+to let some spirits out.
+
+Hades arranges all the souls
+of the dead in a line before Cerberus.
+
+When one of his three heads bites 
+down on the soul in front of it,
+
+they’ll get returned 
+to the land of the living.
+
+Anyone to the left must get out 
+of line and stay in Hades forever.
+
+And everyone else shuffles forward,
+at which point Cerberus will feed again.
+
+Each of the dog’s heads has an equal
+chance of being the one to bite each time,
+
+and no two ever bite simultaneously.
+
+Unfortunately, Hades’ minions forgot
+to tell you what was happening,
+
+and by the time you show up 
+there are only 99 souls left in line.
+
+Hades looks furious and drawing attention
+to yourself won’t end well.
+
+But suddenly, time freezes, 
+and Hermes steps out of the shadows.
+
+He tells you he can instantly put 
+you into the line,
+
+and no one will realize what happened.
+
+But he’ll only grant his grace 
+to someone clever enough
+
+to take full advantage of it.
+
+Choose the best place in line 
+and he’ll give you the spot.
+
+Choose wrong, and he’ll leave you to rot.
+
+Which spot should you pick?
+
+Pause the video to figure it out yourself.
+
+Answer in 3
+
+Answer in 2
+
+Answer in 1
+
+It’s possible to calculate the exact 
+probability of going free
+
+in all 100 spots.
+
+But there’s a much simpler path 
+to the solution
+
+that requires surprisingly
+little calculation.
+
+Imagine being anywhere in line.
+
+Way up at the front, one of the three
+heads will pick someone at random,
+
+and you’ll move forward 1, 2, or 3 spaces.
+
+Since each is equally likely,
+
+your chance of survival 
+from wherever you started
+
+is the average of the chances from
+each of the three spaces in front of you.
+
+And this is where you can
+find a huge shortcut.
+
+Averages must be on or between 
+the extremes of what you’re averaging—
+
+they can never be higher 
+than the highest value
+
+or lower than the lowest.
+
+So whatever your chances of survival
+are where you start,
+
+one of the three places in front 
+of you is at least as good,
+
+and probably better.
+
+This observation is incredibly powerful.
+
+It means that wherever you are in line,
+
+it’d be wise to trade your place for one
+of the three spots in front of you.
+
+Let’s ignore which for now and think 
+of them as a trio—
+
+this trio’s maximum value 
+is better than this trio’s, and so on.
+
+Keep going and you’ll reach the front...
+
+These three spots must contain 
+the extreme values—
+
+the best and worst probabilities—
+
+for the entire line.
+
+In other words,
+they’re all we need to consider.
+
+Place 1 is bad.
+
+Head one would save you, and the other
+two doom you forever.
+
+That’s just a 1 in 3 chance to escape.
+
+Place 2 is better: head two is great,
+
+head 3 is bad, and head 1 is ok
+in that it gives you another chance.
+
+But place 3 is best, 
+because head 3 saves you
+
+while heads 1 and 2 both
+give you extra chances.
+
+If you did want to consider 
+the exact probabilities,
+
+the odds of surviving in place 3 
+are 16 out of 27, or close to 60%.
+
+The spots later in line tend to be very 
+close to having a 50% chance of survival.
+
+Why 50%?
+
+Because every time Cerberus sends
+one soul up to be reborn,
+
+he leaves 0, 1, or 2 souls
+in the underworld.
+
+That averages out to one person
+staying for each one who gets freed.
+
+But you can beat those odds handily
+with what you now know.
+
+Hermes has places to be, and so do you.
+
+He rewards your insight by sneaking 
+you into the third spot.
+
+And from there it’ll be just a short wait 
+to learn your ultimate fate.

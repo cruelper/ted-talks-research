@@ -1,0 +1,557 @@
+It was a strange feeling,
+walking into the local supermarket,
+
+only to find empty shelves,
+
+and, most notably, no toilet paper.
+
+We didn't have raw-material shortages
+or manufacturing defects,
+
+and we didn't discover
+new uses for toilet paper.
+
+It was panic buying by everyday people.
+
+Supply chains just couldn't keep up.
+
+And before we knew it,
+the rumored shortage became a real one.
+
+You remember that, don't you?
+
+Well, maybe not, because
+I'm not talking about COVID-19.
+
+I'm talking about the great
+toilet paper shortage of 1973.
+
+And it wasn't caused by a pandemic,
+
+but by a joke told by Johnny Carson.
+
+But today's supply-chain
+challenges are no joke.
+
+Those problems are real,
+
+but they're problems that we've faced,
+and even solved, in the past.
+
+A supply chain is the long
+and often complicated journey
+
+that any item takes
+before it winds up in your home.
+
+Raw materials are mined or grown
+
+and sold to various suppliers.
+
+Those suppliers sell them
+to manufacturers,
+
+who transform those raw materials
+into finished goods.
+
+And those finished goods
+are moved around the world
+
+by distributors and carriers,
+
+who, in turn, sell them to retailers,
+
+who sell those to consumers
+as a final step.
+
+Many supply chains are simple,
+
+like when you buy strawberries
+at a local farmers market.
+
+But some are almost infinitely complex.
+
+In my 14 years working with companies
+on improving their supply chains,
+
+I've seen many disruptions,
+from natural disasters to pandemics
+
+and geopolitical instability.
+
+And every time, the media
+talks about how, from this point,
+
+companies can and will
+make their supply chains more resilient,
+
+and the common prescriptions
+include diversifying risk,
+
+better forecasting the future
+
+and building buffers,
+like stockpiles of inventory
+
+or more manufacturing equipment.
+
+And this is good advice.
+
+But the question I keep asking myself is:
+
+“Why haven’t more companies
+taken this advice?”
+
+The reason is that it doesn't stand up
+against competing priorities
+
+and steep competition that occurs
+between the crises and shocks.
+
+So if we want to build
+more resilient supply chains
+
+that can withstand the next great crisis,
+
+then we need to bring new ideas
+that can withstand competitive pressures.
+
+Let's talk about sharing risk,
+
+radical transparency
+and automated recommendations.
+
+These three ideas,
+if we take them together,
+
+have the potential
+to help break the trade-off
+
+between resilience and efficiency.
+
+An obvious solution to supply shortages
+is to build more buffers,
+
+so that if anything happens
+along the supply chain,
+
+the next recipient
+isn't waiting empty-handed.
+
+Retail stores can never
+perfectly predict what we'll buy,
+
+so they carry extra inventory.
+
+They might run out of a particular size
+or particular color,
+
+but it’s unlikely that they’ll run out
+of an entire category, like jeans.
+
+But we know, across industries,
+
+companies carry less of that backup
+inventory than they used to.
+
+And we have immense product variety.
+
+But much of what we buy
+
+is made in highly specialized
+or automated factories,
+
+and that makes it harder to repurpose
+that capacity when demand changes.
+
+That's why during COVID-19,
+
+those toilet-paper manufacturers
+had enough capacity,
+
+but they didn't have
+the right kind of capacity.
+
+Commercial toilet paper is very different
+from what we consumers use at home.
+
+They could have met demand,
+
+but it would have meant shoppers lugging
+home rolls that are nine inches wide,
+
+and clearly designed for cost,
+not for comfort.
+
+(Laughter)
+
+Streamlining supply chains
+
+is a big reason why we consumers have
+incredible choices at low prices.
+
+And for many companies,
+
+warehousing extra raw materials
+
+or keeping idle equipment
+on the factory floor
+
+is simply too expensive.
+
+Competition is steep as it is.
+
+But buffers matter in a crisis.
+
+So how do we get similar benefits,
+but in a different way?
+
+We can share or pool risk.
+
+It's much like a well-established industry
+that we all know well --
+
+insurance.
+
+It's unlikely that you'll ever get
+into a major car accident,
+
+but if you do,
+it will be horribly expensive.
+
+That's why, for low-probability,
+high-impact events,
+
+we share risk,
+
+and in some instances, like car insurance,
+
+we even require it.
+
+We could do the same thing
+in supply chains.
+
+Industry players could team up to share
+the cost of keeping extra raw materials,
+
+key components or even machinery,
+
+in exchange for an ongoing shared fee,
+
+and only to be used in times of a crisis.
+
+For example,
+
+many countries stockpile
+important medicines,
+
+but relatively few keep
+their active ingredients, or "APIs."
+
+Pharmaceutical companies could share
+the cost of storing extra APIs
+
+during normal times.
+
+Then, in a crisis,
+
+drug manufacturers
+could dip into that supply
+
+to avoid running out
+of these important medicines.
+
+Again, it's just like insurance,
+
+except instead of pooling money,
+we're pooling a physical resource.
+
+And importantly, it would be paid for,
+and so not seen as pure waste.
+
+But in order to do this, we need to know
+who shares the same risks.
+
+And in order to know that,
+
+we need a radical improvement
+in supply-chain transparency.
+
+Right now, seemingly everything
+we want to buy is delayed
+
+because of a lack of microprocessors,
+
+even cars.
+
+But how could the auto industry --
+
+arguably the industry that invented
+supplier collaboration
+
+and supply-chain visibility --
+
+be caught by surprise?
+
+Microprocessors power the computers
+
+that, increasingly, make our cars work
+the way they're supposed to.
+
+And early in the COVID-19 pandemic,
+
+auto manufacturers canceled orders
+for microprocessors
+
+out of fear that car sales would plummet.
+
+And around the same time,
+
+demand for those microprocessors
+in consumer electronics went way up.
+
+Parents bought tablets
+so their kids could learn from home,
+
+newly remote workers bought laptops.
+
+Then, a fire at a chip plant
+
+meant fewer of these microprocessors
+were even being made.
+
+And by the time car sales
+began to recover,
+
+microprocessors were on back order.
+
+In other words,
+
+the reason why automotive companies
+can't get the microprocessors they need
+
+has little, if anything, to do
+with the automotive industry.
+
+And this is a good example
+of a broader problem.
+
+In supply chain,
+
+your risks are not tied only
+to your customers or to your competitors,
+
+but also to those companies
+who are using the same inputs.
+
+I doubt Ford considers the PlayStation 5
+to be a competitor to the F-150,
+
+but in this case, they could have been
+competing for the same, scarce resource.
+
+And that's why we need a radical
+improvement in supply-chain transparency.
+
+It's not enough to know
+who your suppliers are.
+
+You have to know
+who your supplier's suppliers are,
+
+where those supplier’s suppliers
+get their raw materials,
+
+who else is buying from those suppliers,
+
+and who else is competing
+for those raw materials.
+
+Often what looks like several
+unrelated product lines
+
+can be traced back to a single source.
+
+We think we have diversified
+supply chains, but we don't.
+
+We have a supply web.
+
+And if key players in that web fail,
+
+then many supply chains
+are in big trouble.
+
+If we want more resilient supply chains,
+
+then we need accurate,
+up-to-date maps of key inputs
+
+and where they come from,
+
+in any given industry.
+
+Supply-chain managers
+are, fundamentally, planners.
+
+They analyze and interpret information,
+
+and they revise their plans
+to efficiently meet expected demand
+
+with a steady stream of supply.
+
+Supply-chain control towers bring
+all of that information into one place,
+
+and better data should help
+better decision-making.
+
+But too much data
+can simply be overwhelming,
+
+and that's why we need
+technology to help us.
+
+The good news is that advances
+in data mining,
+
+artificial intelligence
+and machine learning
+
+increasingly mean
+that computers can help us
+
+analyze thousands or millions
+of points of data,
+
+predict problems
+before they arise, notify managers
+
+and even recommend actions to take.
+
+Right now, some types of plastics
+are in short supply.
+
+Plastic resin manufacturers
+decreased production,
+
+dealing with COVID-19 outbreaks.
+
+But by the time they began to recover,
+
+they were hit with a string
+of natural disasters,
+
+from Hurricane Laura
+on the Gulf Coast in 2020
+
+to a brutal winter storm
+in the South in 2021.
+
+No amount of data-sharing
+could have told us
+
+what companies would be affected,
+
+what companies don't use plastics.
+
+But a computer could have helped
+spot the problem among the data points.
+
+Decreased production
+and COVID-19 lockdowns,
+
+combined with severe weather,
+
+a surge in demand for plastic packaging
+as grocery sales grew,
+
+and a spike in trucking rates
+
+would have been enough to trigger
+some warnings in specific areas,
+
+and then notify managers
+and recommend what they might do about it.
+
+"Hey, this supplier is looking risky.
+
+Do you have a chance
+to order from somebody else?
+
+Maybe start calling
+other trucking companies
+
+to make sure you get
+your supplies on time,
+
+and we should notify these customers
+that their orders might be delayed."
+
+This is similar
+to how the airline industry
+
+manages passenger delays
+and missed connections.
+
+Computers analyze data
+on available flights, weather conditions,
+
+passenger locations
+and passenger destinations,
+
+to reroute hundreds or even thousands
+of people in a day.
+
+And we could do the same thing
+in a supply chain.
+
+I don’t want to sound
+
+like the things supply chain managers
+have done haven’t helped,
+
+but we can do better.
+
+When the virus struck,
+
+we faced a dire need for N95 respirators
+and personal protective equipment.
+
+Government stockpiles
+of N95s were depleted,
+
+hospital orders were backlogged
+two to three years,
+
+and health-care workers
+reused single-use protective equipment.
+
+But again, I'm not talking about COVID-19.
+
+I'm talking about the 2009 outbreak
+of the H1N1 flu.
+
+And we have to stop repeating
+the same mistakes.
+
+So let's be imaginative
+
+about how we challenge
+businesses and government
+
+to use shared risk,
+
+supply-chain transparency
+and automated recommendations
+
+to make our supply chains more resilient.
+
+Because if they do,
+
+we can be more resilient too.
+
+Thank you.
+
+(Cheers and applause)

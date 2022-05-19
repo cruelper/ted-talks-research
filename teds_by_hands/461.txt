@@ -1,0 +1,427 @@
+It's Monday morning.
+
+You've just received a voice notification
+from your voice assistant.
+
+Voice assistant: Good morning.
+
+There's a new pair of pants
+on sale at your favorite store.
+
+Last week, while wearing
+your smart glasses,
+
+you were drawn to a similar
+pair on a colleague.
+
+Would you like to wear them
+to the party on Thursday?
+
+I suggest you skip the movies
+tomorrow night to afford them.
+
+Say "yes" to validate the purchase.
+
+Let me know if I should also
+find a gift for your host.
+
+I can make suggestions
+based on your budget
+
+and her public Instagram profile.
+
+Say "yes" to proceed.
+
+Karen Lellouche Tordjman: Yes.
+
+So, thrilling or scary?
+
+Because this is how our future
+could look very soon.
+
+As a working mom, I find it exciting.
+
+I would love to stop
+doing Google searches,
+
+wasting time doing Amazon scrolling,
+budget calculation
+
+or optimizing my calendar.
+
+What is thrilling is the prospect
+of having a companion
+
+that would cater specifically
+to my needs and requests.
+
+Just imagine, it could do things,
+like using my heart rate
+
+to tweak my Starbucks order
+to reduce caffeine.
+
+It could take into account my lunch
+and the number of steps I've walked
+
+to tailor a workout for me.
+
+It could even align
+with my friend's smart assistant
+
+to craft evening plans
+
+that would fit everyone's budget,
+calendars and locations.
+
+Obviously, this scenario could easily
+lean towards the scary.
+
+This is why there needs to be
+regulation in place.
+
+All users, all consumers, should always
+remain in full control of data they share
+
+and on which type of recommendations
+they agree to get or not to get.
+
+Now, recommendation engines powered
+by artificial intelligence are not new.
+
+Far from it.
+
+We actually use them
+multiple times a day already.
+
+On average, 70 percent
+of the time spent on YouTube
+
+is on videos recommended
+by their algorithm.
+
+And you may also own a wristband
+that you use to track your sleep
+
+or monitor your workout.
+
+And there's the first generation
+of voice-enabled virtual assistants.
+
+You know, like Google Home or Amazon Alexa
+
+that you can use to change
+the temperature of your room.
+
+Your car as well is probably equipped
+with the same things
+
+that can help you manage your music
+
+or give you directions, hands-free.
+
+But there is one thing
+that all these tools have in common.
+
+They leverage AI to help you
+in one specific area of your life.
+
+Your home, your car, your health.
+
+They stay in the lane.
+
+Now imagine a new generation
+of voice assistants
+
+that crosses all lanes,
+
+that synchronizes everything.
+
+So you may ask,
+why hasn't this happened already?
+
+Because there are two technological bricks
+that are critical to make this happen
+
+that are still missing.
+
+One is voice.
+
+These tools must be able
+to understand everything we say.
+
+And clearly, this is not the case today.
+
+For my kids, maybe yours as well,
+
+Siri is still an endless source of fun.
+
+They like asking very simple questions
+
+and still get very confused answers.
+
+Two, breadth.
+
+They must be able to provide
+a large range of recommendations
+
+to cover whatever we may need.
+
+So tech players are still working
+on cracking those two elements,
+
+voice and breadth.
+
+On voice, as I said, Alexa,
+Google Home, Siri and the likes,
+
+they don't understand us entirely
+and systematically for now.
+
+Actually, understanding
+human language is difficult.
+
+It's as much about the context
+
+as it is about the words themselves.
+
+And think about the accents
+or background noise.
+
+It's already very difficult for Americans
+
+to understand French people
+speaking English,
+
+(Laughter)
+
+so can you imagine how difficult
+it can be for a robot?
+
+So tech players are working hard on this.
+
+In 2018, Google launched
+an investment program
+
+for start-ups that would work
+with their Google Home suites.
+
+And since then, they have invested
+in over 15 companies.
+
+Amazon has 10,000 employees
+
+working on Alexa voice technologies.
+
+So they will eventually crack
+the voice issues.
+
+The smart assistants will be able
+to understand what we say,
+
+the meaning of the words in their context.
+
+For example, if I’m using my smart
+assistant, and I’m listening to music,
+
+and then I say, "Change."
+
+VA: Hi, Karen.
+
+Do you want to change
+the temperature of the room?
+
+KLT: Well, clearly
+this is not working yet,
+
+but in the future,
+
+it will understand that I'm talking
+about changing the track,
+
+not changing the temperature of the room.
+
+It will also understand
+our long and complex requests.
+
+You know, when we start saying something
+
+and then we change our mind mid-sentence.
+
+But that doesn't stop here.
+
+With far-field speech recognition,
+
+you will be able to use it
+from a distance,
+
+from a room to another.
+
+Even with background noise
+like kids screaming or traffic.
+
+(Kids shout, whistle blows)
+
+Tremendous progress
+has been made on this recently,
+
+largely due to Amazon's efforts
+on their Echo speaker technology.
+
+Not only that.
+
+It will be able to understand
+in which mood you’re in --
+
+joy, sadness, annoyance --
+
+and will be able to mimic
+these feelings too.
+
+And as natural language processing
+advances further --
+
+so natural language processing
+is the technology behind this --
+
+so as it advances further,
+
+the voice-enabled interactions
+will increasingly be refined.
+
+Now, the second challenge
+and the biggest, in my opinion,
+
+revolves around the breadth
+of recommendations provided.
+
+Will they be able to --
+
+What will be their range of actions?
+
+Will they remain limited
+to very specific tasks,
+
+or will they be able to become
+a true companion across your day
+
+to which you can ask whatever you want,
+
+whatever you need?
+
+For example, taking notes in a meeting
+
+or reordering milk
+
+or even mental health coaching.
+
+Will they be able
+to provide you recommendations
+
+across product categories?
+
+Today,
+
+companies provide us recommendations
+within one specific category,
+
+for example, that can help us choose
+between two dresses,
+
+between two books.
+
+In the future, the smart assistants
+will actually be able to help us choose
+
+between buying a book or buying a dress.
+
+So to be able to deliver this integrated
+and large range of recommendations,
+
+tech teams behind smart assistants
+will need to design the right algorithms.
+
+And these algorithms will need
+to be powerful enough
+
+to process a myriad of data points.
+
+To identify patterns,
+
+to model courses of actions,
+
+and also to learn
+from end users' feedback.
+
+But, a world where smart assistants
+become unavoidable
+
+means new priorities for all companies,
+
+not only the smart assistant players.
+
+Every business in the future
+will need to accelerate drastically
+
+on data and algorithm,
+
+on voice-enabled interactions.
+
+And also, they will need to be
+entrusted by consumers
+
+to provide recommendations.
+
+This is what I like to
+summarize in three words,
+
+in the three imperatives
+that are data, tech and trust.
+
+So the moment the breadth challenge
+
+and the voice challenge get solved
+
+will be a tipping point
+
+in smart assistant usage
+and adoption by consumers.
+
+Today, can you live
+without your smartphone?
+
+I assume not, right?
+
+In a few years from now,
+
+your smart assistant will be a convenient,
+
+powerful, reliable helper
+
+essential in your day-to-day life.
+
+So you won't be able to live without it.
+
+And unlike your smartphones,
+
+it will be embedded
+in every device around you.
+
+Your smartphone itself, of course,
+
+but also your car, the mirrors,
+
+your fridge, your glasses
+
+and who knows what other
+device in the future.
+
+So are you ready for a smarter life?
+
+VA: Yes, Karen, I am.
+
+(Laughter)
+
+Thank you.
+
+(Applause)

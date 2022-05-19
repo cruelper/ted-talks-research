@@ -1,0 +1,405 @@
+NFTs are not a scam.
+
+NFTs are not a fad.
+
+In fact, NFTs are the building blocks
+of the internet of the future.
+
+But in order for us to see
+this future clearly,
+
+we first need to go back into the past.
+
+The year is 1992.
+
+The World Wide Web
+is only three years old.
+
+This is what it looks like.
+
+For the first time in human history,
+
+we share a global commons,
+
+where, irrespective of where we are
+in the physical world,
+
+we can convene
+and share information freely.
+
+Most people at that time
+couldn't see what it meant
+
+to be connected by
+a network of computers.
+
+In fact, many people thought
+the internet itself was a scam or a fad.
+
+But a few early internet pioneers
+saw the potential
+
+in this burgeoning technology.
+
+One of those early internet pioneers,
+John Perry Barlow,
+
+saw both the opportunities and pitfalls
+inherent in our new digital world.
+
+And, of early cyberspace,
+he posed a prescient riddle
+
+all the way back in 1992,
+
+that I'll paraphrase for you:
+
+"If our property can be
+infinitely reproduced
+
+and instantaneously distributed
+across the planet without cost,
+
+how are we going to protect it?
+
+How are we going to get paid
+for the work we do with our minds?
+
+And if we can't get paid,
+
+what will assure the continued creation
+and distribution of such work?”
+
+A lot has changed
+on the internet since 1992.
+
+The internet itself is an alive
+and evolving technology.
+
+And as predicted
+by its earliest champions,
+
+the internet has increasingly become
+our default context.
+
+Today, one's job, wealth,
+
+relationships, sense of self,
+
+are all often more mediated
+through our digital contexts
+
+than our physical ones.
+
+Yet, Barlow's riddle has remained
+vexingly unsolved.
+
+Concepts like property and ownership --
+
+ideas that have been with us
+for centuries in the physical world --
+
+have evaded us in our digital spaces.
+
+We’ve tried to foist copyright,
+
+DMCA,
+
+DRM and watermarks onto the internet
+to protect our ideas
+
+and to restrain their distribution.
+
+None of these approaches have worked.
+
+Why?
+
+Because, as Stewart Brand, another early
+internet pioneer, famously coined:
+
+information wants to be free.
+
+It wants to travel effortlessly,
+without hindrance, without encumbrance.
+
+This is what allowed the internet
+to succeed in the first place.
+
+Since 1992, we've uploaded trillions
+of photos and videos and even cat memes
+
+to the internet for free.
+
+And what business model has allowed
+this information to be free?
+
+Advertising.
+
+Advertising is the internet's
+default business model,
+
+not because that's what we want,
+but because it's what pays the bills.
+
+Right now, the few large corporations
+that run the most effective ad networks
+
+control most of the value
+on today's internet,
+
+not the people creating its content.
+
+On today's internet, we don't get paid
+for the work we do with our minds.
+
+And what's more, the content we upload
+to these services is trapped there.
+
+These services not only make money
+from our content, they control it.
+
+Until NFTs.
+
+NFTs are a technological breakthrough.
+
+They offer us the opportunity
+to break away from that broken system.
+
+So you're asking yourself: What is an NFT?
+
+It's a certificate of ownership
+registered on the blockchain
+
+for everyone to see.
+
+It's not too dissimilar
+to the deed you get
+
+when you buy a house
+in the physical world.
+
+But instead of a house, an NFT denotes
+ownership of a file on the internet.
+
+And unlike copyright or watermarks,
+
+which are ancient technologies
+rooted in bygone eras,
+
+NFTs are internet native.
+
+They are born of the internet
+for the internet.
+
+And NFTs don't simply port our existing
+model of ownership
+
+from the physical world,
+
+they improve it.
+
+In the physical world, ownership
+actually fences people out.
+
+It precludes others
+from enjoying what you own.
+
+I wouldn't expect to feel welcome
+in your home uninvited.
+
+Digital space, however, is expansive.
+
+It's home to the infinite,
+the exponential,
+
+the instantaneous.
+
+NFTs offer a system of ownership
+that reflects this expansiveness.
+
+With NFTs, my owning something
+doesn't preclude others from enjoying it.
+
+In fact, it's the opposite.
+
+The more an NFT is seen,
+appreciated and understood,
+
+the more possibility it has
+to increase in value.
+
+Let's take an example:
+
+Nyan Cat, a wildly popular,
+instantly recognizable cat meme.
+
+Since it was uploaded
+to the internet a decade ago,
+
+it has accumulated hundreds
+of millions of views.
+
+And precisely because of that virality,
+when it was auctioned as an NFT,
+
+it sold for 300 ETH,
+or the equivalent of over 600,000 dollars.
+
+And the person who now owns this NFT,
+they're not preventing anyone from liking,
+
+resharing or remixing Nyan Cat --
+
+Nyan Cat is free to travel the internet
+
+as it always has.
+
+What's different now is that,
+
+as Nyan Cat's popularity
+continues to grow,
+
+so can the value of the NFT.
+
+Because of NFTs,
+Chris Torres, Nyan Cat's creator,
+
+has received direct compensation
+for his creation.
+
+But what's more is he'll continue
+to receive compensation
+
+every single time the NFT is resold.
+
+This is because of the royalty system
+baked into the smart contracts
+
+that govern NFTs.
+
+NFTs are software; they can be programmed.
+
+And with something
+as complicated as royalties,
+
+which require enormous amounts
+of legal and manual labor to implement
+
+in our analog world,
+
+we can now express them
+in a few simple lines of code.
+
+This represents a breakthrough innovation
+
+for any industry predicated on
+royalty payments,
+
+such as publishing or music.
+
+And just as blogs and MP3s re-architected,
+these industries in decades past,
+
+NFTs will catalyze their next evolution.
+
+The internet dissolved
+our geographic boundaries.
+
+NFTs dissolve economic boundaries.
+
+Yatreda, an Ethiopian artist collective,
+created these beautiful portraits
+
+of heroes and heroines
+from Ethiopia's past.
+
+They sold them as NFTs,
+
+and in one weekend, they made 13 ETH,
+or the equivalent of over 40,000 dollars.
+
+And they were paid out instantly.
+
+No customs, no foreign exchange,
+no international wire transfers.
+
+An artist collective based
+out of Addis Ababa
+
+has the same economic tools
+at their disposal now
+
+as an artist in LA, New York or London.
+
+And while the NFTs
+for Nyan Cat and Yatreda
+
+were created and sold
+on the same platform,
+
+they're not confined there --
+remember: information wants to be free.
+
+And unlike the current internet,
+
+where information is made available
+through proprietary apps and platforms,
+
+NFTs are portable.
+
+Instead of living on
+a company's private servers,
+
+They live on decentralized infrastructure
+that is peer to peer,
+
+open and transparent.
+
+But understanding this complex
+decentralized infrastructure
+
+is not a prerequisite to understand
+what NFTs unlock for the human experience.
+
+Once digital value and ownership
+are no longer the sole domain
+
+of a few corporations,
+
+radical new possibilities emerge.
+
+In other words, 30 years later, NFTs
+finally solved John Perry Barlow's riddle.
+
+And this isn't science fiction;
+the technology already works.
+
+NFTs are already being used
+
+by the next generation
+of internet pioneers.
+
+And in the coming decade, NFTs will
+reshape the internet as we know it,
+
+with property rights baked into its code.
+
+So what does the internet
+of the future look like
+
+with NFTs as its building blocks?
+
+An internet where economic control rests
+in the hands of creators, not platforms.
+
+An internet where our ideas and creativity
+can be directly supported.
+
+An internet where information can be free,
+
+but where we get paid
+for the work we do with our minds.
+
+Thank you.
+
+(Applause)

@@ -1,0 +1,509 @@
+Hi, I'm Refik. I'm a media artist.
+
+I use data as a pigment
+
+and paint with a thinking brush
+
+that is assisted
+by artificial intelligence.
+
+Using architectural spaces as canvases,
+
+I collaborate with machines
+
+to make buildings dream and hallucinate.
+
+You may be wondering,
+what does all this mean?
+
+So let me please take you
+into my work and my world.
+
+I witnessed the power of imagination
+when I was eight years old,
+
+as a child growing up in Istanbul.
+
+One day, my mom brought home
+a videocassette
+
+of the science-fiction movie
+"Blade Runner."
+
+I clearly remember being mesmerized
+
+by the stunning architectural vision
+of the future of Los Angeles,
+
+a place that I had never seen before.
+
+That vision became
+a kind of a staple of my daydreams.
+
+When I arrived in LA in 2012
+
+for a graduate program
+in Design Media Arts,
+
+I rented a car and drove downtown
+
+to see that wonderful world
+of the near future.
+
+I remember a specific line
+
+that kept playing
+over and over in my head:
+
+the scene when the android Rachael
+
+realizes that her memories
+are actually not hers,
+
+and when Deckard tells her
+they are someone else's memories.
+
+Since that moment,
+
+one of my inspirations
+has been this question.
+
+What can a machine do
+with someone else's memories?
+
+Or, to say that in another way,
+
+what does it mean to be an AI
+in the 21st century?
+
+Any android or AI machine
+
+is only intelligent
+as long as we collaborate with it.
+
+It can construct things
+
+that human intelligence intends to produce
+
+but does not have the capacity to do so.
+
+Think about your activities
+and social networks, for example.
+
+They get smarter
+the more you interact with them.
+
+If machines can learn or process memories,
+
+can they also dream?
+
+Hallucinate?
+
+Involuntarily remember,
+
+or make connections
+between multiple people's dreams?
+
+Does being an AI in the 21st century
+simply mean not forgetting anything?
+
+And, if so,
+
+isn't it the most revolutionary thing
+that we have experienced
+
+in our centuries-long effort
+to capture history across media?
+
+In other words,
+
+how far have we come
+since Ridley Scott's "Blade Runner"?
+
+So I established my studio in 2014
+
+and invited architects,
+
+computer and data scientists,
+neuroscientists,
+
+musicians and even storytellers
+
+to join me in realizing my dreams.
+
+Can data become a pigment?
+
+This was the very first question we asked
+
+when starting our journey
+to embed media arts into architecture,
+
+to collide virtual and physical worlds.
+
+So we began to imagine
+what I would call the poetics of data.
+
+One of our first projects,
+"Virtual Depictions,"
+
+was a public data sculpture piece
+
+commissioned by the city of San Francisco.
+
+The work invites the audience
+
+to be part of a spectacular
+aesthetic experience
+
+in a living urban space
+
+by depicting a fluid network
+of connections of the city itself.
+
+It also stands as a reminder
+
+of how invisible data
+from our everyday lives,
+
+like the Twitter feeds
+that are represented here,
+
+can be made visible
+
+and transformed into sensory knowledge
+that can be experienced collectively.
+
+In fact, data can only become knowledge
+when it's experienced,
+
+and what is knowledge and experience
+can take many forms.
+
+When exploring such connections
+
+through the vast potential
+of machine intelligence,
+
+we also pondered the connection
+between human senses
+
+and the machines' capacity
+for simulating nature.
+
+These inquiries began
+while working on wind-data paintings.
+
+They took the shape of visualized poems
+
+based on hidden data sets
+that we collected from wind sensors.
+
+We then used generative algorithms
+
+to transform wind speed,
+gust and direction
+
+into an ethereal data pigment.
+
+The result was a meditative
+yet speculative experience.
+
+This kinetic data sculpture,
+titled "Bosphorus,"
+
+was a similar attempt to question
+our capacity to reimagine
+
+natural occurrences.
+
+Using high-frequency radar collections
+of the Marmara Sea,
+
+we collected sea-surface data
+
+and projected its dynamic movement
+with machine intelligence.
+
+We create a sense of immersion
+
+in a calm yet constantly changing
+synthetic sea view.
+
+Seeing with the brain
+is often called imagination,
+
+and, for me, imagining architecture
+
+goes beyond just glass, metal or concrete,
+
+instead experimenting with
+the furthermost possibilities of immersion
+
+and ways of augmenting
+our perception in built environments.
+
+Research in artificial intelligence
+is growing every day,
+
+leaving us with the feeling
+of being plugged into a system
+
+that is bigger and more knowledgeable
+
+than ourselves.
+
+In 2017, we discovered
+an open-source library
+
+of cultural documents in Istanbul
+
+and began working on "Archive Dreaming,"
+
+one of the first AI-driven
+public installations in the world,
+
+an AI exploring approximately
+1.7 million documents that span 270 years.
+
+One of our inspirations
+during this process
+
+was a short story
+called "The Library of Babel"
+
+by the Argentine writer Jorge Luis Borges.
+
+In the story, the author conceives
+a universe in the form of a vast library
+
+containing all possible 410-page books
+of a certain format and character set.
+
+Through this inspiring image,
+
+we imagine a way to physically explore
+the vast archives of knowledge
+
+in the age of machine intelligence.
+
+The resulting work, as you can see,
+
+was a user-driven immersive space.
+
+"Archive Dreaming" profoundly transformed
+the experience of a library
+
+in the age of machine intelligence.
+
+"Machine Hallucination"
+is an exploration of time and space
+
+experienced through New York City's
+public photographic archives.
+
+For this one-of-a-kind immersive project,
+
+we deployed machine-learning algorithms
+
+to find and process over
+100 million photographs of the city.
+
+We designed an innovative narrative system
+
+to use artificial intelligence
+to predict or to hallucinate new images,
+
+allowing the viewer
+to step into a dreamlike fusion
+
+of past and future New York.
+
+As our projects delve deeper
+
+into remembering
+and transmitting knowledge,
+
+we thought more about how memories
+were not static recollections
+
+but ever-changing
+interpretations of past events.
+
+We pondered how machines
+
+could simulate unconscious
+and subconscious events,
+
+such as dreaming,
+remembering and hallucinating.
+
+Thus, we created "Melting Memories"
+
+to visualize the moment of remembering.
+
+The inspiration came from a tragic event,
+
+when I found out that my uncle
+was diagnosed with Alzheimer's.
+
+At that time, all I could think about
+
+was to find a way to celebrate
+how and what we remember
+
+when we are still able to do so.
+
+I began to think of memories
+not as disappearing
+
+but as melting or changing shape.
+
+With the help of machine intelligence,
+
+we worked with the scientists
+at the Neuroscape Laboratory
+
+at the University of California,
+
+who showed us how to understand
+brain signals as memories are made.
+
+Although my own uncle was losing
+the ability to process memories,
+
+the artwork generated by EEG data
+
+explored the materiality of remembering
+
+and stood as a tribute
+to what my uncle had lost.
+
+Almost nothing about contemporary LA
+
+matched my childhood
+expectation of the city,
+
+with the exception
+of one amazing building:
+
+the Walt Disney Concert Hall,
+designed by Frank Gehry,
+
+one of my all-time heroes.
+
+In 2018, I had a call
+from the LA Philharmonic
+
+who was looking for an installation
+
+to help mark the celebrated symphony's
+hundred-year anniversary.
+
+For this, we decided to ask the question,
+
+"Can a building learn? Can it dream?"
+
+To answer this question,
+
+we decided to collect everything recorded
+in the archives of the LA Phil and WDCH.
+
+To be precise, 77 terabytes
+of digitally archived memories.
+
+By using machine intelligence,
+
+the entire archive, going back 100 years,
+
+became projections on the building's skin,
+
+42 projectors to achieve
+this futuristic public experience
+
+in the heart of Los Angeles,
+
+getting one step closer
+to the LA of "Blade Runner."
+
+If ever a building could dream,
+
+it was in this moment.
+
+Now, I am inviting you to one last journey
+into the mind of a machine.
+
+Right now, we are fully immersed
+in the data universe
+
+of every single curated TED Talk
+from the past 30 years.
+
+That means this data set includes
+7,705 talks from the TED stage.
+
+Those talks have been translated
+into 7.4 million seconds,
+
+and each second is represented
+here in this data universe.
+
+Every image that you are seeing in here
+
+represents unique moments
+from those talks.
+
+By using machine intelligence,
+
+we processed a total of 487,000 sentences
+
+into 330 unique clusters of topics
+like nature, global emissions,
+
+extinction, race issues, computation,
+
+trust, emotions, water and refugees.
+
+These clusters are then
+connected to each other
+
+by an algorithm,
+
+[that] generated 113 million
+line segments,
+
+which reveal new conceptual relationships.
+
+Wouldn't it be amazing
+to be able to remember
+
+all the questions that have ever
+been asked on the stage?
+
+Here I am,
+
+inside the mind
+of countless great thinkers,
+
+as well as a machine,
+interacting with various feelings
+
+attributed to learning,
+
+remembering, questioning
+
+and imagining all at the same time,
+
+expanding the power of the mind.
+
+For me, being right here
+
+is indeed what it means
+to be an AI in the 21st century.
+
+It is in our hands, humans,
+
+to train this mind to learn and remember
+
+what we can only dream of.
+
+Thank you.

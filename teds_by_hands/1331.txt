@@ -1,0 +1,810 @@
+Let me tell you a story
+about artificial intelligence.
+
+There's a building in Sydney
+at 1 Bligh Street.
+
+It houses lots of government apartments
+
+and busy people.
+
+From the outside, it looks like something
+out of American science fiction:
+
+all gleaming glass and curved lines,
+
+and a piece of orange sculpture.
+
+On the inside, it has excellent coffee
+on the ground floor
+
+and my favorite lifts in Sydney.
+
+They're beautiful;
+
+they look almost alive.
+
+And it turns out
+I'm fascinated with lifts.
+
+For lots of reasons.
+
+But because lifts are one of the places
+you can see the future.
+
+In the 21st century, lifts are interesting
+
+because they're one of the first places
+that AI will touch you
+
+without you even knowing it happened.
+
+In many buildings all around the world,
+
+the lifts are running a set of algorithms.
+
+A form of protoartificial intelligence.
+
+That means before you even
+walk up to the lift to press the button,
+
+it's anticipated you being there.
+
+It's already rearranging
+all the carriages.
+
+Always going down, to save energy,
+
+and to know where
+the traffic is going to be.
+
+By the time you've actually
+pressed the button,
+
+you're already part of an entire system
+
+that's making sense of people
+and the environment
+
+and the building and the built world.
+
+I know when we talk about AI,
+we often talk about a world of robots.
+
+It's easy for our imaginations
+to be occupied with science fiction,
+
+well, over the last 100 years.
+
+I say AI and you think "The Terminator."
+
+Somewhere, for us, making the connection
+between AI and the built world,
+
+that's a harder story to tell.
+
+But the reality is AI is already
+everywhere around us.
+
+And in many places.
+
+It's in buildings and in systems.
+
+More than 200 years of industrialization
+
+suggest that AI will find its way
+to systems-level scale relatively easily.
+
+After all, one telling of that history
+
+suggests that all you have to do
+is find a technology,
+
+achieve scale and revolution will follow.
+
+The story of mechanization,
+automation and digitization
+
+all point to the role of technology
+and its importance.
+
+Those stories of technological
+transformation
+
+make scale seem, well, normal.
+
+Or expected.
+
+And stable.
+
+And sometimes even predictable.
+
+But it also puts the focus squarely
+on technology and technology change.
+
+But I believe that scaling a technology
+and building a system
+
+requires something more.
+
+We founded the 3Ai Institute
+at the Australian National University
+
+in September 2017.
+
+It has one deceptively simple mission:
+
+to establish a new branch of engineering
+
+to take AI safely, sustainably
+and responsibly to scale.
+
+But how do you build a new branch
+of engineering in the 21st century?
+
+Well, we're teaching it into existence
+
+through an experimental education program.
+
+We're researching it into existence
+
+with locations as diverse
+as Shakespeare's birthplace,
+
+the Great Barrier Reef,
+
+not to mention one of Australia's
+largest autonomous mines.
+
+And we're theorizing it into existence,
+
+paying attention to the complexities
+of cybernetic systems.
+
+We're working to build something new
+and something useful.
+
+Something to create the next generation
+of critical thinkers and critical doers.
+
+And we're doing all of that
+
+through a richer understanding
+of AI's many pasts and many stories.
+
+And by working collaboratively
+and collectively
+
+through teaching and research
+and engagement,
+
+and by focusing as much
+on the framing of the questions
+
+as the solving of the problems.
+
+We're not making a single AI,
+
+we're making the possibilities for many.
+
+And we're actively working
+to decolonize our imaginations
+
+and to build a curriculum and a pedagogy
+
+that leaves room for a range of different
+conversations and possibilities.
+
+We are making and remaking.
+
+And I know we're always
+a work in progress.
+
+But here's a little glimpse
+
+into how we're approaching
+that problem of scaling a future.
+
+We start by making sure
+we're grounded in our own history.
+
+In December of 2018,
+
+I took myself up to the town of Brewarrina
+
+on the New South Wales-Queensland border.
+
+This place was a meeting place
+for Aboriginal people,
+
+for different groups,
+
+to gather, have ceremonies,
+meet, to be together.
+
+There, on the Barwon River,
+there's a set of fish weirs
+
+that are one of the oldest
+and largest systems
+
+of Aboriginal fish traps in Australia.
+
+This system is comprised
+of 1.8 kilometers of stone walls
+
+shaped like a series of fishnets
+
+with the "Us" pointing down the river,
+
+allowing fish to be trapped
+at different heights of the water.
+
+They're also fish holding pens
+with different-height walls for storage,
+
+designed to change the way the water moves
+
+and to be able to store
+big fish and little fish
+
+and to keep those fish
+in cool, clear running water.
+
+This fish-trap system was a way to ensure
+that you could feed people
+
+as they gathered there in a place
+that was both a meeting of rivers
+
+and a meeting of cultures.
+
+It isn't about the rocks
+or even the traps per se.
+
+It is about the system
+that those traps created.
+
+One that involves technical knowledge,
+
+cultural knowledge
+
+and ecological knowledge.
+
+This system is old.
+
+Some archaeologists
+think it's as old as 40,000 years.
+
+The last time we have its recorded uses
+is in the nineteen teens.
+
+It's had remarkable longevity
+and incredible scale.
+
+And it's an inspiration to me.
+
+And a photo of the weir
+is on our walls here at the Institute,
+
+to remind us of the promise
+and the challenge
+
+of building something meaningful.
+
+And to remind us
+that we're building systems
+
+in a place where people have built systems
+
+and sustained those same systems
+for generations.
+
+It isn't just our history,
+
+it's our legacy as we seek to establish
+a new branch of engineering.
+
+To build on that legacy
+and our sense of purpose,
+
+I think we need a clear framework
+for asking questions about the future.
+
+Questions for which there aren't
+ready or easy answers.
+
+Here, the point is the asking
+of the questions.
+
+We believe you need to go
+beyond the traditional approach
+
+of problem-solving,
+
+to the more complicated one
+of question asking
+
+and question framing.
+
+Because in so doing, you open up
+all kinds of new possibilities
+
+and new challenges.
+
+For me, right now,
+
+there are six big questions
+that frame our approach
+
+for taking AI safely, sustainably
+and responsibly to scale.
+
+Questions about autonomy,
+
+agency, assurance,
+
+indicators, interfaces and intentionality.
+
+The first question we ask is a simple one.
+
+Is the system autonomous?
+
+Think back to that lift on Bligh Street.
+
+The reality is, one day,
+that lift may be autonomous.
+
+Which is to say it will be able
+to act without being told to act.
+
+But it isn't fully autonomous, right?
+
+It can't leave that Bligh Street building
+
+and wonder down
+to Circular Quay for a beer.
+
+It goes up and down, that's all.
+
+But it does it by itself.
+
+It's autonomous in that sense.
+
+The second question we ask:
+
+does this system have agency?
+
+Does this system have controls
+and limits that live somewhere
+
+that prevent it from doing certain
+kinds of things under certain conditions.
+
+The reality with lifts,
+that's absolutely the case.
+
+Think of any lift you've been in.
+
+There's a red keyslot
+in the elevator carriage
+
+that an emergency services person
+can stick a key into
+
+and override the whole system.
+
+But what happens
+when that system is AI-driven?
+
+Where does the key live?
+
+Is it a physical key, is it a digital key?
+
+Who gets to use it?
+
+Is that the emergency services people?
+
+And how would you know
+if that was happening?
+
+How would all of that be manifested
+to you in the lift?
+
+The third question we ask
+is how do we think about assurance.
+
+How do we think about all of its pieces:
+
+safety, security, trust, risk,
+liability, manageability,
+
+explicability, ethics,
+public policy, law, regulation?
+
+And how would we tell you
+that the system was safe and functioning?
+
+The fourth question we ask
+
+is what would be our interfaces
+with these AI-driven systems.
+
+Will we talk to them?
+
+Will they talk to us,
+will they talk to each other?
+
+And what will it mean to have
+a series of technologies we've known,
+
+for some of us, all our lives,
+
+now suddenly behave
+in entirely different ways?
+
+Lifts, cars, the electrical grid,
+traffic lights, things in your home.
+
+The fifth question
+for these AI-driven systems:
+
+What will the indicators be
+to show that they're working well?
+
+Two hundred years
+of the industrial revolution
+
+tells us that the two most important ways
+to think about a good system
+
+are productivity and efficiency.
+
+In the 21st century,
+
+you might want to expand
+that just a little bit.
+
+Is the system sustainable,
+
+is it safe, is it responsible?
+
+Who gets to judge those things for us?
+
+Users of the systems
+would want to understand
+
+how these things are regulated,
+managed and built.
+
+And then there's the final,
+perhaps most critical question
+
+that you need to ask
+of these new AI systems.
+
+What's its intent?
+
+What's the system designed to do
+
+and who said that was a good idea?
+
+Or put another way,
+
+what is the world
+that this system is building,
+
+how is that world imagined,
+
+and what is its relationship
+to the world we live in today?
+
+Who gets to be part of that conversation?
+
+Who gets to articulate it?
+
+How does it get framed and imagined?
+
+There are no simple answers
+to these questions.
+
+Instead, they frame what's possible
+
+and what we need to imagine,
+
+design, build, regulate
+and even decommission.
+
+They point us in the right directions
+
+and help us on a path to establish
+a new branch of engineering.
+
+But critical questions aren't enough.
+
+You also need a way of holding
+all those questions together.
+
+For us at the Institute,
+
+we're also really interested
+in how to think about AI as a system,
+
+and where and how to draw
+the boundaries of that system.
+
+And those feel like especially
+important things right now.
+
+Here, we're influenced by the work
+that was started way back in the 1940s.
+
+In 1944, along with anthropologists
+Gregory Bateson and Margaret Mead,
+
+mathematician Norbert Wiener
+convened a series of conversations
+
+that would become known
+as the Macy Conferences on Cybernetics.
+
+Ultimately, between 1946 and 1953,
+
+ten conferences were held
+under the banner of cybernetics.
+
+As defined by Norbert Wiener,
+
+cybernetics sought
+to "develop a language and techniques
+
+that will enable us to indeed attack
+the problem of control and communication
+
+in advanced computing technologies."
+
+Cybernetics argued persuasively
+
+that one had to think
+about the relationship
+
+between humans, computers
+
+and the broader ecological world.
+
+You had to think about them
+as a holistic system.
+
+Participants in the Macy Conferences
+were concerned with how the mind worked,
+
+with ideas about
+intelligence and learning,
+
+and about the role
+of technology in our future.
+
+Sadly, the conversations that started
+with the Macy Conference
+
+are often forgotten
+when the talk is about AI.
+
+But for me, there's something
+really important to reclaim here
+
+about the idea of a system
+that has to accommodate culture,
+
+technology and the environment.
+
+At the Institute, that sort
+of systems thinking is core to our work.
+
+Over the last three years,
+
+a whole collection of amazing people
+have joined me here
+
+on this crazy journey to do this work.
+
+Our staff includes anthropologists,
+
+systems and environmental engineers,
+and computer scientists
+
+as well as a nuclear physicist,
+
+an award-winning photo journalist,
+
+and at least one policy
+and standards expert.
+
+It's a heady mix.
+
+And the range of experience
+and expertise is powerful,
+
+as are the conflicts and the challenges.
+
+Being diverse requires
+a constant willingness
+
+to find ways to hold people
+in conversation.
+
+And to dwell just a little bit
+with the conflict.
+
+We also worked out early
+
+that the way to build
+a new way of doing things
+
+would require a commitment to bringing
+others along on that same journey with us.
+
+So we opened our doors
+to an education program very quickly,
+
+and we launched our first
+master's program in 2018.
+
+Since then, we've had two cohorts
+of master's students
+
+and one cohort of PhD students.
+
+Our students come from all over the world
+
+and all over life.
+
+Australia, New Zealand, Nigeria, Nepal,
+
+Mexico, India, the United States.
+
+And they range in age from 23 to 60.
+
+They variously had backgrounds
+in maths and music,
+
+policy and performance,
+
+systems and standards,
+
+architecture and arts.
+
+Before they joined us at the Institute,
+
+they ran companies,
+they worked for government,
+
+served in the army, taught high school,
+
+and managed arts organizations.
+
+They were adventurers
+
+and committed to each other,
+
+and to building something new.
+
+And really, what more could you ask for?
+
+Because although I've spent
+20 years in Silicon Valley
+
+and I know the stories
+about the lone inventor
+
+and the hero's journey,
+
+I also know the reality.
+
+That it's never just a hero's journey.
+
+It's always a collection of people
+who have a shared sense of purpose
+
+who can change the world.
+
+So where do you start?
+
+Well, I think you start where you stand.
+
+And for me, that means
+I want to acknowledge
+
+the traditional owners of the land
+upon which I'm standing.
+
+The Ngunnawal and Ngambri people,
+
+this is their land,
+
+never ceded, always sacred.
+
+And I pay my respects to the elders,
+past and present, of this place.
+
+I also acknowledge
+that we're gathering today
+
+in many other places,
+
+and I pay my respects
+to the traditional owners and elders
+
+of all those places too.
+
+It means a lot to me
+to get to say those words
+
+and to dwell on what they mean and signal.
+
+And to remember that we live in a country
+
+that has been continuously occupied
+for at least 60,000 years.
+
+Aboriginal people built worlds here,
+
+they built social systems,
+they built technologies.
+
+They built ways to manage this place
+
+and to manage it remarkably
+over a protracted period of time.
+
+And every moment any one of us
+stands on a stage as Australians,
+
+here or abroad,
+
+we carry with us a privilege
+and a responsibility
+
+because of that history.
+
+And it's not just a history.
+
+It's also an incredibly rich
+set of resources,
+
+worldviews and knowledge.
+
+And it should run through all of our bones
+
+and it should be the story we always tell.
+
+Ultimately, it's about
+thinking differently,
+
+asking different kinds of questions,
+
+looking holistically
+at the world and the systems,
+
+and finding other people who want
+to be on that journey with you.
+
+Because for me,
+
+the only way to actually think
+about the future and scale
+
+is to always be doing it collectively.
+
+And because for me,
+
+the notion of humans in it together
+
+is one of the ways
+we get to think about things
+
+that are responsible, safe
+
+and ultimately, sustainable.
+
+Thank you.

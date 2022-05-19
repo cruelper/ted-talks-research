@@ -1,0 +1,188 @@
+You’ve come a long way to compete 
+in the great Diskymon league
+
+and prove yourself a Diskymon master.
+
+Now that you’ve made it to the finals,
+you’re up against some tough competition.
+
+As you enter the arena, 
+the referee explains the rules.
+
+There are three Diskydisks you can use.
+
+Disk A will always summon 
+a level 3 Burgersaur.
+
+Disk B summons a Churrozard
+that has a 56% chance of being level 2,
+
+a 22% chance of being level 4,
+and a 22% chance of being level 6.
+
+Disk C will summon a level 5 Wartortilla
+49% of the time,
+
+and a level 1 Wartortilla 51% of the time.
+
+All Diskymon fully heal between battles,
+and the higher level Diskymon always wins,
+
+no matter what type it is.
+
+In round one, you’ll face 
+a single opponent
+
+and get to choose your disk 
+before she picks from the remaining two.
+
+Which one gives you the best chance 
+of winning?
+
+Pause here to figure it out yourself
+
+Answer in 3
+
+Answer in 2
+
+Answer in 1
+
+Before you start calculating
+probabilities,
+
+take a look at the disks themselves.
+
+Disks B and C each have 
+a more than 50% chance
+
+of summoning a level 2 or a level 1
+Diskymon, respectively.
+
+This means that disk A’s guaranteed
+level 3 Burgersaur
+
+will always have better than even
+odds of winning.
+
+If you choose B or C, your opponent could
+pick A and gain an advantage over you.
+
+And C fares worst of all, being more
+than 50% likely to lose to any opponent.
+
+So you choose A, hoping for the best,
+and sure enough,
+
+your level 3 Burgersaur triumphs 
+over the level 2 Churrozard.
+
+Now it’s time for round two, 
+and while you’ve prepared for trouble,
+
+you didn’t anticipate 
+they’d make it double.
+
+You get to choose any one 
+of the three disks again,
+
+but this time, you’ll be in a battle 
+royale against two opponents,
+
+each using one of the other disks.
+
+Whoever summons the highest 
+level Diskymon wins.
+
+Should you stick with A, or switch?
+
+Pause now to figure it out yourself
+
+Answer in 3
+
+Answer in 2
+
+Answer in 1
+
+For many Diskymon trainers,
+
+it seems intuitive that if A 
+is the best at beating B or C,
+
+it should also be the best at beating
+B and C.
+
+Strangely enough, that couldn’t be
+further from the truth.
+
+Let’s calculate the odds.
+
+For A to win, B has to summon
+a level 2 Diskymon,
+
+and C has to summon a level 1.
+
+Those are independent events, 
+so their odds are 56% times 51%, or 29%.
+
+For disk B, a level 2 Churrozard would
+automatically lose to the Burgersaur.
+
+But you’d have two ways to win.
+
+The 22% chance of summoning a level 6
+would give you an outright win,
+
+while a level 4 could still win if C
+summons a level 1.
+
+Adding up those mutually exclusive
+possibilities gives you odds of about 33%.
+
+Finally, C will win 
+with a level 5 Wartortilla
+
+as long as B doesn’t summon its level 6,
+giving C a 38% chance overall.
+
+So while disk A’s middling consistency
+was an advantage in a single matchup,
+
+multiple fights increase the odds
+
+that one of the other disks 
+will summon something better.
+
+And although C was the worst
+first-round option,
+
+its decent chance of summoning 
+a strong level 5 gives it an advantage
+
+when facing two opponents simultaneously.
+
+This sort of counterintuitive result
+is why misleading statistics
+
+are a favored tool 
+of unscrupulous politicians
+
+and nefarious Diskymon trainers alike.
+
+Fortunately, your Wartortilla comes out
+level 5 and makes short work of its foes.
+
+You’re about to celebrate 
+when your rivals capture the referee
+
+and announce a surprise third round.
+
+You’ll have to repeat each 
+of the previous matches in succession,
+
+with all the same rules except for one:
+you must keep the same disk throughout.
+
+Which should you choose 
+to give yourself the best chance
+
+at becoming that which no one ever was?

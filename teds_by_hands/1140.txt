@@ -1,0 +1,3138 @@
+Hello there, this is Chris Anderson,
+and I am hugely, hugely,
+
+tremendously excited to welcome you to
+a new series of the TED interview.
+
+Now, then, this season, we're
+trying something new.
+
+We're organising the whole season
+around a single theme,
+
+albeit a theme that some of you may
+consider inappropriate. But hear me out.
+
+The theme is the case for optimism.
+
+And yes, I know the world has been hit
+with extraordinarily ugly things in
+
+the last few years. Political division, a
+racial reckoning, technology run amuck,
+
+not to mention a global pandemic and
+impending climate catastrophe.
+
+What on earth are we thinking
+in this context?
+
+Optimism just seems so naive and unwanted,
+almost annoying.
+
+So here's my position. Don't think
+of optimism as a feeling.
+
+It's not just this sort of shallow feeling
+of hope. Optimism is a search.
+
+It's a determination to look for a pathway
+forward somewhere out there.
+
+I believe I truly believe there are
+amazing people whose minds contain
+
+the ideas, the visions, the solutions that
+can actually create that pathway
+
+forward. If given the support
+and resources they need,
+
+they may very well light the path
+out of this dark place we're in.
+
+So these are the people who can present
+not optimism, but a case for optimism.
+
+They're the people I'm talking
+to this season.
+
+So let's see if they can persuade us now.
+
+Then the place I want to start is with
+A.I. artificial intelligence.
+
+This, of course, is the next innovative
+technology that is going to change
+
+everything as we know it,
+for better or for worse.
+
+Today was painted not with the
+usual dystopian brush,
+
+but by someone who truly believes
+in its potential.
+
+Sam Altman is the former president
+of Y Combinator,
+
+the legendary startup accelerator.
+
+And in 2015, he and a team launched
+a company called Open Eye,
+
+dedicated to one noble purpose to develop
+A.I. so that it benefits humanity as
+
+a whole. You may have heard, by the way,
+
+recently a lot of buzz around in A.I.
+technology called T3 that was developed
+
+by open eye improve the quality of
+the amazing team of researchers
+
+and developers they have work in.
+
+There will be hearing a lot about
+three in the conversation ahead.
+
+But sticking to this lofty mission of
+developing A.I. for humanity and finding
+
+the resources to realize
+it haven't been simple.
+
+Open A.I. is certainly not
+without its critics,
+
+but their goal couldn't be more important.
+
+And honestly, I found it really quite
+exciting to hear Sam's vision
+
+for where all this could lead. OK,
+let's do this.
+
+So, Sam Altman, welcome.
+
+Thank you for having me.
+
+So, Sam, here we are in 2021.
+
+A lot of people are fearful of
+
+the future at this moment
+in world history.
+
+How would you describe your
+attitude to the future?
+
+I think that the combination of scientific
+and technological progress
+
+and better societal decision making,
+
+better societal governance
+is going to solve in
+
+the next couple of decades all of our
+current most pressing problems,
+
+there will be new ones. But I think
+we are going to get very safe,
+
+very inexpensive, carbon free
+nuclear energy to work.
+
+And I think we're going to talk about that
+time that the climate disaster looks
+
+so bad and how lucky we are. We got saved
+by science and technology, I think.
+
+And we've already now seen this with
+
+the rapidity that we were able
+to get vaccines deployed.
+
+We are going to find that we are
+able to cure or at least treat
+
+a significant percentage of human disease,
+
+including I think we'll just actually make
+progress in helping people have much
+
+longer decades, longer health spans.
+
+And I think in the next couple of decades,
+that will look pretty clear.
+
+I think we will build systems with AI
+and otherwise that make access to
+
+an incredibly high quality education
+more possible than ever before.
+
+I think the lives we look forward like
+one hundred years, fifty years,
+
+even the quality of life available to
+anyone then will be much better than
+
+the quality of life available in the
+very best case to anyone today,
+
+to any single person today. So, yeah,
+I'm super optimistic.
+
+I think, like, it's always easy to do
+scroll and think about how bad are
+
+the bad things are, but the good things
+are really good and getting much better.
+
+Is it your sincere belief that artificial
+intelligence can actually make that
+
+future better?
+
+Certainly. How look, with any technology.
+I don't think it will all be better.
+
+I think there are always positive and
+negative use cases of anything new,
+
+and it's our job to maximize
+the positive ones,
+
+minimize the negative ones.
+
+But I truly, genuinely believe that
+
+the positive impacts will be orders of
+magnitude bigger than the negative ones.
+
+I think we're seeing a
+glimpse of that now.
+
+Now that we have the first general
+purpose built out in the world
+
+and available via things like RPI,
+
+I think we are seeing evidence of just
+
+the breadth of services that
+we will be able to offer as
+
+the sort of technological revolution
+really takes hold.
+
+And we will have people interact with
+services that are smart, really smart,
+
+and it will feel like as strange as
+
+the world before mobile phones
+feels now to us.
+
+Hmm, yeah, you mentioned your API,
+I guess that stands for what,
+
+application programming interface?
+
+It's the technology that allows complex
+technology to be accessible to others.
+
+So give me a sense of a couple of things
+that have got you most excited that
+
+are already out there and then how
+that gives you visibility to
+
+a pathway forward that is
+even more exciting.
+
+So I think that the things that we're
+seeing now are very much glimpse of
+
+the future. We released three,
+
+which is a general-purpose natural
+language text model in
+
+the summer of twenty twenty.
+
+You know, there's hundreds of applications
+that are now using it in
+
+production that's ramping
+up all of the time.
+
+But there are things where people
+use three to really understand
+
+the intent behind the search
+query and deliver results
+
+and sort of understand not only intent,
+
+but all of the data and deliver
+the thing of what you want.
+
+So you can sort of describe a fuzzy thing
+and it'll understand documents.
+
+It can understand, you know, short
+documents, not full books yet,
+
+but bring you back to the context
+of what you want.
+
+There's been a lot of excitement
+about using
+
+the generative capabilities
+to create sort of games
+
+or sort of interactive stories or letting
+people develop characters
+
+or chat with a sort of virtual friend.
+
+There are applications that, for example,
+
+help a job seeker polish a tailored
+application for each individual company.
+
+There's the beginning of tutors that can
+sort of teach people about different
+
+concepts and take on different personas.
+And we can go on for a long time.
+
+But I think anything that you can imagine
+that you do today via computer that
+
+you would like to really understand
+and get to know you.
+
+And not only that, but understand all of
+the data and knowledge in the world
+
+and help you have the best experience that
+is is possible that that will happen.
+
+So what gets opened up? What new adjacent
+possible state is that as
+
+a result of these powers
+from this question,
+
+from the point of view of someone who's
+starting out on a career, for example,
+
+they're trying to figure out what would
+be a really interesting thing to do in
+
+the future that has only recently
+become possible.
+
+What are some new things
+that this opens up
+
+in a world where you can
+talk to a computer?
+
+And get. The output that would
+normally require you hiring
+
+the world experts back immediately
+for almost no money,
+
+I would say think about
+what's possible there.
+
+So that could be like, as you said,
+
+what can normally only the best
+programmer in the world or
+
+a really great programmer do for me.
+
+And can I now instead just ask in English
+and have that program written?
+
+So all these people that, you know, want
+to develop an app and they have an idea,
+
+but they don't know how to program.
+Now they can have it.
+
+You know, what is the service
+look like when anyone
+
+on Earth who wants really
+great medical advice?
+
+Can get better medical advice than
+any single doctor could ever get,
+
+because this has the total medical
+knowledge and reasoning ability that
+
+the some humanity has ever produced.
+
+When you want to learn something,
+
+you have sort of a tutor that understands
+your exact style,
+
+how you best learn everything you know,
+
+and custom teaches you whatever concept
+you want to learn someday.
+
+You can imagine that like.
+
+You have an eye that reads your email
+and your task list and your calendar
+
+and the documents you've been sent
+
+and in any meeting maximally perfectly
+prepares you and has all of
+
+the information that you need in all
+
+the context of your entire career right
+there for you to go on for a long time.
+
+But I think this will just
+be powerful systems.
+
+So it's really fun playing around
+with Chapatti three,
+
+one compelling example of someone
+who's more tax base is try
+
+Googling The Guardian essay that was
+written entirely by different GP2 three
+
+queries and stitched together.
+
+It's an essay on why artificial
+intelligence isn't a threat to humanity.
+
+And that's impressive.
+It's very compelling.
+
+I actually tried inputting one
+of the three online uses.
+
+I asked the question what is interesting
+about some ollman? Oh no.
+
+Here's what it came back with. It was it
+was rather philosophical, actually.
+
+Came back with. I don't understand
+what you mean by interesting.
+
+It seems to me that this word has
+no unambiguous meaning in
+
+the context of human society beyond its
+literal definition as somewhat pleasing
+
+or entertaining. I do not believe
+there to be any such thing
+
+as INTERESTINGNESS except
+in the mind of a human
+
+or other sentient being
+that to my knowledge,
+
+this is an entirely subjective state
+that varies from person to person.
+
+However, I will grant that this is
+an interesting question to ask.
+
+This does not mean it has been answered.
+There is no answer to be found.
+
+Well, so you can agree that somewhere
+between profound and gibberish
+
+is that almost well, with the
+state of play is I mean,
+
+that's where we are today.
+
+I think somewhere between profound
+and jibberish is
+
+the right way to think about the current
+capabilities of CGP three.
+
+I think they would definitely had a bubble
+of hype about three last summer.
+
+But the thing about bubbles is the
+reason that smart people fall
+
+for them is there's a kernel
+of something really real
+
+and really interesting that people
+get overexcited about.
+
+And I think people definitely got
+
+and still are overexcited
+about 3:00 today,
+
+but still probably underestimated
+
+the potential of where these models
+will go in the future.
+
+And so maybe there's this like short term
+overhyped and long term under hype
+
+for the entire field, for tax models, for
+whatever you'd like. It's going on.
+
+And as you said, there's clearly
+some gibberish in there.
+
+But on the other hand, those were
+like well-formed sentences.
+
+And there were a couple of ideas
+and there that I was like, oh,
+
+like they actually maybe that's right.
+
+And I think if artificial intelligence,
+even in its current very larval state,
+
+can make us confront new things
+and sort of inspire new ideas,
+
+that's already pretty impressive.
+
+Give us a sense of what's actually
+happening in the background there.
+
+I think it's hard to understand
+
+because you read these words seem like
+someone is trying to mean something.
+
+Obviously, I think you believe that
+there's whatever you've built there,
+
+that there's a sort of thinking, sentient
+thing that's going, oh,
+
+I must answer this question. So so what
+how would you describe what's going on?
+
+You've got something that has
+read the entire Internet,
+
+essentially all of Wikipedia, etc. We've
+
+read something that's read like a small
+fraction of a random sampling of
+
+the Internet. We will eventually train
+something that has read as much of
+
+the Internet or more of the Internet
+than we've done right now.
+
+But we have a very long way to go.
+
+I mean, we're still, I think,
+
+relative to what we will have operated
+at quite small scale with quite small
+
+eyes. But what is happening is there is
+a model that is ingesting lots of text
+
+and it is trying to predict the next word.
+
+So we use Transformer's they
+take in a context,
+
+which is a particular architecture
+of an A.I. model,
+
+they take in a context of a lot of words,
+
+let's say like a thousand
+or something like that.
+
+And they try to predict the word that
+comes next in the sequence.
+
+And there's like a lot of other
+things that happen,
+
+but fundamentally that's it,
+
+and I think this is interesting
+because in
+
+the process of playing that little game
+of trying to predict the next word,
+
+these models have to develop
+a representation
+
+and understanding of what is
+likely to come next and.
+
+I think it is maybe not
+perfectly accurate,
+
+but certainly worth considering to say
+that intelligence is very near
+
+the ability to make accurate predictions.
+
+What's confusing about this is that
+there are so many words on
+
+the Internet which are foolish as
+well as the words that are wise.
+
+And and how do you build a model that
+can distinguish between those two?
+
+And this is prompted actually by another
+example that I typed in.
+
+Like I asked, you know, what is a powerful
+idea, very interested in ideas.
+
+That was my question as a powerful idea.
+
+And it came back with several things,
+
+some of which seemed moderately
+pronouncements,
+
+which seemed moderately gibberish.
+
+But then he was he was one that it
+came back with the idea that
+
+the human race has, quote, evolved,
+unquote,
+
+is false evolution or adaptation within
+a species was abandoned by biology
+
+and genetics long ago. Wait a sec. That's
+news to me. What have you been reading?
+
+And I presume this has been pulled out
+of some recesses of the Internet,
+
+but how is it possible, even in theory,
+
+to imagine how a model can gravitate
+towards truth, wisdom,
+
+as opposed to just like majority views?
+
+Or how how how do you avoid something
+taking us further into the sort of
+
+the maze of errors and bad thinking
+and so forth that has already been
+
+a worrying feature for the last few years
+?
+
+It's a fantastic question,
+
+and I think it is the most interesting
+area of research that we need to pursue.
+
+Now, I think at this point,
+
+the questions of whether we can build
+really powerful general-purpose AI system,
+
+I won't say there in the rearview mirror.
+
+We still have a lot of hard
+engineering work to do,
+
+but I'm pretty confident we're
+going to be able to.
+
+And now the questions are like,
+what should we build?
+
+And how and why and what
+data should we train on
+
+and how do we build systems not just that
+can do these like phenomenally impressive
+
+things, but that we can ensure
+do the things that we want
+
+and that understand the concepts of
+truth and falsehood and, you know,
+
+alignment with human values and
+misalignment with human values.
+
+One of the pieces of research that
+we put out last year that
+
+I was most proud of and most excited
+about is what we call reinforcement
+
+learning from human feedback.
+
+And we showed that we can take these
+giant models that are trained on
+
+a bunch of stuff, some of it good,
+some of the bad,
+
+and then with a really quite small amount
+of feedback from human judgment about,
+
+hey, this is good, this
+is bad, this is wrong,
+
+this is the behavior I want I
+don't want this behavior.
+
+We can feed that information from the
+human judges back into the model
+
+and we can teach the model, behave more
+like this and less like that.
+
+And it works better than I
+ever imagined it would.
+
+And that gives me a lot of hope that
+we can build an aligned system.
+
+We'll do other things, too,
+
+like I think curating data sets where
+there's just less sort of bad data to
+
+train on. It will go a very long way.
+
+And as these models get smarter,
+
+I think they inherently develop
+
+the ability to sort out bad
+data from good data.
+
+And as they get really smart,
+
+they'll even start to do something
+we call active learning,
+
+which is where they ask us for exactly
+
+the data they need when they're missing
+something, when they're unsure,
+
+when they don't understand.
+
+But I think as a result of simply scaling
+these models up, building better,
+
+I hate to use the word cognition because
+it sounds so anthropomorphic,
+
+but let's say building a better ability
+to reason into the models, to think,
+
+to challenge, to try to understand
+
+and combining that with this idea of
+online into human values via this
+
+technique we developed, that's
+going to go a very long way.
+
+Now, there's another question,
+
+which you sort of just kicked the
+ball down the field, too,
+
+which is how do we as a society decide to
+which set of human values do we align
+
+these powerful systems?
+
+Yeah, indeed. So if I if I understand
+rightly what you're saying,
+
+that you're saying that it's
+possible to look at
+
+the output at any one time of three.
+
+And if we don't like what it's coming up
+with, some ways human can say, no,
+
+that was off, don't do that.
+
+Whatever algorithm or process led
+you to that, undo it. Yeah.
+
+And that the system is that incredibly
+powerful at avoiding that same kind of
+
+mistake in future because it sort
+of replicates the instructions
+
+, correct? Yeah.
+
+And eventually and not much longer,
+
+I believe that we'll be able to not only
+say that was good, that was bad,
+
+but say that was bad for this reason.
+
+And also tell me how you got to that
+answer so I can make sure I understand.
+
+But at the end of the day,
+
+someone needs to decide
+who is the wise human
+
+or short humans who are looking at the
+results. So it's a big difference.
+
+Someone who who grew up with intelligent
+design world view could look at that
+
+and go, that's a brilliant outcome. Well,
+Goldstar done.
+
+And someone else would say something
+is done awfully wrong here. So
+
+how do you avoid and this is a version of
+the problem that a lot of the, I guess,
+
+Silicon Valley companies are facing
+right now in terms of
+
+the pushback they're getting on the output
+of social media and so forth.
+
+How do you assemble that pool
+of experts who stand
+
+for human values that we actually want?
+
+I mean, we talk about this all the time,
+
+I don't think this is like solely
+
+or even not even close to majorly
+up to opening night to decide,
+
+I think we need to begin a societal
+conversation now about how we're going to
+
+make those decisions, how we're going to
+make sure we have representational input
+
+in that, and how we sort of make these
+very difficult global governance systems.
+
+My personal belief is that we should have
+pretty broad rules about what these
+
+systems will never do and will always do.
+
+But then the individual user should get
+
+a system that kind of behaves
+like they want.
+
+And there will be people do have
+very different value systems.
+
+Some of them are just fundamentally
+incompatible.
+
+No one gets to use eye to, like, exploit
+other people, for example,
+
+and hopefully we can all agree on.
+But do you want the AI to like.
+
+You know, support you and your belief
+of intelligent design, like,
+
+do I think openly, I should say it can't,
+
+even though I disagree with that is
+like a scientific conclusion.
+
+No, I wouldn't take that stance.
+
+I think the thing to remember about all
+of this is that history is still quite
+
+extraordinarily weak. It's still has
+such big problems and it's still
+
+so unreliable that for most use
+cases it's still unsuitable.
+
+But when we think about a system that is
+like a thousand times more powerful
+
+and let's say a million
+times more reliable,
+
+it just doesn't it doesn't
+say gibberish very often.
+
+It doesn't totally lose the
+plot and get distracted
+
+or system like that is going to be one
+that a lot of the economic activity in
+
+the world comes to rely on.
+
+And I think it's very important
+that we don't have
+
+a small group of people sort of saying you
+can never use it for this thing that,
+
+like most of the world
+wants to use it for
+
+because it doesn't match
+our personal beliefs.
+
+Talk a bit more about some
+of the other uses of it,
+
+because one of the things that's most
+surprising is it's not just about sort
+
+of text responses. It's it can take
+generalized human instructions
+
+and build things up. For example,
+you can say to it,
+
+write a Python program that
+is designed to put
+
+a flashing cursor in one
+corner of the screen,
+
+in the Google logo in the other corner.
+
+And and it can go your way and
+do something like that.
+
+Shockingly, quite well, effectively.
+
+Yeah, I it can.
+
+That's amazing. I mean, this is amazing
+to me. That opens the door to.
+
+An entirely way to think about
+programers for the future,
+
+that you could you could have people who
+can program just in human natural
+
+language potentially and gain rapid
+efficiency. I do the engineering.
+
+We're not that far away from that world.
+
+We're not that far away from the world
+where you will write a spec in English.
+
+And for a simple enough program, I
+will just write the code for you.
+
+As you said, you can see glimpses of that
+even in this very week three which
+
+was not trained to code like. I think
+this is important to remember.
+
+We trained it on the language on the
+Internet very rarely, you know,
+
+Internet let language on the Internet
+also includes some code snippets.
+
+And that was enough, so if we really try
+to go train a model on code itself
+
+and that's where we decide to put the
+horsepower of the model into,
+
+just imagine what will be possible
+will be quite impressive.
+
+But I think what you're pointing
+to there is that
+
+because models like three
+to some degree or other,
+
+and it's like very hard to know
+exactly how much understand
+
+the underlying concepts
+of what's going on.
+
+And they're not just regurgitating
+things they found in a website,
+
+but they can really apply
+them and say, oh, yeah,
+
+I kind of like know about this
+word and this idea and code.
+
+And this is probably what you're trying to
+do. And I won't get it right always.
+
+But sometimes I will just generate
+this like a brand new program
+
+for nothing that anyone has ever
+asked before. And it will work.
+
+That's pretty cool. And data is data. So
+it can do that from English to code.
+
+It can do that from English to French.
+
+Again, we never told it to
+learn about translation.
+
+We never told it about the concepts of
+English and French, but it learned them,
+
+even though we never said this is what
+English is and this is what French is
+
+and this is what it means to translate,
+it can still do it.
+
+Wow, I mean, for creative people,
+
+is there a world coming where the sort of
+
+the palette of possibility that they
+can be exposed to is just explodes?
+
+I mean, if you're a musician,
+
+is there a near future where you can say
+to your eye, OK, I'm going to bed now,
+
+but in the morning I'd love
+you to present me with
+
+a thousand tuba jingles with words
+attached that you have of
+
+a sort of mean factor to the and you
+come down in the morning and
+
+the computer shows you the stuff. And one
+of them, you go, wow, that is it.
+
+That is a top 10 hit and you
+build a song from it.
+
+Or is that going to be released?
+Actually be the value add.
+
+We released something last
+year called Jukebox,
+
+which is very near what you described,
+
+where you can say I want music generated
+for me in this style
+
+or this kind of stuff, and it can
+come up with the words as well.
+
+And it's like pretty cool. And I really
+enjoy listening to music that it creates.
+
+And I can sort of do four songs, two bars
+of a jingle, whatever you'd like.
+
+And one of my very favorite
+artists reached out,
+
+called to open it after we release this
+and said that he wanted to talk.
+
+And I was like, well, I like total fanboy
+here. I'd love to join that call.
+
+And I was so nervous that he was
+going to say, this is terrible.
+
+This is like a really sad thing
+for human creativity.
+
+Like, you know, why are you doing this?
+This is like whatever.
+
+And he was so excited. And he's like,
+this has been so inspiring.
+
+I want to do a new album with this.
+
+You know, it's like, give
+me all these new ideas.
+
+It's making me much better at my job.
+
+I'm going to make better music
+because of this tool.
+
+And that was awesome. And I hope that's
+how it all continues to go.
+
+And I think it is going to lead to this.
+
+We see a similar thing now with Dolly,
+
+where graphic designers sometimes tell us
+that they just they see this new set
+
+of possibilities because there's
+new creative inspiration
+
+and they're cycle time, like the amount
+of time it takes to just come up with
+
+an idea and be able to look
+at it and then decide
+
+whether to go down that path or head in a
+different direction goes down so much.
+
+And so I think it's going to just be this
+like incredible creative explosion
+
+for humans.
+
+And how far away are we some before?
+
+And I it comes up with a genuinely
+powerful new idea,
+
+an idea that solves the problem that
+humans have been wrestling with.
+
+It doesn't have to be as quite
+on the scale as of, OK,
+
+we've got a virus coming. Please
+describe to us what a what
+
+a national rational response
+should look like,
+
+but some kind of genuinely
+innovative idea
+
+or solution like one one internal question
+we've asked ourselves is,
+
+when will the first genuinely interesting,
+purely AI written TED talk show up?
+
+I think that's a great milestone.
+
+I will say it's always hard to guess
+timeline's I'm sure I'll be wrong
+
+on this, but I would guess the
+first genuinely interesting.
+
+Ted talk, thought of written delivered
+by an AIDS within the kind of
+
+the seven ish year time frame.
+Maybe a little bit less.
+
+And it feels like I mean, just reading
+that Guardian essay that was kind of it
+
+was a composite of several different GPG
+three responses to questions about,
+
+you know, the threats of
+robotics or whatever.
+
+If you throw in a human
+editor into the mix,
+
+you could probably imagine something much
+sooner. Indeed. Like tomorrow. Yeah.
+
+So the hybrid the hybrid version where
+it's basically a tool assisted TED talk,
+
+but that it is better than any TED talk
+
+a human could generate in one
+hundred hours or whatever,
+
+if you can sort of combine human
+discretion with A.I. horsepower.
+
+I suspect that's like our next year
+
+or two years from now kind of thing
+where it's just really quite good.
+
+That's that's really interesting. How do
+you view the impact of A.I. on jobs?
+
+There's obviously been the familiar story
+is that every White-Collar job is now
+
+up for destruction. What's
+what's your view there?
+
+You know, it's I think it's always
+hard to make these predictions.
+
+That is definitely the familiar story now.
+
+Five years ago, it was every blue collar
+job is up for destruction,
+
+maybe like last year it was.
+
+Every creative job is up for destruction
+because of things like Jukebox I.
+
+I think there will be an
+enormous impact on.
+
+The job market, and I really hate it,
+
+I think it's kind of gross when
+people like working on
+
+I pretend like there's not going
+to be or sort of say, oh,
+
+don't worry about it. It'll
+just all obviously better.
+
+It doesn't always obviously get better.
+I think what is true is.
+
+Every technological revolution
+produces a change in jobs,
+
+we always find new ones, at least so far.
+
+It's difficult to predict from
+where we're sitting now what
+
+the new ones will be and this
+technological revolution is likely to be.
+
+Again, it's always tempting to
+say this time it's different.
+
+Maybe I'll be totally wrong.
+
+But from what I see now, this
+technological revolution is likely to be
+
+more. Dramatic. More of a
+staccato note than most,
+
+and I think we as a society need to figure
+out how we're going to cushion
+
+everybody through that. I've got my
+own ideas about how to do that.
+
+I, I wouldn't say that I have any reason
+to believe they're the right ones,
+
+but doing nothing and not
+really engaging with
+
+the magnitude of what's about to happen,
+
+I think it's like not an
+acceptable answer.
+
+So there's going to be huge impact.
+
+It's difficult to predict where
+it shows up the most.
+
+I think previous predictions
+have mostly been wrong,
+
+but I I'd like to see us all as a society,
+certainly as a field,
+
+engage in what what the shifts
+we want to make to
+
+the social contract are to kind
+of get through that in
+
+a way that is maximally beneficial
+to everybody.
+
+I mean, in every past revolution,
+
+there's always been a space
+for humans to move to.
+
+That is, if you like, moving
+up the food chain,
+
+it's sort of we've retreated to the things
+that humans could uniquely do,
+
+think better, be more creative
+and so forth.
+
+I guess the worry about A.I. is that
+in principle, I believe this,
+
+that there is no human cognitive feat
+that won't ultimately be doable,
+
+probably better by artificial
+general touch,
+
+simply because of the extra firepower
+that ultimately they can have,
+
+the vast knowledge they bring
+to the table and so forth.
+
+Is that basically right, that there is
+ultimately no safe sort of space where
+
+we can say, oh, but that would
+never be able to do that
+
+on a very long time horizon? I agree with
+you, but that's such a long time horizon.
+
+I think that, you know, like maybe
+we've merged by that point,
+
+like maybe we're all plugged
+in and then, like,
+
+we're this sort of symbiotic thing.
+
+Like, I think there's an
+interesting example,
+
+as we were talking about
+a few minutes ago,
+
+where right now we have these systems that
+have sort of enormous horsepower
+
+but no steering wheel. It's like, you know
+, incredible capabilities,
+
+but no judgment. And there's like these
+obvious ways in which today even
+
+a human plus three is far better
+than either on their own.
+
+Many people speak about a world
+where it's sort of A.I.
+
+as this external threat you speak about.
+
+At some point, we actually merge
+with eyes in some way.
+
+What do you mean by that?
+
+There's a lot of different versions of
+what I think is possible there, you know,
+
+in some sense, I'd argue the merge
+has already like begun
+
+the human technology merge like we have
+this thing in our hands that sort of
+
+dictates a lot of what we think,
+
+but it gives us real superpowers and
+that can go much, much further.
+
+Maybe it goes all the way to like the
+Elon Musk vision of neuro link
+
+and having our brains plugged
+into computers
+
+and sort of like literally we have a
+computer on the back of our head
+
+or goes the other direction and
+we get uploaded into one.
+
+Or maybe it's just that we all have
+
+a chat bot that kind of
+constantly steers us
+
+and helps us make better decisions
+than we could.
+
+But in any case, I think the fundamental
+thing is it's not like the humans versus
+
+the eyes competing to be the. Smartest
+sentient thing on earth or beyond.
+
+But it's that this idea of
+being on the same team.
+
+Hmm. I certainly get very excited by the
+sort of the medium term potential
+
+for creative people of all sorts if
+they're willing to expand their palette
+
+of possibilities. But with the
+use of A.I. to be willing to.
+
+I mean, the one thing that the history
+of technology has shown again
+
+and again is that something this powerful
+and with this much benefit is unstoppable
+
+and you will get rewarded for embracing
+it the most and the earliest.
+
+So talk about what can go wrong with that,
+
+so let's move away from just the sort
+of economic displacement factor.
+
+You were a co-founder of Open Eye because
+you saw existential risks to
+
+humanity from high today. What
+would you put as the sort of
+
+the most worrying of those risks? And
+how is open eye working to minimize?
+
+I still think all of the really
+horrifying risks exist.
+
+I am more confident, much
+more confident than
+
+I was five years ago when we started that
+there are technical things we can do
+
+about. How we build these systems
+and the research and
+
+the alignment that make us much
+more likely to end up in
+
+the kind of really wonderful camp, but,
+you know,
+
+like maybe open I fall behind
+
+and maybe somebody else feels ajai that
+thinks about it in a very different way
+
+or doesn't care as much as we'd like
+about safety and the risks
+
+or how to strike a different trade off
+of how fast we should go with this
+
+and where we should sort of
+just say, like, you know,
+
+like let's push on for the
+economic benefits.
+
+But I think all of this sort
+of like, you know,
+
+traditionally what's been in the
+realm of sci fi risks are real
+
+and we should not ignore them. And
+I still lose sleep over them.
+
+And just to update people is artificial
+general intelligence.
+
+Right now, we have incredible examples of
+powerful AI operating on specific areas.
+
+Ajai is the ability of a computer
+mind to connect the dots
+
+and to make decisions at the same level
+of breadth that that humans have had.
+
+What's your sort of elevator pitch on
+Ajai about how to identify and how
+
+to think of it? Yeah, I mean,
+
+the way that I would say it is that for
+
+a while we were in this world of like
+very narrow A.I. , you know,
+
+that could like classify images of cats or
+whatever, more advanced stuff in that.
+
+But that kind of thing. We are now in
+the era of general purpose, AI,
+
+where you have these systems that are
+still very much imperfect tools,
+
+but that can generalize. And one thing
+like GPP three can write essays
+
+and translate between languages
+and write computer code
+
+and do very complicated search.
+
+It's like a single model that understands
+enough of what's really going
+
+on to do a broad array of tasks
+and learn new things quickly,
+
+sort of like people can. And then
+eventually we'll get to this other realm.
+
+Some people call it ajai, some
+people call ostler things.
+
+But I think it implies that the systems
+are like to some degree self directed,
+
+have some intentionality of their own
+
+is a simple summary to say that,
+
+like the fundamental risk is that there's
+
+the potential with general artificial
+intelligence of
+
+a sort of runaway effect of
+self-improvement that can happen far
+
+faster than any kind of humans
+can even keep up with,
+
+so that the day after you get to ajai,
+
+suddenly computers are thousands
+of times more advanced than us
+
+and we have no way of controlling
+what they do with that power.
+
+Yeah, and that is certainly
+in the risk space,
+
+which is that we build this thing and
+at some point somewhat suddenly,
+
+it's much more powerful than we are, we
+haven't really done the full merge yet.
+
+There's an event horizon there and
+it's sort of hard to see to
+
+the other side of it. Again, lots of
+reasons to think it will go OK.
+
+Lots of reasons to think we won't
+even get to that scenario.
+
+But that is something that.
+
+I don't think people should brush under
+the rug as much as they do,
+
+it's in the possibility space for sure,
+
+and in the possibility subspace
+of that is one where, like,
+
+we didn't actually do as good of a job
+on the alignment work as we thought.
+
+And this sort of child of
+humanity kind of acts in
+
+a very different way than we think.
+
+A framework that I find useful is to sort
+of think about like a two by two matrix,
+
+which is short timelines to ajai
+and long timelines to ajai and
+
+a slow take off and a fast take
+off on the other axis.
+
+And in the short timelines,
+fast take off quadrant,
+
+which is not where I think
+we're going to be.
+
+But if we get there, I think there's
+a lot of scenarios in
+
+the direction that you are describing
+that are worrisome.
+
+And we would want to spend a
+lot of effort planning for.
+
+I mean, the fact that a computer could
+start editing its own code
+
+and improving itself while we're asleep
+and you wake up in the morning
+
+and it's got smarter, that is the start
+of something super powerful
+
+and potentially scary.
+
+I have tremendous misgivings about letting
+my system, not one we have today,
+
+but one that we might not have
+
+and too many more years start editing its
+own code while we're not paying attention.
+
+I think that's the kind
+of thing that is worth
+
+a great deal of societal discussion about,
+you know, just because we can do that.
+
+Should we?
+
+Yes, because one of the things that's
+that's been most shocking to you about
+
+the last few years has been just the
+power of unintended consequences.
+
+It's like you don't have to have
+
+a belief that there's some
+sort of waking up of of
+
+an alien intelligence that suddenly
+decided it wants to wreak havoc
+
+on humans. That may never happen.
+
+What you can have is just incredible
+power that goes amok.
+
+So a lot of people would argue that
+what's happened in technology in
+
+the last few years is actually
+an example of that.
+
+You know, social media companies created
+these intelligences that were programmed
+
+to maximally harvest attention,
+for example, for sure.
+
+And they understand this from that turned
+out to be in some ways horrifying
+
+and extraordinarily
+
+damaging. Is that a meaningful sort of
+canary in the coal mine saying, look out,
+
+humanity, this could be really dangerous?
+
+And how how on earth do you
+protect against those
+
+kinds of unintended consequences?
+
+I think you raise a great
+point in general,
+
+which is these systems don't have to wish
+ill to humanity to cause ill just when
+
+you have, like, very powerful systems. I
+mean, unintended consequences for sure.
+
+But another version of that is
+and I think this applies at
+
+the technical level, at the company level,
+at the societal level,
+
+incentives are superpower's.
+
+Charlie Munger had this thing on,
+
+which is incentives are so powerful that
+if you can spend any time whatsoever
+
+working on the incentive system,
+
+that's what you should do before
+you work on anything else.
+
+And I really believe that.
+
+And I think that applies to the
+individual models we build
+
+and what their reward functions look like.
+
+I think it applies to society
+in a big way,
+
+and I think it applies to our
+corporate structure at open.
+
+I you know, we sort of observe that if
+you have very well-meaning people,
+
+but they have this incentive to sort
+of maximize attention harvesting
+
+and profit forever through
+no one's ill intentions,
+
+that leads to a quite undesirable outcome.
+
+And so we set up opening is this thing
+called a capped profit model specifically
+
+so that we don't have the system incentive
+to just generate maximum value
+
+forever with an AGI that seems
+like obviously quite broken.
+
+But even though we knew that was bad
+
+and even though we all like to think
+of ourselves as good people,
+
+it took us a long time to figure
+out the right structure,
+
+to figure out a charter that's
+going to govern us and
+
+a set of incentives that we believe
+will let us do our work.
+
+And kind of these we have these like
+three elements that we talk about
+
+a lot research sort of engineering,
+
+development and deployment
+policy and safety.
+
+Put those all together under a system
+where you don't have to rely on.
+
+Anything but the natural
+incentives to push in
+
+a direction that we hope will minimize
+
+the sort of negative unintended
+consequences.
+
+So help me understand this,
+
+because this is I think this is confusing
+to some people. So you started opening.
+
+I initially I think Elon Musk,
+the co-founder,
+
+and there was a group of you and
+
+the argument was this technology
+is too powerful to be left,
+
+developed in secret and to be left
+developed purely by corporations who have
+
+whatever incentive they may have.
+
+We need a nonprofit that will develop
+and share knowledge openly.
+
+First of all, just even
+at that early stage,
+
+some people were confused about this.
+
+It was saying if this thing
+is so dangerous,
+
+why on earth would you want to
+
+make it secrets even more available?
+
+Well, maybe giving the tools to that sort
+of AI terrorist in his bedroom somewhere,
+
+I think I think we got misunderstood in
+the way we were talking about that.
+
+We certainly don't think that the
+right thing to do is to, like,
+
+build this a super weapon and hand it to
+a terrorist. That's obviously awful.
+
+One of the reasons that we like our
+API model is it lets us make
+
+the most powerful AI technology anyone
+in the world has, as far as we know,
+
+available to ever would like to use it,
+but to put some controls on its usage.
+
+And also, if we make a mistake,
+
+to be able to pull it back or change it
+or tweak it or improve it or whatever.
+
+But we do want to put and this is
+continued will continue to be true with
+
+appropriate restrictions and guardrails,
+
+very powerful technology in the hands
+of people. I think that is fair.
+
+I think that will lead to the best results
+for the society as a whole.
+
+And I think it will sort
+of maximize benefit.
+
+But that's very different than sort of
+shipping the whole model and saying, here,
+
+do whatever you want with it. We're
+able to enforce rules on it.
+
+We also think and this is part of
+the mission that like something
+
+the field was doing a lot of that we
+didn't feel good about was sort of saying
+
+like, oh, we're going to keep the pace
+of progress and capabilities secret.
+
+That doesn't feel right, because
+I think we do need
+
+a societal conversation about
+what's what's going on here,
+
+what the impacts are going to be.
+
+And so we although we don't always say,
+like, you know, here's the super weapon,
+
+hopefully we do try to say, like, this is
+really serious. This is a big deal.
+
+This is going to affect all of us.
+
+We need to have a big conversation
+about what to do with it.
+
+Help me understand the structure
+a bit better,
+
+because you definitely surprised much
+people when you announced that Microsoft
+
+were putting a billion dollars into
+the organization and in return,
+
+I guess they get certain exclusive
+licensing rights.
+
+And so, for example, they are the
+exclusive licensee of CP3.
+
+So talk about that structure
+of how you win.
+
+Microsoft presumably have invested not
+purely for altruistic purposes.
+
+They think that they will make money
+on that billion dollars.
+
+I sure hope they do. I love capitalism,
+
+but I think that I really loved even
+more about Microsoft as a partner.
+
+And I'll talk about the structure
+and the exclusive license in
+
+a minute is that we like went around
+to people that might find us.
+
+And we said one of the things here is that
+we're going to try to make you some
+
+money. But like Adjei going
+well is more important.
+
+And we need you to sign this document
+that says if things don't go
+
+the way we think and we can't make you
+money like you just cheerfully walk away
+
+from it and we do the right
+thing for humanity.
+
+And they were like, yes, we are
+enthusiastic about that.
+
+We get that the mission comes first here.
+
+So again, I hope a phenomenal
+investment for them.
+
+But they were like they really
+pleasantly surprised us on
+
+the upside of how aligned
+they were with us,
+
+about how strange the world may get here
+and the need for us to have flexibility
+
+and put our mission first, even if that
+means they lose all their money,
+
+which I hope they don't and
+don't think they will.
+
+So the way it's set up is that if at some
+point in the coming year or two,
+
+two years, Microsoft decide that there's
+some incredible commercial opportunity
+
+that they could realize out of the eye
+that you've built and you feel actually,
+
+no, that's that's damaging. You
+can block it. You can veto it.
+
+Correct. So the four most powerful
+version of three
+
+and its successors are available
+via the API,
+
+and we intend for that to continue.
+
+What Microsoft has is the ability to sort
+of put that model directly into their
+
+own technology. If they want to do that.
+
+We don't plan to do that
+with other people
+
+because we can't have all these controls
+that we talked about earlier.
+
+But they're like a close trusted partner
+and they really care about safety, too.
+
+But our goal is that anybody who
+wants to use the API can have
+
+the most powerful versions
+of what we've trained.
+
+And the structure of the API lets us
+continue to increase the safety
+
+and fix problems when we find them.
+But but the structure.
+
+So we start out as a non-profit,
+as you said,
+
+we realized pretty quickly that although
+we went into this thinking that
+
+the way to get to ajai would be about
+smarter and smarter algorithms,
+
+that we just needed bigger and
+bigger computers as well.
+
+And that was going to require a scale
+of capital that no one will,
+
+at least certainly not me, could figure
+out how to raise is a nonprofit.
+
+We also needed to sort of be able to
+compensate very highly compensated,
+
+talented individuals that do this,
+
+but are full for profit company had
+runaway incentives problem,
+
+among other things. Also just one about
+sort of fairness in society
+
+and wealth concentration that didn't
+feel right to us either.
+
+And so we came up with this kind
+of hybrid where we have
+
+a nonprofit that governs what we do,
+and it has a subsidiary, LLC,
+
+that we structure in a way to make
+a fixed amount of profit
+
+so that all of our investors
+and employees,
+
+hopefully if things go how we like,
+if not no one gets any money,
+
+but hopefully they get to make this one
+time great return on their investment
+
+or the time that they spent
+it open their equity here.
+
+And then beyond that, all the value
+flows back to the nonprofit
+
+and we figure out how to share it as
+fairly as we can with the world.
+
+And I think that this structure
+
+and this nonprofit with this very
+strong charter in place
+
+and everybody who joins signing up
+for the mission come in first and
+
+the fact the world may get strange,
+I think that.
+
+That was at least the best idea
+we could come up with,
+
+and I think it feels so far like the
+incentive system is working,
+
+just as I sort of watch the way that
+we and our partners make decisions.
+
+But if I read it right, the cap on
+
+the gain that investors can make is
+100 Axum. It's a massive call that
+
+was for our very first round investors.
+It's way, way lower.
+
+Like as we now take a bit of capital,
+it's way, way lower.
+
+So your deal with Microsoft
+isn't you can only make
+
+the first hundred billion dollars.
+I don't know.
+
+It's way lower than after that.
+We're giving it to the world.
+
+It's way lower than that.
+Have you disclosed
+
+what I don't know if we have, so
+I won't accidentally do it now.
+
+All right. OK, so explain a bit more about
+the charter and how it is that you.
+
+Hope to avoid or I guess help contribute
+to an eye that is safe for humanity.
+
+What do you see as the keys to us
+avoiding the worst mistakes
+
+and really holding on to something that's
+that's beneficial for humanity?
+
+My answer there is actually more about,
+
+like technical and societal
+issues than the charter.
+
+So if it's OK for me to answer it
+from that perspective, sure.
+
+OK, I'm happy to talk about
+the charter to.
+
+I think this question of alignment
+that we talked about
+
+a little earlier is paramount,
+
+and then I think to understand that it's
+useful to differentiate between
+
+accidental misuse of a system and
+intentional misuse of a system.
+
+So like intentional would be a bad actor
+saying, I've got this powerful system,
+
+I'm going to use it to like hack into
+all the computers in the world
+
+and wreak havoc on the power grids.
+
+And accidental would be kind of the Nick
+Bostrom make a lot of paper clips
+
+and view humans as collateral
+damage in both cases.
+
+But to varying degrees, if
+we can really, truly,
+
+technically solve the alignment
+problem and
+
+the societal problem of deciding to which
+set of human values do we align,
+
+then the systems understand
+right and wrong,
+
+and they understand probably
+better than we ever can,
+
+unintended consequences from complex
+actions and very complex systems.
+
+And, you know, if we can train
+a system which is like.
+
+Don't harm humanity and the system can
+really understand what we mean when we
+
+say that, again, who is we and what does
+that have some asterisks on them?
+
+Sorry, go ahead.
+
+Well, that's if they could understand
+what it means to not harm humanity,
+
+that there's a lot wrapped
+up in that sentence.
+
+Because what's been so striking
+to me about efforts
+
+so far is that they seem
+to have been based on
+
+a very naive view of human nature.
+
+Go back to the sort of Facebook
+and Twitter examples of, well,
+
+the engineers building some of
+
+the systems would say we've just designed
+them around what humans want to do.
+
+You said, well, if someone wants
+to click on something,
+
+we will give them more of that thing. And
+what could possibly be wrong with that?
+
+We're just supporting human choice,
+
+ignoring the fact that humans are
+complicated, farshid animals for sure,
+
+who are constantly making choices,
+
+that a more effective version of
+themselves would agree is not in their
+
+long term interests. So
+that's one part of it.
+
+And then you've got layered
+on top of that or
+
+the complications of systemic
+complexity where, you know,
+
+multiple choices by thousands
+of people end up creating
+
+a reality that possibly have designed
+for how how to cut through that.
+
+Like an AI has to make a decision based
+on a moment, on a specific data set.
+
+As those decisions get more powerful,
+
+how can we be confident that they don't
+lead to this sort of system crashing
+
+basically in some way?
+
+I think that I've heard a lot
+of behavioral psychologists
+
+and other people that have studied
+this say in different ways,
+
+are that I hate to keep
+picking on Facebook,
+
+but we can do it one more time
+since we're on the topic.
+
+Maybe you can't in any given moment in
+night where you're tired and you have
+
+a stressful day, stop yourself from
+the dopamine hit of scrolling
+
+and Instagram, even though you
+know that's bad for you
+
+and it's not leading to your best life.
+
+But if you were asked in a reflective
+moment where you were sort of fully alert
+
+and thoughtful, do you want
+to spend as much time
+
+as you do scrolling through Instagram?
+Does it make you happier or not?
+
+You would actually be able to give
+like the right long term answer?
+
+It's sort of the spirit is willing, but
+the flesh is weak kind of moment.
+
+And one thing that I am hopeful is that
+humans do know what we want and what.
+
+On the whole, and presented
+with research or sort of
+
+an objective view about what makes us
+happy and doesn't we're pretty,
+
+what's so great about it,
+they're pretty good.
+
+But in any particular moment,
+
+we are subjected to our animal
+instincts and it is easy for
+
+the lower brain to take over the eye. Well
+, I think be an even higher brain.
+
+And as we can teach it, you know,
+here is what we really do value.
+
+Here's what we really do want.
+
+It will help us make better decisions
+than we are capable of,
+
+even in our best moments.
+
+So is that being proposed and talked
+about as an actual rule?
+
+Because it strikes me that there is
+something potentially super profound here
+
+to introduce some kind of rule
+
+for development of AIDS that
+they have to tap into not.
+
+What humans one, which is
+an ill defined question,
+
+but as to what humans in reflective mode
+want. Yeah, we talk about this a lot.
+
+I mean, do you see a real chance where
+something like that could be incorporated
+
+as a sort of an absolute golden
+rule and and if you like,
+
+spread around the community so that it
+seeps into corporations and elsewhere?
+
+Because that I've seen no
+evidence that, well,
+
+a little corporation that was
+potentially a game changer.
+
+Corporations have this weird
+incentive problem. Right.
+
+What I was trying to speak
+about was something that
+
+I think should be technologically possible
+,
+
+and that's something that we
+as a society should demand.
+
+And I think it is technically possible for
+this to be sort of like a layer above
+
+the neocortex that makes even better
+decisions for us and our welfare
+
+and our long term happiness and
+fulfillment than we could make
+
+on our own. And I think it is possible
+for us as a society to demand that.
+
+And if we can do like a pincer move
+between what the technology is capable of
+
+and what we what we as society demand,
+
+maybe we can make everybody
+in the middle that way.
+
+I mean, there are instances of even though
+companies have their incentives to
+
+make money and so forth, they
+also in the knowledge age.
+
+Can't make money if they have pissed
+off too many of their employees
+
+and customers and investors by analogy
+of the climate space right now,
+
+you can see more and more companies,
+
+even those that are emitting huge amounts
+of carbon dioxide, saying, wait a sec,
+
+we're struggling to recruit talented
+people because they don't want to work
+
+for someone who's evil. And their
+customers are saying,
+
+we don't want to buy something
+that is evil.
+
+And so, you know, ultimately you can
+picture processes where they do better.
+
+And I I believe that most engineers, for
+example, work in Silicon Valley.
+
+Companies are actually good people
+who want to design great products
+
+for humanity. I think that the people
+who run these companies want to be
+
+a net contribution to humanity.
+
+It's we've we've rushed really quickly
+
+and design stuff without thinking
+it through properly.
+
+And it's led to a mess up.
+
+So it's like, OK, don't move fast,
+break things,
+
+slow down and build beautiful
+things that are built on
+
+a real version of human nature and on
+a real version of system complexity
+
+and the risks associated with
+systemic complexity.
+
+Is that the agenda that fundamentally
+you think that you can push somehow?
+
+Yes, but I think the way we can push it is
+by getting the incentive system right.
+
+I think most people are fundamentally
+extremely good.
+
+Very few people wake up in the morning
+thinking about how can I make the world
+
+a worse place? But the incentive systems
+that we're in are so powerful.
+
+And even those engineers who join with
+
+the absolute best of intentions get sucked
+into this world where they're like
+
+trying to go up from it all for and five
+or whatever Facebook calls those things
+
+and you like, it's pretty exciting.
+
+You get caught up playing the game,
+
+you're rewarded for kind of doing things
+that move the company's key metrics.
+
+It's like fun to get promoted.
+
+It feels good to make more money and the
+incentive systems of the company.
+
+And that's what it rewards.
+
+An individual performance are maybe
+like not what we all want.
+
+And here I don't want to pick
+on Facebook at all because
+
+I think there's versions of this at play
+it like every big tech company,
+
+including in some ways I'm
+sure it open I but to
+
+the degree that we can better align
+the incentives of companies with
+
+the welfare of society and
+then the incentives of
+
+an individual at those companies within
+the now realign incentives
+
+for those companies, the more likely we
+are to be able to have things like ajai
+
+that. Follow an incentive system of.
+
+What we want in our most
+reflective best moments
+
+and are even better than what
+we could think of ourselves
+
+is is it still the vision for open
+eye that you will get to?
+
+Artificial general intelligence ahead of.
+
+The corporations, so that you can somehow
+put a stake in the ground
+
+and build it the right way.
+
+Is that really a realistic
+thing to to dream for?
+
+And if not, how do you live
+up to the mission
+
+and help ensure that this thing
+doesn't go off the rails?
+
+I think it is. Look, I certainly don't
+think we will be the only group to build
+
+an AGI, but I think we could be the first.
+
+And I think if you are the first, you
+have a lot of norms that empower.
+
+And I think you've already seen that.
+
+You know, we have released some of the
+most powerful systems to date.
+
+And I think the way that we have done that
+kind of in controlled release where
+
+we've released a bigger model than
+a bigger one than a bigger one,
+
+and we sort of try and talk about
+the potential misuse cases
+
+and we try to like talk about the
+importance of releasing this behind
+
+an API so that you can make changes.
+
+Other groups have followed suit
+in some of those directions,
+
+and I think that's good. So, yes,
+
+I don't think we can be the only
+I do think we can be ahead.
+
+And if we are ahead, I think we can use
+that leverage to hopefully push people
+
+in a better direction or maybe we're
+wrong and somebody else has
+
+a better direction. We're
+doing something about
+
+do you have a structural advantage in
+that your mission is to do this
+
+for everyone as opposed to for
+some corporate objective.
+
+And that that that allows you that.
+
+Why is it that we came out of open
+eye and not someone else?
+
+It's like it's surprising in some ways
+when you're up against so much money
+
+and so much talent in these other
+companies that you came up with this
+
+platform ahead of. You know, in
+
+some sense it's surprising
+and in some sense,
+
+like the startup wins most of the time,
+
+like I'm a huge believer in
+startups as the best force
+
+for innovation we have in the world today.
+
+I talked a little bit about how
+we combine these three.
+
+Different clans of research,
+
+engineering and sort of safety
+
+and policy that don't normally combine
+well and I think we have
+
+an unusual strength, there were
+clearly like well funded.
+
+We have super talented people.
+
+But what we really have
+is like intense focus
+
+and self belief that what we're
+doing is possible and good.
+
+And I appreciate the implied compliment.
+
+But, you know, we, like, work really hard.
+
+And if we stop doing that, I'm sure
+someone would run by us fast.
+
+Tell us a bit more about some of
+your prior life sentences.
+
+Yeah, for several years, you
+were running Y Combinator,
+
+which had incredible impact
+on some 70 companies.
+
+There are so many startup stories
+that began at Y Combinator.
+
+What were key drivers in your own life
+that took you on the path you're on?
+
+And how did that path end
+up at Y Combinator?
+
+No exaggeration. I think I have back to
+back had the two jobs that are at least
+
+the most interesting to me
+in all of Silicon Valley.
+
+I, I was I went to college to
+study computer science.
+
+I was a major computer nerd growing up.
+
+I knew like a little bit about startups,
+but not very much.
+
+I started working on this project the
+same year I started working on that.
+
+This thing called Y Combinator started
+and funded me and my co-founders.
+
+And we dropped out of school
+and did this company,
+
+which I ran for like seven years. And
+then after that I got acquired.
+
+I had stayed close to my
+comment the whole time.
+
+I thought it was just this incredible
+group of people and spirit
+
+and set of incentives and just badly
+misunderstood by most of the world,
+
+but obvious to everyone within it that it
+was going to create huge amounts of
+
+value and do a lot of new things.
+
+My company had acquired PJI,
+who is the founder of ICI,
+
+and like truly one of the most incredible
+humans and business people.
+
+And Paul Burrell, Paul Graham asked
+me if I wanted to run it.
+
+And kind of like the central
+learning of my career,
+
+why I individual startups has been
+that if you really scale them up,
+
+remarkable things can happen. And I.
+
+I did it and I was like, one of the things
+that would make this exciting
+
+for me personally motivating would
+be if I could sort of push it in
+
+the direction of doing these hard tech
+companies, one of which became open.
+
+I describe actually
+
+what Y Combinator is, you know,
+
+how many people come through it to give
+us a couple of stories of its impact.
+
+Yeah. So you basically apply as a
+handful of people and an idea,
+
+maybe a prototype and say,
+
+I would like to start a company
+and will you please fund me?
+
+And we review those applications and
+we I shouldn't say we anymore.
+
+I guess they fund four hundred
+companies a year.
+
+You get about one hundred and fifty
+thousand dollars while she takes about
+
+seven percent ownership and then gives you
+lots of advice and then networking
+
+and sort of this like fast track
+program for starting a startup.
+
+I haven't looked at this in a while,
+
+but at one point a significant
+fraction of
+
+the billion dollar plus companies
+in the US that got started.
+
+It all came through the Wiki program,
+
+some recently in the news ones have been
+like Airbnb, Jordache, Coinbase,
+
+insta card stripe. And I think it's just
+it has become an incredible way to help.
+
+People who understand technology get
+a three month course in business,
+
+but instead of like herding
+you with an MBA,
+
+we actually teach you the things that
+matter and kind of go on to do incredible,
+
+incredible work.
+
+What is it about entrepreneurs?
+Why do they matter?
+
+Some people just find them
+kind of annoying.
+
+But I think you would argue I think
+I would argue that they have done
+
+as much as anyone to shape the future. Why
+? What is it about them?
+
+I think it is the ability to take.
+
+And idea and by force of will to make
+it happen in the world and in
+
+an incentive system that rewards you
+for making the most impact on
+
+the most people like in our system.
+
+That's how we get most of the
+things that that we use.
+
+That's how we got the computer
+that I'm using,
+
+the software I'm using
+to talk to you on it.
+
+Like all of this, you know, everyone in
+life, everything has a balance sheet.
+
+There's plenty of very annoying
+things about them.
+
+And there's plenty of very
+annoying things about
+
+the system that sort of idolizes them.
+
+But we do get something really
+important in return.
+
+And I think that as a force
+
+for making things that make all of our
+lives better happen, it's very cool.
+
+Otherwise, you know, like if you have,
+like, a great idea,
+
+but you don't actually do anything useful
+with it for people, that's still cool.
+
+It's still intellectually interesting.
+
+But like, there's got to
+be something about
+
+the reward function in
+society that is like,
+
+did you actually do something useful?
+Did you create value?
+
+And I think entrepreneurship
+and startups are
+
+a wonderful way to do that. You know, we
+get all these great software companies.
+
+But I also think it's like how
+we're going to get ajai,
+
+how we're going to get nuclear fusion, how
+we're going to get life extension.
+
+And like on any of those topics are
+a long list of other things
+
+I could point to. There's like
+a number of startups that
+
+I think are doing incredible work, some
+of which will actually deliver.
+
+It is a truly amazing thing when you put
+the camera back and to believe that
+
+a human being could be
+lying awake at night
+
+and something pops inside their
+mind as a patterning of
+
+the neurons in their brain that is
+effectively them saying, aha,
+
+I can see a way where the future
+could be better and
+
+and they can actually picture it.
+
+And then they wake up and then they talk
+to other people and they persuade them
+
+and they persuade investors and so forth.
+
+And the fact that this this
+system can happen
+
+and that they can then actually change
+the history changes in some sense.
+
+It is mind boggling that that happens that
+way and it happens again and again.
+
+So you've seen so many of these stories
+happen. What would you say?
+
+Is the is there a key thing that
+differentiates good entrepreneurs from
+
+others? If you could double down
+on one trait, what would it be?
+
+If I could pick only one, I
+would pick determination.
+
+I think that is the biggest
+predictor of success,
+
+the biggest differentiator predictor.
+
+And if you would allow a second,
+
+I would pick like communication
+skills or evangelism
+
+or something in that direction as well.
+
+There are all of the obvious ones
+that matter, like intelligence,
+
+but there's like a lot of smart
+people in the world.
+
+And when I look back at kind of
+
+the thousands of entrepreneurs
+I've worked with,
+
+all of many of whom were
+like quite capable,
+
+I would say that's like one and two of
+
+the surprisingly differentiated
+characteristics.
+
+What it's it's what I look at,
+
+the different things that you've
+built and you're working on.
+
+I mean, it could not be more foundational
+for the future. I mean, entrepreneurship.
+
+I know this is I agree that this is
+really what has driven the future.
+
+Do you see some people get really now they
+look at Silicon Valley and they look
+
+at this story and they worry
+about the culture. Right.
+
+That it's this is a bro culture.
+
+Do you see prospects of that changing
+anytime soon? And would you welcome it?
+
+Can we get better companies by
+really working to expand
+
+a group of people who
+can be entrepreneurs
+
+and who can contribute
+to aid, for example?
+
+For sure. And in fact,
+I think I'm hopeful,
+
+since these are the two things
+I've thought the most about.
+
+I'm excited for the day when
+someone combines them
+
+and uses A.I. to better select
+who did more fairly,
+
+maybe even select who to fund
+and how to advise them
+
+and really kind of make entrepreneurship
+super widely available that will lead
+
+to like better outcomes and sort of more
+societal wealth for all of us. So are.
+
+So, yeah, I think.
+
+Broadening the set of people able to start
+companies and that sort of get
+
+the resources that you need,
+
+that is like an unequivocally good
+thing and it's something that
+
+I think Silicon Valley is making some
+progress in. But I hope we see a lot more.
+
+And I do really, truly think that
+
+the technology industry entrepreneurship
+is one of the greatest forces for
+
+self betterment. If we can
+just figure out how to be
+
+a little bit more inclusive
+in how we do things.
+
+My last question today is about
+ideas were spreading.
+
+If you could inject one idea into
+the mind of everyone listening,
+
+what what would the idea be?
+
+We've touched on it a bunch,
+
+but the one idea would be the ajai
+really is going to happen.
+
+You have to engage with it seriously,
+
+and you shouldn't just listen to this and
+then brush aside and go about life
+
+as if it's not going to happen because
+it is going to affect everything.
+
+And we will all we all, I think,
+have an obligation,
+
+but also an opportunity to figure out what
+not means and how we want the world
+
+and this sort of one time shift to go
+
+on.
+
+I'm kind of awed by the breadth
+of things are engaged with.
+
+Thank you so much for spending so
+much time sharing your vision.
+
+Thanks so much for having me.
+
+OK, that's it for today. You can
+read more about open eyes,
+
+vision and progress at open eye dotcom.
+
+If you want to try playing with yourself,
+it's a little tricky.
+
+You have to find a website that
+has licensed the API.
+
+The one I went to was philosopher
+ehi dot com,
+
+where you just you pay a few dollars to
+get access to a very strange mind.
+
+That's actually quite a lot of fun.
+
+The interview is part of the
+TED Audio Collective,
+
+a collection of podcasts dedicated
+to sparking curiosity
+
+and sharing ideas that matter.
+
+This show is produced by Kim Net2Phone
+Pittas and edited by Grace Rubenstein
+
+and Sheila Boffano, Sambor Islamic Sir.
+
+Fact Check is by Paul Durbin and special
+thanks to Michele Quent,
+
+Colin Helmes and Anna Felin. If you like
+the show, please write and review it.
+
+It helps other people find us.
+
+We read every review, so thanks so much
+for listening. See you next time.

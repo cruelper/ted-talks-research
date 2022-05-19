@@ -1,0 +1,656 @@
+A few years ago,
+
+an American defense consultant I know
+
+told me about a trip
+he took to Uzbekistan.
+
+His role there was to help sell technology
+
+that the Uzbek government could use
+to spy on its own citizens.
+
+He eventually shared with me
+the marketing material
+
+he'd presented to the Uzbek government.
+
+One glossy brochure featured technology
+that could not just intercept phone calls,
+
+but identify the caller,
+
+regardless of what phone number
+they were using,
+
+based on their unique voiceprint,
+
+and then identify their exact
+geographic location.
+
+This is a guy who had been involved
+with the arms trade for years.
+
+He wasn't some Hollywood-type gunrunner
+doing backroom deals.
+
+He was just a guy that worked
+with legitimate Western companies
+
+to help sell their weapons abroad.
+
+But he wasn't bothered
+by marketing this sort of technology.
+
+For him, it was just the next step
+in the arms trade.
+
+And it was even easier than, say,
+selling weapons to Iraq,
+
+because it didn't require
+an export license
+
+from the US State Department,
+
+the way most arms sales would.
+
+It turns out that these
+tools of surveillance
+
+are almost completely unregulated,
+
+because as of today,
+they're not defined as weapons.
+
+But they should be, and we need
+to regulate them that way.
+
+I'm a journalist
+who has spent the last two decades
+
+looking at how the military
+and intelligence world
+
+spurs the development
+of new science and technology.
+
+I've tracked the emergence of new weapons
+
+and looked to see what happens
+
+when companies start to market
+these weapons abroad.
+
+But what is a weapon
+in the information age?
+
+We know that armed drones are weapons,
+
+missiles and bombs are weapons,
+
+but the State Department
+actually classifies
+
+broad categories
+of technologies as weapons.
+
+So for example, a scientist going abroad
+on an oceanographic research vessel,
+
+they want to take
+the latest night-vision goggles?
+
+That, according to the State Department,
+is potentially a weapon.
+
+Why?
+
+Well, because though night-vision goggles
+are used today by scientists
+
+and hunters around the world,
+
+it was a capability
+first developed for the military.
+
+And yet, tools of surveillance
+
+that an authoritarian regime could use
+to spy on its own citizens,
+
+on dissidents, on journalists,
+
+that, according to the US government
+today, is not a weapon.
+
+And yet, these tools of surveillance
+
+are part of a growing secretive
+multi-billion-dollar industry.
+
+The genesis of this spy bazaar
+goes back some 18 years,
+
+to a Hilton hotel in northern Virginia,
+
+just a few miles away
+from the US Central Intelligence Agency.
+
+A few dozen people,
+mostly dark-suited men,
+
+gathered there in the spring of 2002
+
+for a conference with
+the unassuming name of ISS World.
+
+You know, at first glance, this conference
+probably looked like dozens of events
+
+that used to take place
+around the Washington, DC area.
+
+But this event was unique.
+
+ISS stands for Intelligence
+Support Systems,
+
+and the people who were there
+
+were from companies
+that built technologies to spy
+
+on private communications.
+
+In other words, these were
+sort of wire-tappers for hire.
+
+And the reason they were there
+was that less than a year earlier,
+
+the 9/11 terrorist attacks
+on New York and Washington
+
+had spurred the Congress
+to press through legislation
+
+known as the Patriot Act.
+
+This gave the government
+broad new authorities
+
+to monitor communications.
+
+Emails, internet activity, phone calls,
+
+even financial transactions.
+
+This created an instant demand for data.
+
+And in the true American
+entrepreneurial spirit,
+
+an industry rose up
+to help collect this data.
+
+But back in 2002,
+
+this was still a pretty modest affair.
+
+Only about 10 percent
+of the world's population
+
+was even online using the internet.
+
+So most of what was being collected
+were simple emails and phone calls
+
+over landlines and cell phones.
+
+But over the next few years,
+
+the way that we communicate
+began to change rapidly.
+
+There was the introduction
+of Skype, Facebook
+
+and then, crucially, the iPhone,
+
+and within a few years,
+
+billions of us were walking around
+with little computers in our pockets
+
+that do everything
+from monitor our exercise habits
+
+to help us find romantic partners.
+
+And suddenly, you didn't necessarily need
+the advanced capability
+
+of the National Security Agency
+or big telecoms
+
+to monitor everyone's communication.
+
+In some cases,
+
+all you needed was access
+to that device in their pockets.
+
+And that gave birth to an entirely
+new type of industry.
+
+You know, not many companies
+can build missiles or aircraft,
+
+but it doesn't take a lot of capital
+to create software
+
+that can hack into someone's smartphone.
+
+Computer hackers
+have been around for years,
+
+but now their skills could be used
+to build technologies
+
+that were in high demand
+by law enforcement
+
+and intelligence agencies.
+
+And soon, dozens
+and even hundreds of companies
+
+were getting into this
+wire-tappers' market.
+
+And that little conference in Virginia,
+
+it grew and soon became known
+as the Wiretappers' Ball.
+
+Well, not much was known
+about the Wiretappers' Ball
+
+in those early years,
+
+because the conferences
+were closed to everyone
+
+except the companies
+and their government customers.
+
+But journalists did begin to see
+and hear reports
+
+of companies getting
+into this private spy market.
+
+Spooky entrepreneurs
+going around the world,
+
+doing deals,
+
+often with authoritarian regimes.
+
+And it was, from the start,
+a really loosely regulated market.
+
+Some countries do require permission
+to sell these technologies abroad,
+
+but rarely with the type of scrutiny
+that is given to traditional arms.
+
+So for example, the Italian-based
+company Hacking Team
+
+reportedly sold its technology
+to authoritarian regimes
+
+in Egypt and Kazakhstan.
+
+The Israeli-based company NSO Group
+has reportedly sold its technology
+
+to the regime in Saudi Arabia,
+
+which has been accused of harassing,
+
+and even, in one case,
+killing one of its political opponents.
+
+And we do think of weapons
+as things that kill people.
+
+But in the information age,
+
+some of the most powerful weapons
+are things that can track and identify us.
+
+This is something that the Pentagon
+and CIA have recognized for years,
+
+and they've tried to build technologies
+
+that can track people,
+suspected terrorists, around the globe.
+
+The Pentagon has invested
+in something called smart dust,
+
+little microsensors
+the size of specs of dust
+
+that you could scatter on people
+without them knowing it,
+
+and then use it to track their location.
+
+The Pentagon, through
+its venture capital firm,
+
+has invested in a beauty products company
+once featured in "Oprah Magazine"
+
+to build a device that could
+surreptitiously collect DNA
+
+just by swiping across the skin.
+
+But something remarkable has happened
+over the past decade.
+
+In many cases, what the private
+marketplace has been able to do
+
+has far outstripped what the Pentagon
+or CIA even thought was possible.
+
+Back in 2008,
+
+the Pentagon had a secretive database
+of DNA from terrorists.
+
+It had about 80,000 samples.
+
+Well, the private company AncestryDNA
+
+today has samples
+from over 15 million people.
+
+23andMe, the second-largest
+genealogical database,
+
+has samples from over 10 million people.
+
+So now, maybe you don't need
+these James Bond-worthy techniques
+
+of collecting DNA
+
+if we're willingly handing it over
+to private companies
+
+and even paying for the honor of doing it.
+
+Well, what could you do
+with a sample of someone's DNA?
+
+In the United States and China,
+
+researchers are working
+on using DNA samples
+
+to build images of people's faces.
+
+So if you pair DNA
+with facial recognition technology,
+
+you have the basis of a really
+powerful surveillance system
+
+that could be used to track individuals
+or entire ethnic groups.
+
+And if you think that sounds
+a little bit paranoid,
+
+keep in mind that the Pentagon
+last year sent out a memo
+
+to all of its service members,
+
+warning them precisely not to use
+those commercial DNA kits
+
+over concerns that information
+could be used to track them
+
+or their family members.
+
+And yet, even with the Pentagon
+raising concerns about this technology,
+
+almost nothing has been done
+to reign in this market.
+
+One American company, Clearview AI,
+
+has been collecting billions
+of images of people's faces
+
+from across the internet,
+
+like those pictures you post on Instagram
+of you and your friends and family,
+
+and then selling its facial
+recognition services
+
+to US government
+and law-enforcement agencies.
+
+And even if you think
+
+that's a perfectly acceptable
+application of this technology,
+
+there's nothing to stop them
+from selling to private individuals,
+
+corporations or even foreign governments.
+
+And that's exactly
+what some companies are doing.
+
+That Wiretappers' Ball
+that started in northern Virginia?
+
+Today, it's held in multiple cities
+around the globe.
+
+Thousands of people now attend
+the ISS trainings and conferences.
+
+And more of the companies showing up
+are coming from the Middle East and China.
+
+The spy bazaar has gone global.
+
+And at arms shows now around the world,
+
+you'll see companies displaying
+facial recognition technology
+
+and phone hacking software,
+
+displaying right next
+to traditional arms manufacturers
+
+with tanks and missiles.
+
+And walking around these arms shows,
+
+it's pretty easy to go down
+dystopian rabbit holes,
+
+thinking about future
+surveillance technology
+
+that will track our every move.
+
+And I remember one
+Pentagon adviser telling me
+
+that what the military really needed
+were space-based satellites
+
+that could track people anywhere on earth
+based just on their DNA.
+
+It's enough to make you invest
+in tinfoil hats.
+
+But the truth is,
+
+we don't know what sort
+of technology the future will bring.
+
+But we know that today,
+in the absence of regulation,
+
+this marketplace is already exploding.
+
+And in fact, one of those companies
+accused of selling surveillance technology
+
+to authoritarian regimes,
+
+today, it's offering to help track
+those infected with COVID-19.
+
+And of course, technology does offer
+the tantalizing promise
+
+of helping control a pandemic
+through contact tracing.
+
+But it also opens up another door,
+to privatized mass surveillance.
+
+So what do we do
+about this private spy bazaar?
+
+We can hide, go offline,
+
+get off social media,
+ditch our smartphones,
+
+go live in a cave,
+
+but the truth is, we're not trained
+to be professional spies,
+
+we can't live under false identities
+or with no identities.
+
+And even real spies are having a hard time
+staying below the radar, these days.
+
+It doesn't matter how many
+passports Jason Bourne has
+
+if his face or DNA
+is in someone's database.
+
+But if even governments have lost control
+of the tools of spying,
+
+is there anything we can do about it?
+
+One argument I've heard
+
+is that even if the US
+were to restrict companies
+
+from selling this sort
+of technology abroad,
+
+companies based in China
+might simply step in.
+
+But we regulate the arms trade today,
+
+even if we do it imperfectly.
+
+And in fact, there was a multilateral
+proposal several years ago
+
+to do just that,
+
+to require export licenses
+for surveillance software.
+
+The United States
+was among those countries
+
+that agreed to these
+voluntary regulations,
+
+but back in Washington,
+this proposal has simply languished.
+
+We have an administration
+that would rather sell more weapons abroad
+
+with fewer restrictions,
+
+including to some of those countries
+
+accused of abusing
+surveillance technology.
+
+I think to move forward,
+we would need to revive that proposal,
+
+but even go one step further.
+
+We need to fundamentally change
+how we think of surveillance technology
+
+and define these tools as weapons.
+
+This would allow government
+
+to regulate and control
+their sale and export
+
+the way that they control
+traditional arms,
+
+advanced aircraft and missiles.
+
+But that means recognizing
+that technology that tracks who we are,
+
+what we do, what we say,
+
+and even in some cases, what we think,
+
+is a form of advanced weaponry.
+
+And these weapons
+are growing too powerful,
+
+available to the highest bidder,
+
+and according to the whims
+of the spy bazaar.
+
+Thank you.

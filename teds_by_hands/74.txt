@@ -1,0 +1,435 @@
+You're sitting in the doctor's office
+waiting for test results.
+
+She comes in and says,
+
+"You have Parkinson's disease."
+
+Your heart sinks, and you think about
+everything that will go wrong:
+
+you'll be unable to walk, unable to feed
+yourself, your hands trembling, drooling,
+
+unable to swallow.
+
+But before you say anything, she says,
+
+"Not to worry, we'll put
+in an order for your cells today."
+
+You come back a week later,
+
+and a surgeon transplants
+brand new neurons into your brain.
+
+You just received an on-demand
+functional cure for Parkinson's,
+
+made from your cells.
+
+It sounds like science fiction,
+but in the future,
+
+we will all have the option of having
+our stem cells banked ahead of time
+
+so that any time you need new neurons,
+new muscle cells, new skin cells,
+
+they'd be generated from this bank.
+
+And because they're
+100 percent your cells,
+
+your immune system is extremely unlikely
+to reject or attack those cells.
+
+In fact, the body has no idea
+
+that these cells were
+actually made in a cell factory.
+
+All of this is possible
+because of a breakthrough
+
+at the intersection of biology,
+laser physics and machine learning.
+
+We'll start with biology.
+
+The human body is an absolute miracle.
+
+Trillions of cells are working
+in synchronicity
+
+to pump blood, secrete dopamine
+
+and let me see and speak to you right now.
+
+But as we age, our cells age, too.
+
+That's why our skin starts to sag,
+
+our cartilage wears away,
+
+and your five-mile run
+might turn into a 20-minute walk.
+
+Yes, we're all getting older.
+
+Our bodies are ticking time bombs.
+
+But stem cells could offer a solution,
+
+because one stem cell can become
+almost any cell in your body.
+
+My grandma passed away
+due to diabetes in 2012.
+
+If the technology
+were available at the time,
+
+we could have used her stem cells
+to generate new pancreatic cells,
+
+and it could have cured her.
+
+Now, unfortunately, stem cells
+are notoriously difficult to engineer.
+
+One fundamental problem
+relates to how they're made,
+
+which involves taking
+a patient's blood cells
+
+and adding chemicals to those blood cells
+to turn them into stem cells.
+
+Now, during this chemical process,
+
+you never end up with
+a perfect set of stem cells.
+
+In fact, you get a very messy plate
+of cells going in different directions --
+
+towards the eye, brain, liver --
+
+and every random cell must be removed.
+
+Until recently, the main way
+to remove cells was by hand.
+
+I remember the first time I visited
+the Harvard Stem Cell Institute.
+
+I watched a highly skilled scientist
+sitting at a bench looking at stem cells,
+
+evaluating them one at a time
+
+and removing the unwanted cells by hand.
+
+It's a slow, tedious
+and artisanal process,
+
+which is why generating
+a personalized stem cell bank today
+
+costs about one million dollars.
+
+Now, using a donor's stem cells
+is much cheaper,
+
+but your immune system will likely
+attack or reject those cells
+
+unless you take immunosuppressants,
+
+which, unfortunately, is not an option
+for a lot of people,
+
+especially the elderly.
+
+To avoid this problem,
+
+some scientists are banking stem cells
+
+from individuals with the most
+common genetic backgrounds.
+
+Here in the US,
+
+let's say we made a cell bank
+with 100 of the most common cell lines.
+
+It could work for about
+75 percent of Caucasians,
+
+50 percent of African Americans.
+
+But it gets harder.
+
+My cofounder is Filipina-Mexican,
+
+and it's unclear if she would
+be ever covered by a bank.
+
+And regardless,
+
+if you could choose between using
+a stranger's cells versus your own,
+
+wouldn't you choose your own?
+
+Personalized stem cells
+are our opportunity
+
+to make medicines that truly work
+for me, for you and everyone.
+
+And in order to make this process of stem
+cell production affordable and scalable,
+
+we have to automate it.
+
+Different people are taking
+different approaches to doing that,
+
+and I decided to use physics.
+
+Since childhood, I've been
+a die-hard physics fan,
+
+gazing at the stars,
+
+daydreaming about space travel.
+
+Thanks, Mom, for not thinking I was weird!
+
+My family moved around a lot,
+
+from Saudi Arabia to Germany
+to Sri Lanka to Bangladesh,
+
+and each time, I had to learn
+new languages and cultures.
+
+Eventually, I fell in love with physics
+because it was a universal language
+
+that I didn't have to relearn every time.
+
+When I started my PhD,
+I joined a laser physics lab,
+
+because lasers are the coolest.
+
+But I also decided to dabble in biology.
+
+I started using lasers
+to engineer human cells,
+
+and when I talked to biologists
+about it, they were amazed.
+
+Here's why: scientists are always looking
+for ways to make biology more precise.
+
+Sometimes cell culture
+can feel a lot like cooking:
+
+take some chemicals, put it in a pot,
+stir it, heat it, see what happens,
+
+try it all over again.
+
+In contrast, lasers are so precise,
+
+you can target one cell in millions
+at precise intervals --
+
+every second, every minute,
+every hour -- you name it.
+
+I realized that instead of doing
+this tedious process of stem cell culture
+
+by hand,
+
+we could use lasers to remove
+the unwanted cells.
+
+And to automate the entire process,
+
+we decided to use machine learning
+to identify those unwanted cells
+
+and zap them.
+
+Algorithms today are great at finding
+useful information and images,
+
+making this a perfect use case
+for machine learning.
+
+Here's how it works:
+
+Take some blood cells,
+put it in a cassette.
+
+Add chemicals to those blood cells to turn
+them into stem cells like always.
+
+Now, instead of having a human
+look for those unwanted cells
+
+and remove them by hand,
+
+the machine identifies the unwanted cells
+
+and zaps them with a laser.
+
+As you can see, this entire process
+happens by machine.
+
+The computer decides when
+and how often to print the cells
+
+and uses a fully automated system
+to run the process.
+
+After repeated pruning,
+
+you end up with a perfect culture
+of your stem cells,
+
+ready to be banked and used at any time.
+
+In the future, we're going to have
+stem cell farms
+
+with stacks and stacks of hundreds
+and then eventually millions of cassettes,
+
+each cassette a personalized
+bank for one human.
+
+Nurses will take a sample
+of your cord blood right at birth
+
+and ship it off for cultivation,
+
+so that for the rest of your life,
+your stem cells are on file, banked,
+
+ready to go, should any
+medical need arise.
+
+Let's say you develop heart disease.
+
+Your doctor can order up new heart cells.
+
+Hair loss. They can order up new hair.
+
+The most immediate application
+of this technology is for implants.
+
+Dr. Kapil Bharti's research
+at the National Eye Institute
+
+has informed a breakthrough clinical trial
+
+for a stem cell derived
+therapy for blindness.
+
+As the process becomes cheaper,
+
+scientists can run larger and larger
+clinical trials at scale
+
+to develop new treatments
+that don't exist today,
+
+because what costs
+one million dollars today
+
+will soon be less than 50,000,
+
+and then even cheaper with time.
+
+Now, it gets even more
+interesting than that.
+
+And perhaps you have longevity in mind.
+
+That is certainly a possibility.
+
+In the future, we might use
+these exact same stem cell banks
+
+to generate entire new organs,
+new tissues, new skin ...
+
+New bone, teeth, anyone?
+
+This technology also has the potential
+
+to revolutionize
+personalized pharmaceuticals.
+
+Today, taking medicine is,
+to some degree, trial and error.
+
+You don't really know
+if the drug is going to work for you
+
+until you put it in your body.
+
+But what if we had a miniature
+human replica of you with your cells --
+
+eye cells, brain cells, heart cells,
+muscle cells, blood cells --
+
+on a chip?
+
+A miniature human replica of you.
+
+We could take the drugs, test
+them on the cells in the lab first
+
+to see how it works.
+
+If it works, fantastic.
+Go ahead and take the drug.
+
+If it doesn't, pharmacists can
+order up custom drugs just for you.
+
+This has been the hope and dream
+of scientists for decades.
+
+With this technology,
+
+we can finally realize
+the true potential of stem cells:
+
+on-demand functional cures
+made from your cells.
+
+Cures that your body won't reject.
+
+Cures that truly work for everyone.
+
+The future of regenerative medicine
+is 100 percent personalized,
+
+and it's a lot closer than you think.
+
+Thank you.
+
+(Applause)

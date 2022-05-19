@@ -1,0 +1,461 @@
+Imagine a scientist
+
+who wants to send a robot
+to explore in a faraway place,
+
+a place whose geography
+might be completely unknown
+
+and perhaps inhospitable.
+
+Now imagine that instead
+of first designing that robot
+
+and sending it off in the hope
+that it might be suitable,
+
+instead, she sends
+a robot-producing technology
+
+that figures out what kind of robot
+is needed once it arrives,
+
+builds it and then enables it
+to continue to evolve
+
+to adapt to its new surroundings.
+
+It’s exactly what my collaborators
+and I are working on:
+
+a radical new technology
+which enables robots to be created,
+
+reproduce and evolve
+over long periods of time,
+
+a technology where robot design
+and fabrication becomes a task
+
+for machines rather than humans.
+
+Robots are already all around us,
+in factories, in hospitals, in our home.
+
+But from an engineer's perspective,
+
+designing a shelf-stacking robot
+or a Roomba to clean our home
+
+is relatively straightforward.
+
+We know exactly what they need to do,
+
+and we can imagine the kind of situations
+they might find themselves in.
+
+So we design with this in mind.
+
+But what if we want
+to send that robot to operate
+
+in a place that we have little
+or even no knowledge about?
+
+For example, cleaning up legacy waste
+inside a nuclear reactor
+
+where it's unsafe to send humans,
+
+mining for minerals deep in a trench
+at the bottom of the ocean,
+
+or exploring a faraway asteroid.
+
+How frustrating would it be
+if the human-designed robot,
+
+that had taken years
+to get to the asteroid
+
+suddenly found it needed to drill a hole
+
+to collect a sample or clamber up a cliff
+
+but it didn't have the right tools
+
+or the right means of locomotion to do so?
+
+If instead we had a technology
+
+that enabled the robots to be designed
+and optimized in situ,
+
+in the environment
+in which they need to live and work,
+
+then we could potentially save
+years of wasted effort
+
+and produce robots
+that are uniquely adapted
+
+to the environments
+that they find themselves in.
+
+So to realize this technology,
+we've been turning to nature for help.
+
+All around us,
+
+we see examples of biological species
+
+that have evolved smart adaptations
+
+that enable them to thrive
+in a given environment.
+
+For example, in the Cuban rainforest,
+
+we find vines that have evolved leaves
+
+that are shaped like
+human-designed satellite dishes.
+
+These leaves direct bats to their flowers
+
+by amplifying the signals
+that the bats send out,
+
+therefore, improving pollination.
+
+What if we could create
+an artificial version of evolution
+
+that would enable robots
+to evolve in a similar manner
+
+as biological organisms?
+
+I'm not talking about biomimicry,
+
+a technology which simply copies
+what's observed in nature.
+
+What we're hoping to harness
+is the creativity of evolution,
+
+to discover designs
+that are not observed here on Earth,
+
+the human engineer
+might not have thought of
+
+or even be capable of conceiving.
+
+In theory,
+
+this evolutionary design technology
+could operate completely autonomously
+
+in a faraway place.
+
+But equally it could be guided by humans.
+
+Just as we breed plants for qualities
+such as drought resistance or taste,
+
+the human robot breeder could guide
+artificial evolution to producing robots
+
+with specific qualities.
+
+For example,
+
+the ability to squeeze
+through a narrow gap
+
+or perhaps operate at low energy.
+
+This idea of artificial evolution
+imitating biological evolution
+
+using a computer program
+
+to breed better and better solutions
+to problems over time
+
+isn't actually new.
+
+In fact, artificial evolution,
+
+algorithms operating inside a computer,
+
+have been used to design everything
+from tables to turbine blades.
+
+Back in 2006,
+
+NASA even sent a satellite into space
+with a communication antenna
+
+that had been designed
+by artificial evolution.
+
+But evolving robots
+is actually much harder
+
+than evolving passive objects
+such as tables,
+
+because robots need brains
+as well as bodies
+
+in order to make sense of the information
+in the world around them
+
+and translate that
+into appropriate behaviors.
+
+So how do we do it?
+
+Surprisingly, evolution only needs
+three ingredients:
+
+a population of individuals which
+exhibit some physical variations;
+
+a method of reproduction
+
+in which offspring inherit
+some traits from their parents
+
+and occasionally acquire
+new ones via mutation;
+
+and finally, a means of natural selection.
+
+So we can replicate these three
+ingredients to evolve robots
+
+using a mixture of hardware and software.
+
+The first task is to design
+a digital version of DNA.
+
+That is a digital blueprint that describes
+the robot's brain, its body,
+
+its sensory mechanisms
+and its means of locomotion.
+
+Using a randomly generated
+set of these blueprints,
+
+we can create an initial population
+of 10 or more robots
+
+to kick-start this evolutionary process.
+
+We've designed a technology
+that can take the digital blueprint
+
+and turn it into a physical robot
+without any need for human assistance.
+
+For example, it uses a 3D printer
+to print the skeleton of the robot
+
+and then an automated assembly arm
+like you might find in a factory
+
+to add any electronics and moving parts,
+
+including a small computer
+that acts as a brain.
+
+And to enable this brain to adapt
+to the new body of the robot,
+
+we send every robot produced
+to an equivalent of a kindergarten,
+
+a place where the newborn robot
+can refine its motor skills
+
+almost like a small child would.
+
+To mimic natural selection,
+
+we score these robots
+on the ability to conduct a task.
+
+And then we use these scores
+
+to selectively decide
+which robots get to reproduce.
+
+The reproduction mechanism
+
+mixes the digital DNA
+of the chosen parent robots
+
+to create a new blueprint
+for a child robot
+
+that inherits some of the
+characteristics from its parents
+
+but occasionally also
+exhibits some new ones.
+
+And by repeating the cycle of selection
+and reproduction over and over again,
+
+we hope that we can breed
+successive generations of robots
+
+where, just like is often observed
+in biological evolution,
+
+each generation gets better than the last,
+
+with the robots gradually optimizing
+their form and their behavior
+
+to the task and the environment
+that they find themselves in.
+
+Now, although this can all take place
+
+in a time frame that's much faster
+than biological evolution,
+
+which sometimes takes thousands of years,
+
+it's still relatively slow in terms
+of the time frames we might expect
+
+in our modern world
+
+to design and produce an artifact.
+
+It's mainly due
+to the 3D printing process,
+
+which can take more
+than four hours per robot,
+
+depending on the complexity
+and the shape of the robot.
+
+But we can give our artificial
+evolutionary process a helping hand
+
+to reduce the number of physical robots
+that we actually need to make.
+
+We create a digital copy
+of every robot produced
+
+inside a simulation in a computer,
+
+and we allow this virtual
+population of robots to evolve.
+
+Now it's quite likely that the simulation
+isn't a very accurate representation
+
+of the real world.
+
+But it has an advantage that it enables
+models of robots to be created
+
+and tested in seconds rather than hours.
+
+So using the simulator technology,
+
+we can quickly explore the potential
+of a wide range of robot types
+
+of different shapes and sizes,
+of different sensory configurations,
+
+and quickly get a rough estimate
+of how useful each robot may be
+
+before we physically make it.
+
+And we predict that by allowing
+a novel form of breeding
+
+in which a physical robot can breed
+with one of its virtual cousins,
+
+then the useful traits
+that have been discovered in simulation
+
+will quickly spread into
+the physical robot population,
+
+where they can be further refined in situ.
+
+It might sound like science fiction,
+
+but actually there's a serious point.
+
+While we expect the technology
+that I've just described
+
+to be useful in designing robots,
+
+for example, to work in situations
+where it's unsafe to send humans
+
+or to help us pursue our scientific quest
+for exoplanetary exploration,
+
+there are some more pragmatic reasons
+
+why we should consider
+artificial evolution.
+
+As climate change gathers pace,
+
+it is clear that we need a radical rethink
+
+to our approach to robotic
+design here on Earth
+
+in order to reduce
+that ecological footprint.
+
+For example,
+
+creating new designs of robot
+built from sustainable materials
+
+that operate at low energy,
+
+that are repairable and recyclable.
+
+It's quite likely that this
+new generation of robots
+
+won't look anything like the robots
+that we see around us today,
+
+but that's exactly why
+artificial evolution might help.
+
+Discovering novel designs by processes
+that are unfettered by the constraints
+
+that our own understanding
+of engineering science
+
+imposes on the design process.
+
+Thank you.
+
+(Applause)

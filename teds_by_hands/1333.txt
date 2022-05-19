@@ -1,0 +1,672 @@
+What is causing climate change?
+
+I mean, it’s greenhouse gas emissions
+from human activities, of course.
+
+But which human activities?
+
+Who specifically is burning
+all of these fossil fuels,
+
+and for what and where?
+
+It sounded strange when I first heard it,
+
+but I have come to learn
+that even today in the 21st century,
+
+scientists have surprisingly
+little information about this question.
+
+So I'm part of a new coalition
+of scientists, activists,
+
+and actually tech companies
+working to address this issue.
+
+It's been a stranger journey
+than I expected.
+
+Let me break it down for you.
+
+So we've known for decades that emissions
+are rising in the atmosphere
+
+because we can see them
+swirling up around there.
+
+So the famous Keeling Curve is based
+on what we can actually see from space.
+
+But what you can't easily see from space
+is how did they get there?
+
+It still boggles my mind,
+but even in the year 2021,
+
+in most countries and most
+sectors of the economy,
+
+our process for actually answering
+where are all those emissions coming from
+
+is still to ask polluters
+how much they polluted.
+
+Just kind of like hope
+nothing is missing in that inventory
+
+and then add up all those numbers,
+sometimes manually, on paper.
+
+It's amazing that every
+single country in the world
+
+has agreed to this process.
+
+It's one of the great things
+that brings me hope
+
+that everyone in the world is essentially
+contributing to this process.
+
+But it is such a stopgap solution.
+
+If we're really serious
+about stopping climate change,
+
+you can only manage what you can measure,
+
+and we need to have more information.
+
+We need to have information,
+
+not like letting it take years
+to compile manual reports.
+
+I mean, there are countries
+
+that haven't had an emissions
+inventory in 20 years.
+
+What are you actually supposed to do
+with information that old?
+
+We need to not just be looking
+at what are the emissions
+
+of entire countries,
+
+because if you want to know
+how to reduce them,
+
+you need to know:
+
+Do I need to go
+after cars or factories?
+
+What in my country is driving
+all these emissions?
+
+We can't keep relying on asking polluters
+to report how much they polluted.
+
+And there's even more subtle problems.
+
+Like, one that really gets me
+
+is if one company reports
+it's reduced its emissions,
+
+we don't have a good way to know right now
+is that a real reduction,
+
+should we celebrate,
+or did they just play hot potato
+
+and sell something that pollutes
+to another company?
+
+If we want to get really serious
+about fighting climate change,
+
+we need better tools.
+
+We need to have some way
+to get information
+
+in ideally real-time, not years later;
+
+that doesn’t rely
+on just asking the polluters;
+
+that has really detailed information
+about where those emissions came from,
+
+not just country level;
+
+that is open and transparent,
+
+so everybody knows they can trust it;
+
+and ideally, that’s free,
+
+because we can't just have a situation
+
+where only those who can afford to pay
+know how much is being emitted.
+
+So that's a serious scientific
+and engineering challenge.
+
+How exactly would you go about
+building a system like that?
+
+Well, you might want to start
+with a photo like this.
+
+We know, because this is one
+of the few power plants in the world
+
+that actually has a CO2
+emissions sensor in its stack
+
+that at the time this photo was taken,
+
+it was emitting 2,930 tons
+of CO2 per hour.
+
+But we also know that a short time later,
+
+the same exact power plant
+looked like this.
+
+And at that time, of course,
+it was emitting zero tons of CO2.
+
+I mean, you can see that
+with the unaided human eye.
+
+But often, it's a little more complicated.
+
+And so we have started to work
+as a cluster of small NGOs
+
+on training computer vision AI algorithms
+
+to look at hundreds of thousands
+of photos like this
+
+to recognize what a power plant
+looks like when it's polluting
+
+a certain amount of pollution from space.
+
+The reason we can do this
+is that there are so many free
+
+and public satellite images available now
+
+from sources like NASA's Landsat 8
+or China's Gaofen 6.
+
+It's possible actually to get
+photos every few days
+
+of every major power plant
+in the entire world.
+
+And so my organization, WattTime,
+and a number of other small NGOs
+
+have teamed up to build
+an artificial intelligence algorithm
+
+that can scan visual imagery
+like this every few days
+
+and look, without asking the polluters,
+to see how much they are polluting
+
+for every power plant in the world.
+
+It's pretty exciting.
+
+(Applause)
+
+You can actually do better than that.
+
+Because there are other forms
+of satellites as well.
+
+Just like in the movies,
+we can switch to thermal infrared
+
+and we can look at whether
+power plants are hot as well.
+
+That matters because that's a completely
+independent assessment
+
+with different satellites
+and different techniques.
+
+So if those two methods agree,
+that's really encouraging.
+
+We found the right answer.
+
+You can also look at information like:
+Downwind from a power plant
+
+a little while later,
+
+do we see more emissions
+in the atmosphere where they ought to be?
+
+You can even do really subtle things,
+
+like you can look at the cooling water
+intake valve near a power plant.
+
+Using commercial imagery from Planet,
+
+we are able to see ripples
+in a river near a power plant.
+
+And that means it's
+drawing in so much water
+
+because it's that hot and polluting.
+
+So no one of these techniques is perfect,
+
+but it's pretty remarkable
+how accurate they start to get
+
+when you combine many,
+many different independent techniques.
+
+We got pretty excited
+
+when we were starting to get
+pretty good results
+
+measuring all the power
+plants in the world.
+
+But then Al Gore, amazing as he is,
+encouraged us to dream bigger.
+
+And so we got the challenge from him
+and the partners of Generation
+
+to not just think small in terms
+of power plant emissions,
+
+but to see if we could do
+all human emissions
+
+from all major sources in the planet
+
+and make that available
+and free to everyone.
+
+And with their support
+
+and with a whole lot of teaming up
+with other organizations,
+
+collectively, all of us
+have been able to do just that.
+
+So --
+
+(Applause)
+
+A really exciting example of this
+is Transition Zero.
+
+So they're a UK-based organization
+
+that is able to monitor
+the emissions of steel mills,
+
+and they can do that even when those
+emissions are invisible to the naked eye.
+
+Because one of the really important,
+
+interesting things
+about artificial intelligence
+
+is with different forms
+of signals from satellites,
+
+we can look at very specific
+chemical processes
+
+in different parts of the supply chain.
+
+You also have the ability
+to measure factory farms.
+
+Did you know even the United States EPA
+in charge of regulating them
+
+does not have a complete inventory
+
+of how many highly polluting
+factory farms are in the United States?
+
+But a start-up named Synthetic
+has been able to apply computer vision
+
+to build an inventory of them
+
+and is now scaling it up to expose
+every factory farm worldwide.
+
+RMI is monitoring oil and gas emissions
+from production and refining.
+
+Blue Sky Analytics, based in India,
+is monitoring crop fires and forest fires.
+
+You want to talk about car transportation?
+
+Johns Hopkins University is modeling
+all the ground transportation
+
+and looking at the road
+networks worldwide.
+
+Each one of our organizations
+has learned to specialize
+
+in one or two forms
+of particular emissions.
+
+But we’re sharing them all in a giant
+database known as Climate TRACE.
+
+One of the interesting things
+about Climate TRACE
+
+is that it's fundamentally built
+on global techniques.
+
+So here you're looking from Ocean Mine's
+model of every single ship on the planet
+
+and the associated emissions.
+
+This is really powerful
+because it used to be the case
+
+that only rich countries
+can afford to look at their emissions
+
+in great detail.
+
+We are talking about properly
+global systems
+
+that are available and free for everyone.
+
+The reason, of course, we can do this
+
+is because satellites
+have come down so much in cost.
+
+There are now literally thousands of eyes
+in the sky up above us,
+
+and many of them are actually free
+
+and open to anyone
+to use that information.
+
+But you know what's come down in recent
+years even more in cost than satellites?
+
+Big data and AI.
+
+I mean, we now live in a world
+
+where if a certain meme
+is trending on Twitter,
+
+there are automated marketing algorithms
+that know that worldwide in minutes.
+
+We suspect there are stock market
+algorithms that know it in seconds;
+
+it’s really useful for day traders.
+
+So we actually exist as a society
+
+spending more resources on monitoring
+funny cat video views on the internet
+
+than a civilization-threatening crisis.
+
+(Laughter)
+
+Something just seems strange about that.
+
+And so at Climate TRACE,
+we decided to take a tiny,
+
+tiny fraction of those resources
+
+and those technical
+monitoring capabilities
+
+and reallocate them
+to actually monitoring emissions.
+
+So it's this giant shared database.
+
+I mean, we have software engineers
+
+volunteering their time
+on nights and weekends
+
+to make the data engineering work.
+
+We have academics validating algorithms.
+
+We have NGOs running different models.
+
+We have sensor and satellite
+data companies donating code.
+
+And much like Wikipedia,
+what's going on is all of these many,
+
+many different experts
+are sharing our resources
+
+in a single common pot
+that anyone can see,
+
+everything has to be cross-validated,
+and it’s available to the public.
+
+The biggest difference from Wikipedia
+
+is there's a lot more
+real-time sensors involved.
+
+So why are we doing this?
+
+In a word, transparency.
+
+We were approached early in the project
+by a former climate negotiator
+
+who told us that the heart
+of the Paris Agreement
+
+is supposed to be
+that countries are able to see
+
+what everybody else is doing.
+
+They can learn to trust each other,
+
+and that's why they're willing
+to hold hands and leap together.
+
+But the problem is, there's a lot
+of self-reporting going on,
+
+and a lot of countries
+don't have the resources
+
+to do this very expensive
+old form of monitoring.
+
+And so what we’ve tried to prioritize
+for Climate TRACE version one
+
+is releasing before COP26,
+last month, September 21,
+
+a version of Climate TRACE that is free
+and available to everybody,
+
+that has the emissions for every country,
+
+every sector and every year on the planet.
+
+So here we're looking, for example,
+
+at the emissions of rice production
+in Malaysia in 2020.
+
+Or Australia's electricity emissions
+in the same year.
+
+This is all available to anyone
+on climatetrace.org for free.
+
+Thank you.
+
+(Applause)
+
+Now it is imperfect.
+
+Artificial intelligence starts out
+not quite as good,
+
+and it gets better over time.
+
+So far, one of the things
+we’ve been able to measure is:
+
+What does this compare to
+what countries have been reporting?
+
+So we can't say that our methods
+are completely perfect yet,
+
+but one of the big questions we get is:
+Should countries trust each other?
+
+And one of the most surprising things
+I think I've learned from this project
+
+is that I think the answer is yes.
+
+I mean, we've definitely found
+some missing emissions.
+
+There's a few industries that we need
+to go have some hard conversations with.
+
+But by and large,
+what we've been really struck by
+
+is the vast majority of countries
+
+appear to have been able
+to get away with murder,
+
+but negotiating with each other
+in complete good faith.
+
+If you're a climate negotiator
+heading to COP26,
+
+I would like to just pause
+and appreciate what that implies for trust
+
+in what's about to happen.
+
+But I think it'd be a waste of AI
+if we stopped there.
+
+So our next step
+for Climate TRACE version two,
+
+what we're working on,
+
+is making every single emitting asset
+in the world visible.
+
+So it's going to look like this.
+
+And what that's going to mean is not just
+national totals, but giving tools.
+
+I’ve spoken with governments
+that are interested in knowing:
+
+Where in our economies
+are the emissions coming from?
+
+I've spoken with companies
+who'd like to green their supply chains,
+
+but they have to know which factories
+are cleaner than which other factories.
+
+I've spoken with asset managers
+
+who are investing 43
+trillion dollars in net-zero,
+
+but to actually achieve their goals,
+they need a way to manage and measure:
+
+Are those emissions reductions
+really happening?
+
+So I think it's pretty exciting
+that we can now ensure
+
+that if anybody in the world
+is trying to hide emissions,
+
+they can just forget about it.
+
+Those days are over.
+
+(Applause)
+
+Thank you.
+
+But the part that really
+excites me the most
+
+is giving tools to others
+in the climate fight
+
+to get the job done faster.
+
+Thank you.
+
+(Applause)

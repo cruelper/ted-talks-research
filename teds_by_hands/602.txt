@@ -1,0 +1,430 @@
+Imagine you're planning
+a trip up the coast,
+
+but instead of driving,
+
+you decide to hop into a vehicle
+shaped like a giant aluminum can.
+
+Your heart pounds
+as you strap yourself in.
+
+The air is stagnant.
+
+Beads of sweat are pooling on your brow
+as you prepare to launch.
+
+The vehicle starts to move.
+
+Before you know it,
+you're going 500 miles per hour.
+
+You hope that the people in control
+know what they're doing.
+
+Turns out that's just your average
+airplane experience.
+
+And 118 years ago,
+
+before the Wright brothers' first flight,
+
+the thought of humans flying
+was inconceivable -- crazy, even.
+
+Yet today, we get into a plane,
+30,000 feet above the ground,
+
+and think nothing of it.
+
+A year after the Wright brothers'
+historic first flight,
+
+another inventor, an American physicist
+called Robert Goddard,
+
+proposed an entirely new
+form of transportation:
+
+the vactrain.
+
+He envisioned a high-speed
+mass transit system
+
+where people would travel on the ground,
+
+with little to no air resistance,
+
+inside of a tube.
+
+And today, these are some
+of the earliest renderings
+
+of what we call a hyperloop.
+
+So for those of you
+unfamiliar with the hyperloop,
+
+this is the chance we get
+to geek out together a bit.
+
+So hyperloop is a transit system
+that has a vehicle called a pod
+
+inside of a tube about the same size
+as a subway tunnel,
+
+where we suck most, but not all
+of the air out of it,
+
+making it the equivalent of flying
+at about 200,000 feet of altitude.
+
+This allows us to glide at airline speeds,
+
+without turbulence,
+
+for a fraction of the energy consumption,
+
+about one tenth,
+to be precise, of an aircraft.
+
+And that's important,
+
+because we, as humans,
+have an innate need for speed.
+
+But this obsession with speed and volume
+is destroying the planet around us.
+
+In fact, in the United States,
+
+the transportation industry
+is the single largest contributor
+
+to greenhouse gas emissions.
+
+A hyperloop system
+can begin to change this trend
+
+before the end of the decade,
+
+by transforming short-haul
+journeys and commutes
+
+from hours to minutes.
+
+Our system is inspiring
+a new category of companies
+
+dedicated to bringing this to life.
+
+But it's going to take
+more than just vision.
+
+History's full of ideas
+that have flopped and flourished,
+
+and this one’s just too important
+for us not to get right.
+
+So I am an engineer,
+
+and I am insatiably curious
+and always love a good problem.
+
+So in 2013, when Elon Musk released
+the "Hyperloop Alpha" white paper,
+
+of course, I was going to give it a read.
+
+It sketched out an idea
+with an open invitation
+
+for anyone to take it from a concept
+and design it to reality.
+
+We decided to not only make it tangible
+
+but make it safe, sustainable
+and economically viable.
+
+And we were so convinced
+that we could make it work
+
+that I quit my job to build it.
+
+I thought I was being optimistic.
+
+My wife, on the other hand,
+thought I was completely delusional.
+
+Either way, we heard over and over
+
+that building a functional
+hyperloop was unrealistic.
+
+But for each "no" we heard,
+
+we dove deeper and deeper
+into the science and the engineering
+
+and showed that it was in fact possible,
+
+but it was going to be no easy feat for us
+to build something that had never existed.
+
+So our early prototypes
+
+started with the traditional concept
+that maglev uses,
+
+that is, where the track
+controls the vehicle.
+
+But something about that
+just wasn't quite right
+
+for a hyperloop system.
+
+So for months,
+
+I had been noodling on how to make
+our system future-proof.
+
+And while I was on a bike ride
+in the mountains above Los Angeles,
+
+I came around a bend.
+
+A 1933 Ford Roadster
+followed by a Tesla Model S passed me.
+
+Those two cars are light-years
+different in technology,
+
+yet they drive on the same passive road.
+
+And there it was.
+
+Smart vehicle, dumb road.
+
+Or in the case of a hyperloop,
+
+smart pod, dumb tube.
+
+So technology has made it possible
+
+that a car can be modular,
+upgradeable and future-proof,
+
+while the road stays pretty much the same.
+
+So for a hyperloop, our tube
+is passive and simple, like the road,
+
+but our modular pods can evolve
+as technology advances,
+
+just like the automobile.
+
+So we now had our vision.
+
+The next thing we had to do
+is assemble the team.
+
+So we've all seen a "Mission Impossible"
+movie in this room,
+
+and there's always a scene in those movies
+
+where someone lays out
+a task or plan calmly.
+
+But what they lay out
+is completely and totally insane.
+
+So for a hyperloop,
+
+our mission that we've chosen to accept
+
+is to build the world's largest
+vacuum structures,
+
+devise new passive magnetic guideways,
+
+create pods capable of withstanding
+a space environment,
+
+powered by next-generation batteries
+
+while levitating using
+state-of-the-art magnetic levitation,
+
+while quietly accelerating,
+
+using the world's most efficient
+linear electric motor.
+
+(Laughter)
+
+Everyone turns to the engineer.
+
+I have to make that possible,
+
+or we have to make that possible.
+
+Luckily for us,
+
+we have more than just one
+of those engineers,
+
+we have a few hundred that have designed
+reusable rockets, spaceships,
+
+autonomous aircraft,
+electric vehicles, AI systems
+
+and loads of other cool things.
+
+And after building that system,
+
+we created a test track
+in the desert outside of Las Vegas.
+
+We've operated the system over 500 times
+
+and had countless other tests
+on our subsystems.
+
+But there was one test
+
+that was going to be the defining moment
+for hyperloop technology:
+
+the first passengers in the vehicle.
+
+And we were going to do it
+with regular people
+
+that didn't need years
+of training and experience
+
+to set foot inside of a space capsule.
+
+So by October of 2020,
+we had run hundreds of tests,
+
+some with these extremely handsome
+mannequins that you see here.
+
+We had an independent safety auditor
+give us the green light,
+
+but still, it was nerve-racking.
+
+We were boldly going
+
+where only these handsome
+mannequins had gone before.
+
+And on November 8th, 2020,
+we made our first attempt.
+
+So at our test site,
+my colleague Sara and I
+
+climbed into that can-like vehicle
+suspended by magnetic levitation
+
+at a near-vacuum environment,
+
+and the countdown began.
+
+In those 15 seconds,
+
+we showed the world that what was deemed
+ludicrous over 100 years ago
+
+was in fact possible.
+
+That brief moment has opened
+so many doors for us.
+
+We've had conversations
+in the US, Europe, India, the Middle East,
+
+about building hyperloop systems
+in the next 10 years.
+
+This is the start of a systemic change
+in the way we travel.
+
+Simply put,
+
+society has moved forward,
+as we've moved faster.
+
+The railroad ushered in
+the industrial revolution,
+
+the airplane forever changed
+the way we move.
+
+But today, we’re at an inflection point.
+
+Nations around the world are looking
+for ways to reduce carbon emissions,
+
+but at the same time,
+
+we need to get where we're going
+in minutes, not hours.
+
+We also need to invest in infrastructure
+
+that can meet the needs
+of the 21st century, and beyond.
+
+And so my hope for a hyperloop system
+
+is that it can transform
+the way that we live --
+
+we can live where we want to live,
+work where we want to work,
+
+we can create a world
+in which your daughter,
+
+who lives in Los Angeles,
+
+can go surfing in Santa Cruz
+and be home in time for lunch.
+
+A world in which 150 million people
+can live in Mumbai and travel to Pune,
+
+the equivalent distance
+of Philadelphia to New York,
+
+in 30 minutes, not four hours,
+
+while saving 1.1 million tons
+of pollution each and every year.
+
+The last century started
+with two people riding on a plane,
+
+and it ended with millions of people
+flying all over the world.
+
+This decade started with two people
+riding on a hyperloop system,
+
+and my hope is that by the end of it,
+you'll ride one too.
+
+Thank you.
+
+(Applause)

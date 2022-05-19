@@ -1,0 +1,442 @@
+We're here at the University
+of California, Santa Barbara
+
+to discuss a dream of humanity:
+
+the ability to exit our solar system
+
+and enter another solar system.
+
+And the solution is literally
+before your eyes.
+
+So I have two things on me
+that you have -- I have a watch,
+
+and I have a flashlight,
+
+which, if it's not on you,
+it's on your phone.
+
+So the watch keeps time,
+
+and my flashlight
+just illuminates my environment.
+
+So like art, to me,
+science is illuminating.
+
+I want to see reality in a different way.
+
+When I turn on the flashlight,
+
+suddenly the dark becomes bright,
+and I suddenly see.
+
+The flashlight and its light,
+
+which you can see coming out --
+
+the light on my hand
+is not only illuminating my hand,
+
+it's actually pushing on my hand.
+
+Light carries energy and momentum.
+
+So the answer is not to make a spacecraft
+out of a flashlight,
+
+by having the exhaust come out this way
+
+and the spacecraft goes that way --
+
+that's what we do today with chemistry.
+
+The answer is this:
+
+Take the flashlight and put it
+somewhere on the Earth,
+
+in orbit or on the Moon,
+
+and then shine it on a reflector,
+
+which propels the reflector to speeds
+which can approach the speed of light.
+
+Well, how do you make a flashlight
+that's big enough?
+
+This isn't going to do it,
+
+my hand doesn't seem to be going anywhere.
+
+And that's because the force
+is very, very low.
+
+So the way that you can solve this problem
+
+is taking many, many flashlights,
+which are actually lasers,
+
+and synchronizing them in time,
+
+and when you gang them all together
+into a gigantic array,
+
+which we call a phased array,
+
+you then have a sufficiently
+powerful system,
+
+which, if you make it roughly
+the size of a city,
+
+it can push a spacecraft,
+which is roughly the size of your hand,
+
+to speeds which are roughly
+25 percent the speed of light.
+
+That would enable us to get
+to the nearest star, Proxima Centauri,
+
+which is a little over
+four light years away,
+
+in less than 20 years.
+
+Initial probes would be
+roughly the size of your hand,
+
+and the size of the reflector
+that you're going to use
+
+is going to be roughly human size,
+
+so not a whole lot larger than myself,
+
+but a few meters in size.
+
+It only uses the reflection of light
+from this very large laser array
+
+to propel the spacecraft.
+
+So let's talk about this.
+
+This is a lot like sailing on the ocean.
+
+When you sail on the ocean,
+you're pushed by the wind.
+
+And the wind then drives the sail
+forward through the water.
+
+In our case, we're creating
+an artificial wind in space
+
+from this laser array,
+
+except the wind is actually the photons
+from the laser itself,
+
+the light from the laser becomes the wind
+
+upon which we sail.
+
+It is a very directed light --
+
+it's often called directed energy.
+
+So why is this possible today,
+
+why can we talk about
+going to the stars today,
+
+when 60 years ago,
+
+when the space program began in earnest,
+
+people would have said,
+"That's not possible"?
+
+Well, the reason it's possible today
+has a lot to do with the consumer,
+
+and the very fact that you're watching me.
+
+You're watching me
+over a high-speed internet,
+
+which is dominated by the photonics
+of sending data over fiber optics.
+
+Photonics essentially allow
+the internet to exist
+
+in the way it does today.
+
+The ability to send vast amounts
+of data very quickly
+
+is the same technology
+that we're going to use
+
+to send spacecraft
+very quickly to the stars.
+
+You effectively have an infinite
+supply of propellent,
+
+you can turn it on and off as needed.
+
+You do not leave the laser array
+that produces the light on
+
+for the entire journey.
+
+For small spacecraft,
+it's only on for a few minutes,
+
+and then it's like shooting a gun.
+
+You have a projectile
+which just moves ballistically.
+
+Even if we, as humans,
+are not on the spacecraft,
+
+at least we have the ability
+to send out such spacecraft.
+
+You want to remotely view,
+
+or have remote imaging and remote sensing,
+
+of an object.
+
+So when we go to Jupiter, for example,
+
+with a flyby mission,
+
+we are taking pictures of Jupiter,
+
+we're measuring the magnetic field,
+
+the particle density,
+
+and we're basically exploring remotely.
+
+The same way that you are looking at me.
+
+And all of the current missions
+that are beyond the Moon
+
+are remote-sensing missions.
+
+What would we hope to find
+if we visited an exoplanet?
+
+Perhaps there's life on an exoplanet,
+
+and we would be able to see
+evidence of life,
+
+either through atmospheric biosignatures
+
+or through, you know, a dramatic picture,
+
+we would be able to see something
+actually on the surface.
+
+We don't know if there's life
+elsewhere in the universe.
+
+Perhaps on the missions that we send out,
+we will find evidence for life,
+
+perhaps we will not.
+
+And while economics may seem
+like an inappropriate thing
+
+to bring into a talk
+on interstellar capability,
+
+it is in fact one of the driving issues
+in achieving interstellar capability.
+
+You have to get things to the point
+where they're economically affordable
+
+to do what we want to do.
+
+So currently,
+
+we have systems in the lab
+
+which have achieved the ability
+to synchronize over very large scales,
+
+out to about 10 kilometers
+or roughly six miles.
+
+We've been able to achieve
+synchronization of laser systems,
+
+and it's worked beautifully.
+
+We've known how to build lasers
+for many decades,
+
+but it's only now that the technology
+has gotten inexpensive enough,
+
+and become mature enough
+
+that we can imagine
+having huge arrays, literally,
+
+kilometer-scale arrays,
+much like solar farms,
+
+but instead of receiving light,
+they transmit light.
+
+The beauty of this type of technology
+is it enables many applications,
+
+not just relativistic flight
+for small spacecraft,
+
+but enables high-speed spacecraft,
+
+high-speed flight in our solar system,
+
+it enables planetary defense,
+
+it enables space debris removal,
+
+it enables powering of distant assets
+that we may want to send power to,
+
+such as spacecraft or bases
+on the Moon or other places.
+
+It's an extremely versatile technology,
+
+it's something that humanity
+would want to develop
+
+even if they didn't want
+to send spacecraft to the stars,
+
+because that technology
+allows so many applications
+
+that are currently not feasible.
+
+And therefore, I feel
+it's an inevitable technology,
+
+because we have the ability,
+
+we just need to fine-tune the technology
+
+and in a sense, wait for economics
+to catch up with us
+
+so that it becomes cheap enough
+to build the large systems.
+
+The smaller systems are affordable now.
+
+And we've already started building
+prototype systems in our lab.
+
+So while it's not
+going to happen tomorrow,
+
+we've already begun the process,
+
+and so far, it's looking good.
+
+This is both a revolutionary program,
+
+in terms of being
+a transformative technology,
+
+but it's also an evolutionary program.
+
+So personally,
+I do not expect to be around
+
+when the first
+relativistic flight happens.
+
+I think that's probably 30-plus years off
+before we get to that point,
+
+and perhaps more.
+
+But what inspires me
+
+is to look at the ability
+to achieve the final goal.
+
+Even if it does not happen in my lifetime,
+
+it can happen in the lifetime
+of the next generation
+
+or the generation beyond that.
+
+The consequences are so transformative
+
+that we literally, in my opinion,
+must go down this path,
+
+and must explore what the limitations are,
+
+and then how do we overcome
+the limitations.
+
+The search for life on other planets
+
+would be one of humanity's
+foremost explorations,
+
+and if we're able to do so,
+
+and actually find life on another planet,
+
+it would change humanity forever.
+
+Everything is profound in life.
+
+If you look deep enough,
+
+you'll find something incredibly complex
+and interesting and beautiful in life.
+
+And the same is true
+with the lowly photon
+
+that we use to see every day.
+
+But when we look outside
+and we imagine something vastly greater,
+
+an array of lasers that are synchronized,
+
+we could imagine things
+which are just extraordinary in life.
+
+And the ability to go to another star
+
+is one of those
+extraordinary capabilities.
+
+(Birds chirping)

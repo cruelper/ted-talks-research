@@ -1,0 +1,179 @@
+After many adventures in Wonderland,
+
+Alice has once again found 
+herself in the court
+
+of the temperamental
+Queen of Hearts.
+
+She’s about to pass through the garden
+undetected,
+
+when she overhears the king
+and queen arguing.
+
+“It’s quite simple,” says the queen.
+“64 is the same as 65, and that’s that.”
+
+Without thinking, Alice interjects. 
+“Nonsense,” she says.
+
+“If 64 were the same as 65, 
+then it would be 65 and not 64 at all.”
+
+“What? How dare you!” the queen huffs.
+
+“I’ll prove it right now, 
+and then it’s off with your head!”
+
+Before she can protest,
+
+Alice is dragged toward a field 
+with two chessboard patterns—
+
+an 8 by 8 square and a 5 by 13 rectangle.
+
+As the queen claps her hands, 
+four odd-looking soldiers approach
+
+and lie down next to each other,
+covering the first chessboard.
+
+Alice sees that two of them are trapezoids
+with non-diagonal sides measuring 5x5x3,
+
+while the other two are long triangles
+with non-diagonal sides measuring 8x3.
+
+“See, this is 64.”
+
+The queen claps her hands again.
+
+The card soldiers get up, 
+rearrange themselves,
+
+and lie down atop the second chessboard.
+
+“And that is 65."
+
+Alice gasps. She’s certain the soldiers
+didn’t change size or shape
+
+moving from one board to the other.
+
+But it’s a mathematical certainty 
+that the queen must be cheating somehow.
+
+Can Alice wrap her head around what’s
+wrong— before she loses it?
+
+Pause the video to figure it out yourself.
+Answer in 3.
+
+Answer in 2
+
+Answer in 1
+
+Just as things aren’t looking too good 
+for Alice, she remembers her geometry,
+
+and looks again at the trapezoid 
+and triangle soldier
+
+lying next to each other.
+
+They look like they cover exactly half
+of the rectangle,
+
+their edges forming one long line 
+running from corner to corner.
+
+If that’s true, then the slopes 
+of their diagonal sides
+
+should be the same.
+
+But when she calculates these slopes
+
+using the tried and true formula
+"rise over run,"
+
+a most curious thing happens.
+
+The trapezoid soldier’s diagonal side
+goes up 2 and over 5,
+
+giving it a slope of two fifths, or 0.4.
+
+The triangle soldier’s diagonal, however,
+goes up 3 and over 8,
+
+making its slope three eights, or 0.375.
+
+They’re not the same at all!
+
+Before the queen’s guards can stop her,
+
+Alice drinks a bit of her shrinking potion
+to go in for a closer look.
+
+Sure enough, there’s a miniscule gap
+between the triangles and trapezoids,
+
+forming a parallelogram that stretches
+the entire length of the board
+
+and accounts for the missing square.
+
+There’s something even more curious
+about these numbers:
+
+they’re all part of the Fibonacci series,
+
+where each number is the sum 
+of the two preceding ones.
+
+Fibonacci numbers have two properties
+that factor in here:
+
+first, squaring a Fibonacci number 
+gives you a value
+
+that’s one more or one less
+
+than the product of the Fibonacci numbers
+on either side of it.
+
+In other words, 8 squared is one less 
+than 5 times 13,
+
+while 5 squared is one more 
+than 3 times 8.
+
+And second, the ratio between successive
+Fibonacci numbers is quite similar.
+
+So similar, in fact, that it eventually
+converges on the golden ratio.
+
+That’s what allows devious royals
+to construct slopes
+
+that look deceptively similar.
+
+In fact, the Queen of Hearts could cobble
+together an analogous conundrum
+
+out of any four consecutive
+Fibonacci numbers.
+
+The higher they go, the more it seems 
+like the impossible is true.
+
+But in the words of Lewis Carroll—
+author of Alice in Wonderland
+
+and an accomplished mathematician
+who studied this very puzzle—
+
+one can’t believe impossible things.

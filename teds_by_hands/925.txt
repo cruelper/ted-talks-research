@@ -1,0 +1,212 @@
+From 2016 to 2019,
+
+meteorologists saw record-breaking
+heat waves around the globe,
+
+rampant wildfires 
+in California and Australia,
+
+and the longest run 
+of category 5 tropical cyclones on record.
+
+The number of extreme weather events
+has been increasing for the last 40 years,
+
+and current predictions suggest 
+that trend will continue.
+
+But are these natural disasters 
+simply bad weather?
+
+Or are they due to our changing climate?
+
+To answer this question
+
+we need to understand the differences
+between weather and climate—
+
+what they are, how we predict them,
+and what those predictions can tell us.
+
+Meteorologists define weather 
+as the conditions of the atmosphere
+
+at a particular time and place.
+
+Currently, researchers can predict 
+a region’s weather for the next week
+
+with roughly 80% accuracy.
+
+Climate describes a region’s 
+average atmospheric conditions
+
+over periods of a month or more.
+
+Climate predictions can forecast 
+average temperatures for decades to come,
+
+but they can’t tell us what specific
+weather events to expect.
+
+These two types of predictions 
+give us such different information
+
+because they’re based on different data.
+
+To forecast weather,
+
+meteorologists need to measure 
+the atmosphere’s initial conditions.
+
+These are the current levels 
+of precipitation, air pressure, humidity,
+
+wind speed and wind direction 
+that determine a region’s weather.
+
+Twice every day, meteorologists 
+from over 800 stations around the globe
+
+release balloons into the atmosphere.
+
+These balloons carry instruments 
+called radiosondes,
+
+which measure initial conditions
+
+and transmit their findings 
+to international weather centers.
+
+Meteorologists then run the data 
+through predictive physics models
+
+that generate the final weather forecast.
+
+Unfortunately, there’s something stopping
+this global web of data
+
+from producing a perfect prediction:
+
+weather is a fundamentally 
+chaotic system.
+
+This means it’s incredibly sensitive 
+and impossible to perfectly forecast
+
+without absolute knowledge 
+of all the system’s elements.
+
+In a period of just ten days,
+
+even incredibly small disturbances can
+massively impact atmospheric conditions—
+
+making it impossible to reliably 
+predict weather beyond two weeks.
+
+Climate prediction, on the other hand,
+is far less turbulent.
+
+This is partly because a region’s climate 
+is, by definition,
+
+the average of all its weather data.
+
+But also because climate forecasts ignore
+
+what’s currently happening 
+in the atmosphere,
+
+and focus on the range 
+of what could happen.
+
+These parameters are known 
+as boundary conditions,
+
+and as their name suggests, they act
+as constraints on climate and weather.
+
+One example of a boundary condition
+is solar radiation.
+
+By analyzing the precise distance 
+and angle between a location and the sun,
+
+we can determine the amount of heat
+that area will receive.
+
+And since we know how the sun 
+behaves throughout the year,
+
+we can accurately predict 
+its effects on temperature.
+
+Averaged across years of data,
+
+this reveals periodic patterns,
+including seasons.
+
+Most boundary conditions have well-defined
+values that change slowly, if at all.
+
+This allows researchers to reliably 
+predict climate years into the future.
+
+But here’s where it gets tricky.
+
+Even the slightest change 
+in these boundary conditions
+
+represents a much larger shift 
+for the chaotic weather system.
+
+For example, Earth’s surface temperature
+has warmed by almost 1 degree Celsius
+
+over the last 150 years.
+
+This might seem like a minor shift,
+
+but this 1-degree change 
+has added the energy equivalent
+
+of roughly one million 
+nuclear warheads into the atmosphere.
+
+This massive surge of energy 
+has already led to a dramatic increase
+
+in the number of heatwaves, 
+droughts, and storm surges.
+
+So, is the increase in extreme weather
+due to random chance, or changing climate?
+
+The answer is that—
+
+while weather will always 
+be a chaotic system—
+
+shifts in our climate do increase 
+the likelihood of extreme weather events.
+
+Scientists are in near universal agreement
+that our climate is changing
+
+and that human activity 
+is accelerating those changes.
+
+But fortunately,
+
+we can identify what human behaviors
+are impacting the climate most
+
+by tracking which boundary conditions 
+are shifting.
+
+So even though next month’s weather 
+might always be a mystery,
+
+we can work together to protect
+the climate for centuries to come.

@@ -1,0 +1,1066 @@
+Simone Ross: Jack, I would love you
+to tell us what Esri is
+
+and also why GIS is so important.
+
+Jack Dangermond: So it is a company,
+
+it builds software products
+that are used by millions of people.
+
+Kind of like a platform technology,
+
+but not literally platform.
+
+It builds tools that help people
+do their work better.
+
+And that's a very general statement,
+
+but helps them do their work better
+using geography as a science
+
+and visualization
+as a science and technology
+
+to help them make better decisions,
+
+or help them be more efficient
+
+or help them communicate
+what they're doing better
+
+It's kind of mapping.
+
+I mean, the way normal people
+would think of it as map-making.
+
+So this organization has 350,000
+organizations that we support.
+
+They're our customers, you might say.
+
+And they range from NGOs,
+thousands and thousands of them,
+
+working in conservation
+or humanitarian affairs,
+
+to large corporations,
+
+but our majority of users
+are in the public sector,
+
+in cities and counties,
+
+in national government agencies,
+
+and they're basically running the world,
+
+that's the way I would say it.
+
+SR: So right now, we hear a lot
+about companies using tech
+
+to improve the world,
+
+but it sounds like that has always
+been baked into your DNA.
+
+JD: I grew up as a young kid in a nursery,
+
+my parents were servants,
+
+and they started a little nursery
+to help put me through school,
+
+that's the way I saw it.
+
+They were immigrants and they grew plants.
+
+They were attracted to landscaping,
+
+which I grew up understanding,
+
+so I went to design school,
+
+first environmental design school
+
+and then landscape architecture
+and then city planning.
+
+And in that progression,
+
+I came to understand very clearly
+the idea of problem-solving,
+
+because that's what design
+really is about,
+
+you see a problem
+and you come up, creatively,
+
+with something that solves the problem.
+
+And at Harvard,
+
+I started to get engaged
+with systems and computing.
+
+And I realized, wow, this was in the '60s,
+
+you know, when the environmental movement
+was still just in its birthing,
+
+I saw, "Wow, you could actually apply tech
+to environmental design."
+
+And so this idealism that often happens
+when you're in school,
+
+you know, "I can really do something!" --
+
+well, I loved the idea
+of taking systems theories
+
+and technology
+
+and applying it to environmental
+design problem-solving.
+
+SR: Do you call Esri a tech company?
+
+JD: We started doing little projects,
+
+you know, locating a new town,
+
+locating a store,
+
+locating a transmission line,
+
+doing environmental studies
+as a foundation, using tech,
+
+to be able to make decisions,
+
+which were largely design decisions
+or planning decisions.
+
+And we did that for about 10 years.
+
+Just gradually growing
+as a professional services company,
+
+all the time continuously innovating tools
+
+that would help us do our projects better.
+
+And this idea of continuous innovation.
+
+I mean, we invented some of the first
+digitizing tools for maps,
+
+we invented some of the first
+computer map-making tools.
+
+We invented the first
+spacial analysis tools
+
+that were commercial in nature.
+
+And over that decade or so,
+
+customers began to say,
+
+"Gee, I'd like to do that work
+that you're doing, Jack."
+
+So we started to think
+about the idea of a product,
+
+that is, our technology that we applied
+on project by project
+
+could actually go into a product
+that people could use everywhere.
+
+And the big idea of this product, Simone,
+
+was the integration of information
+using geographic principles.
+
+Bringing all the different
+factors together
+
+to not only first help us do the projects,
+
+but then build these systems
+that help other people do the projects,
+
+and then later build systems.
+
+So we went from a project company
+to a product company
+
+that built systems that helped
+organizations do their work better.
+
+SR: What you're doing, I believe,
+
+is sort of the integration
+of human and built systems
+
+with natural systems.
+
+And then helping people visualize that
+
+and figure out then how
+they can design and build for that
+
+in a better, smarter way.
+
+Is that accurate?
+
+JD: That's one aspect of it.
+
+We sometimes call that geodesign.
+
+We digitize or abstract geography,
+the science of our world.
+
+You know, Simone, all of the factors
+that you think about,
+
+I think of as layers.
+
+Physical features, environmental features,
+
+demographic features.
+
+We bring all of those things
+together in a GIS
+
+and then by overlaying those things,
+we can actually do better designs.
+
+We design with all
+the factors holistically.
+
+That's what actually,
+as a student, got me excited,
+
+because I saw you could bring
+all of the "ologies,"
+
+all the geology, the sociology,
+the climatology, all together,
+
+and then make better decisions on that,
+
+so I think of geography
+as the mother of all sciences,
+
+because it's an integrative technology.
+
+And then digital geography,
+what we call GIS,
+
+allows us to be able
+to use that instrument
+
+to empower the transformation
+of how people make decisions.
+
+They can look at the whole,
+not just one factor,
+
+not just making money,
+not just conserving land,
+
+not just this or that.
+
+It's optimizing many factors
+at the same time.
+
+Yeah, so in the retail sector,
+
+people like Starbucks
+or Walgreens or Walmart,
+
+all the big retailers,
+
+both here in the US but in the UK,
+all around the world,
+
+use geographic factors
+to pick the right location.
+
+They look at the demographics,
+
+the traffic,
+
+and then the large insurance companies
+and reinsurance companies
+
+look at all the different factors
+that are necessary to understand risk.
+
+And they overlay them and they model them
+
+and they visualize high-risk areas
+or low-risk areas.
+
+In disaster response,
+
+whether it's fire, or like today,
+the big earthquake in Turkey,
+
+there's a whole cycle of work
+that has to happen
+
+when disasters happen.
+
+You know, response, recovery,
+
+all these work activities are underpinned
+by having good information.
+
+And that information
+is geographic in nature.
+
+So disaster response, public safety,
+
+health and looking at issues today
+that are troubling all of us
+
+in the areas of social equity.
+
+Where is there disparity?
+
+And when something
+like the pandemic happens,
+
+or unemployment
+due to the economy happens,
+
+we can look geographically and see
+these factors all coming together.
+
+So it's like your mind does in many ways.
+
+I mean, we built a tool
+that allows you to abstract reality
+
+and see it,
+
+and then look at all the relationships
+between these factors
+
+in order to create understanding.
+
+So Richard Saul Wurman, the founder of TED
+
+often describes us
+as an understanding organization.
+
+"You're all about understanding, Jack,
+it's not about technology.
+
+Your users use your tools
+to create better understanding."
+
+And the way he describes it is
+understanding precedes action.
+
+This is essential to our work.
+
+SR: And it is a platform
+that you're building,
+
+so you're sort of connecting all these
+different areas of knowledge, right?
+
+JD: Today, we have what we call Web GIS.
+
+So GIS lives in the web
+
+with distributed centers of information
+that are pulling data out,
+
+georeferencing,
+
+and using location as a way
+to do the integration.
+
+We might call it mashing up
+different layers
+
+from distributed services
+or distributed sources of information.
+
+And our users are now bringing
+this knowledge together dynamically
+
+in things like smart cities
+
+or the popular vernacular
+these days is digital twins.
+
+So all of that geographic reality
+
+can now be beamed into organizations,
+
+whether they be emergency
+response organizations
+
+or utility organizations or government.
+
+And any of the different departments,
+
+whether they be law enforcement
+
+or you know, science,
+climate change, biodiversity,
+
+all of that series of issues
+that we're facing today
+
+can be enriched by not only bringing
+together the information in real time,
+
+real-time measurement seen on maps,
+
+but also integrating those
+like using spatial analysis
+
+or location analysis to look
+at the relationships and patterns.
+
+You see, it's not just seeing it,
+
+it's also explicitly understanding
+
+the relationships between something
+like breast cancer and pollution
+
+that might exist
+in a particular geography.
+
+And saying, "Aha,
+
+we can quantitatively understand
+these different factors
+
+and, as a result, respond."
+
+SR: So you can do that
+
+because you are putting
+all these different layers on
+
+and then you help visualize that.
+
+JD: Visualize it,
+but also spatially relate them
+
+with math and modeling.
+
+So it's not just a matter
+of visually overlaying material,
+
+it's a matter of connecting the geometries
+
+or the factors or the features
+on these maps to each other,
+
+like your mind does.
+
+SR: I have to read this,
+because I don't want to get it wrong.
+
+You had said at some event last year,
+the Geodesign Summit --
+
+which sounds fascinating
+to me -- you said,
+
+"Transformation is not just about change,
+
+it's about leaving behind the past
+to focus on the future."
+
+So can you talk a little bit about that?
+
+JD: Historically, we have been
+at the effect of the environment.
+
+I mean, this is the history of the world.
+
+The world constrains us
+in what we can do as human beings
+
+and we often adapt and adopt
+to various environmental situations.
+
+This field of geodesign
+
+is about bringing geographic
+systems and knowledge
+
+into the design process
+
+so that we can actually
+be guided by nature
+
+and be more sensitive to it
+
+so that we can be responsive
+to the greater forces of the environment
+
+and do it in such a way
+that we can take --
+
+it's thinking of the world as a garden.
+
+It's like gardening,
+
+you must pull out the weeds,
+you nurture your plants,
+
+you take care of certain things,
+
+you make sure things are watered.
+
+And at this point,
+
+because of the way we are organized,
+and the way we think
+
+and the way our information
+is brought to us,
+
+we don't think as a garden,
+
+we don't think holistically,
+
+we don't think of the relationships
+that are in our lives,
+
+that are affecting our lives.
+
+And as a result, we're careless,
+
+we're polluting the environment,
+we're messing it up.
+
+I mean, on steroids,
+
+I mean, the world is really in trouble
+at this particular point.
+
+I mean we have the crisis of COVID,
+
+but my God, COVID is just a little wave.
+
+What's coming behind us
+is the climate change issue,
+
+which is not so easy to fix.
+
+There's no vaccine that's simply applied.
+
+And then behind that,
+there's the loss of biodiversity
+
+and behind that,
+
+it's sort of unraveling
+what has taken billions of years
+
+to be able to put together.
+
+And so, as human beings,
+
+my sense is we've got to be
+more responsive to take care of our place.
+
+SR: It's transformation
+with science and design
+
+as opposed to transformation
+
+brought on or foisted on us
+by rapid tech change.
+
+It sounds very deliberate.
+
+JD: It's very deliberate.
+
+Again, when I was a student,
+
+I got the vision or thought
+
+that we could actually do
+environmental planning
+
+and design and development better
+by thinking holistically.
+
+Bringing all the factors together.
+
+And when I launched Esri,
+
+we were starting to do projects better
+
+because we could integrate
+all of the factors
+
+into the design projects.
+
+Then as we started building systems,
+
+they were first small, focused systems
+for a particular department,
+
+like an engineering department in a city
+
+or a planning department,
+
+or a forest management organization
+
+or an oil company.
+
+They could do their work better
+by considering all the factors.
+
+Then --
+
+And that transformed the way
+projects were done,
+
+and it transformed human activities
+in these different departments.
+
+From there, we started to move on
+
+to the idea of transforming
+entire organizations.
+
+This meant entire enterprises.
+
+So from projects to systems
+to organizational transformation
+
+where you could actually
+have organizations by intention
+
+look at all the factors.
+
+And we have so many examples of this.
+
+And now, there's a fourth phase
+that we're very engaged in.
+
+Those three phases involve
+certain kinds of technology innovation,
+
+but the fourth phase is resting on the web
+
+with web services,
+
+and its intention is not to transform
+simply one organization at a time
+
+or one project at a time,
+
+it's to transform society
+
+so that we can raise the bar
+with geographic consciousness
+
+and geographic knowledge
+
+to see what our human
+footprint is causing.
+
+And this is so transformational,
+
+because people don't want to mess up,
+
+they want to know what to do
+
+and they want to put the foot down
+in the right location,
+
+they don't want to mess up
+wetlands by intention,
+
+they want to design with nature.
+
+SR: So you're talking about what you call
+a geospatial nervous system.
+
+JD: Yes, building
+a geospatial nervous system
+
+will allow us to guide
+society in such a way.
+
+And in a way, it's not
+somebody guiding others,
+
+it's not like that at all.
+
+It's like the internet itself.
+
+It's an interconnected network
+of serving knowledge,
+
+sharing knowledge,
+
+and using each other's knowledge.
+
+That is, multidisciplinary knowledge,
+
+different kinds of science knowledge
+
+to be able to see and understand
+
+before action.
+
+All we're doing is building tools
+
+that interconnect different
+organizations' information.
+
+And independent actors
+running in independent organizations
+
+all around the world
+
+are building something I like to call
+this geospatial infrastructure.
+
+And they're layering it on top of the web.
+
+It's like one agency is serving
+their information
+
+and another one is able to use it
+with their own information
+
+and therefore make better decisions,
+
+make more sustainable decisions.
+
+Now, they're still all independent actors.
+
+I mean, there's no control,
+there's no orders from headquarters.
+
+What this is is a fabric
+that's emerging very rapidly.
+
+Let me give a practical example.
+
+The Pacific Gas and Electric corporation,
+
+a very large organization
+here in California,
+
+one of the largest utilities in the world,
+
+is sharing their outage
+and utility information over the web
+
+with the State of California fire people
+
+and emergency management people,
+
+so that they can act better
+and vice versa.
+
+So they're sharing and collaborating
+through geographic information
+
+in whole new ways.
+
+And the FEMA, the large federal
+emergency management organization
+
+is sharing their emergency
+management information
+
+with states and cities
+
+who are overlaying
+their data on FEMA data,
+
+which is overlaying on top
+of NOAA's information on the weather
+
+and the tracking of satellites, and so on.
+
+So this web-based, internet-based system
+
+is allowing the fusion of information
+from many different actors.
+
+And independently,
+
+these actors are able to more
+holistically solve their problems.
+
+SR: Do you think we can overcome
+these challenges?
+
+JD: Today, both because
+of our increased consumption patterns
+
+and the overpopulation of the planet,
+
+we're in severe trouble.
+
+So what we can do is, I think,
+
+minimize the impact of population,
+
+we can optimize the work that we do,
+
+we can save energy,
+
+we can do all of these various things.
+
+And I have a very positive
+feeling about the future.
+
+This is what drives me day and night.
+
+I mean, I have had that vision
+for over 50 years
+
+that we must do this.
+
+It's not a question of the outcomes,
+
+it's the only way that I can think of
+to create a sustainable future.
+
+We must apply our best science,
+
+we must apply our best design
+and critical thinking,
+
+we must apply our best systems theories,
+
+we must apply our best technologies,
+
+in concert,
+
+to be able to address the great challenges
+that we are all facing.
+
+And Esri, as an organization,
+
+has always been and will always be
+all about bringing those forces together
+
+to be able to support
+organizations independently
+
+doing their work
+in this more holistic way.
+
+That's the big vision.
+
+SR: So what advice or guidance
+
+would you give to a young
+entrepreneur today
+
+who, sort of, wants to use
+tech and science
+
+to, you know, if not save the world,
+
+transform the world or improve the world,
+
+because obviously, that's where
+a lot of the hope and the potential is.
+
+So as someone who has been doing this
+for quite some time now,
+
+what would your advice be
+to someone like that?
+
+JD: Well, there's so many
+different opportunities
+
+to be able to work
+and contribute in the world.
+
+I was very lucky with parents
+who were servants
+
+and they taught me
+to be in service to others.
+
+This was a great value gift.
+
+When I went to Harvard,
+
+there was also a philosophy there
+to be in public service,
+
+to be able to focus your life,
+to be able to give back.
+
+And Harvard has been a huge contributor
+to those in public sector.
+
+In the UK, Oxford and Cambridge
+had that same kind of philosophy
+
+of growing the next generation
+that's in public service.
+
+So I think service is one of the elements.
+
+The second one is really being
+about staying focused on your vision.
+
+For me, my vision was this idea
+of bringing systems theories
+
+and science and technology together
+
+to be able to do better problem-solving.
+
+First with design
+and now whole organizations
+
+and society in general.
+
+That didn't just happen,
+
+it was thoughtful time spent
+by myself and with my wife
+
+to think about what
+we should with our life.
+
+And we were really lucky.
+
+We found this great thing
+that we were passionate about.
+
+We thought and visualized,
+
+"Yes, this is really something
+we could actually do."
+
+We had no idea where it would go,
+
+but at least we picked
+a segment of our interest
+
+to be able to follow this passion
+and we lucked out.
+
+And we didn't sell out, we lucked out.
+
+We were very fortunate to live
+very modestly for several decades
+
+to build up this organization
+
+and stay focused on our purpose.
+
+So my suggestion is,
+find something that you really love,
+
+that you really can contribute to,
+
+that really supports your idealism,
+
+and don't sell out for money
+or venture capital
+
+or borrow money,
+
+none of that actually winds up
+in being able to retain your idealism.
+
+SR: So I think there is so much happening
+
+on the intersection of tech
+and life science right now
+
+that is so exciting,
+
+but also at this intersection
+that you're talking about as well,
+
+and very much, I think,
+
+will be part of the solutions
+for us going forward.
+
+JD: I think that this big step
+of Web GIS that we're into right now
+
+will happen over the next few years.
+
+And it's, in some ways, just in time.
+
+Like the UN has organized their SDGs,
+
+these global sustainability issues,
+
+into this Web GIS platform.
+
+We're building a system which is bottom-up
+and country by country,
+
+that allows all the SDG reporting
+to be able to tell the world,
+
+like they did with COVID,
+
+what's happening
+with the other 290 indicators.
+
+Whether it's, you know, women in politics
+
+or whether it's loss of forests
+or water quality,
+
+this is a big deal.
+
+So it isn't just organizations anymore.
+
+We're starting to see
+unifiers, integrators
+
+of the individual systems
+into this system of systems,
+
+which I think can talk to the world
+and transform the world.
+
+This is essential
+
+if we are going to evolve
+to a society that's sustainable.
+
+SR: Great.
+
+I think that is a perfect place to stop.
+
+Thank you so much.
+
+This was really wonderful.
+
+I'm really, really glad
+that we got to do this.

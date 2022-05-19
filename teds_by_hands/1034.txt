@@ -1,0 +1,779 @@
+As a small child, I was lucky
+to be at the launch of Apollo 17,
+
+the last manned mission to the Moon,
+
+and I've remained enamored
+with space ever since.
+
+And fortunate as a physician
+
+to have contributed
+to NASA life sciences research
+
+and to practice aerospace medicine,
+
+inspired by the cross-disciplinary
+teamwork required
+
+to tackle audacious challenges
+
+and how space is has often
+brought the world together
+
+through the lens of seeing our planet
+as one without borders.
+
+Now, just as the historic
+Apollo moon landings
+
+were transformational
+inflection points in history,
+
+so too is the global
+health crisis of COVID-19,
+
+which, despite its many
+challenges and tragedies,
+
+like the sinister Cold War setting,
+which launched the space race,
+
+can have silver linings.
+
+As Regina Dugan,
+former head of DARPA, wrote,
+
+“Sputnik set off the space age,
+COVID can spark the health age.”
+
+The silver linings include
+
+the unprecedented acceleration
+
+of innovation, collaboration
+and discovery,
+
+catalyzing a future of health and medicine
+that can help us reimagine
+
+and bring us a healthier, smarter,
+more equitable post-COVID world.
+
+Now, many solutions ride the rails
+
+of rapidly, exponentially
+developing technologies
+
+that are rapidly doubling
+in their speed-price performance,
+
+as exemplified by Moore's Law,
+
+which has enabled the billionfold
+improvements in memory and computation,
+
+resulting in the ubiquitous
+supercomputer smartphones
+
+most of us carry in our pockets.
+
+I still have my now ancient iPhone 2 here.
+
+Still works, which felt
+magical 12 years ago
+
+but now feels slow and kludgy.
+
+And I'm sure my iPhone 11
+will soon seem antique,
+
+perhaps as its features dissolve
+into the rumored to soon arrive
+
+augmented reality smartglasses.
+
+Now exponential technologies
+packed into our smart devices
+
+are becoming increasingly medicalized,
+
+with sensors able to detect
+an ear infection and more.
+
+So what used to fit on a desktop computer
+
+now fits on our wrist
+
+and these are now entering the domain
+of FDA-approved medical devices.
+
+But the future isn't
+about any one technology,
+
+but their convergence
+as they get faster, cheaper, better.
+
+In fact, creating entire new fields
+at their interfaces,
+
+from computational biology,
+robotic surgery,
+
+digiceuticals, telemedicine
+to AI-enabled radiology.
+
+And while many industries
+have been disrupted
+
+and breached the fourth industrial age,
+
+health and medicine often feel
+stuck in the second or third.
+
+Critical data is still stuck being shared
+on fax machines, paper forms.
+
+We're stuck in waiting rooms
+waiting for our visits.
+
+I recently had my own echocardiogram
+
+only made available
+to share with me on a CD-ROM.
+
+I don't even own a CD-ROM player anymore.
+
+Tools for managing pandemics in 2020
+
+rely on the same core technologies
+used in the pandemic of 1918:
+
+face masks, social distancing,
+
+handwashing.
+
+So part of the challenge
+in advancing global, local health
+
+are our models, our mindsets.
+
+We don't really practice health care.
+We practice sick care.
+
+Sick care is based
+on intermittent episodic data,
+
+usually only obtained
+within the four walls of the clinic
+
+or hospital bed,
+
+and leads to our reactive sick care model,
+
+where we wait for the patient to show up
+in the emergency room with a heart attack,
+
+stroke or late-stage cancer
+
+or for the pandemic
+to arrive on our shores.
+
+I believe the convergence
+of many of the accelerating technologies
+
+and approaches being catalyzed by COVID
+
+will bring us from intermittent sick care
+
+to an age of continuous,
+proactive, personalized,
+
+crowdsourced health care
+
+that can increasingly bring care
+anytime, anywhere more effectively
+
+and lower costs around the planet.
+
+For example, the convergence
+of ever smaller interconnected devices
+
+now riding 5G
+
+is creating not just an Internet of Things
+
+but an Internet of Medical Things.
+
+Much of this convergence
+is in the field of digital health,
+
+the ability to connect the dots
+between data sources
+
+from personal genomics and medical records
+
+with apps and services
+that match the needs
+
+of an individual, patient or caregiver.
+
+And as incentives and reimbursements
+align,
+
+COVID has pushed us
+to an increasingly virtualized care,
+
+from the hospital to home to our phone
+
+to on and even inside our bodies.
+
+The age of hospital
+to home-spital is upon us.
+
+Now, the challenge
+of this hyperconnected age
+
+is that we're creating
+exponential amounts of big data
+
+that's too often siloed in formats
+that can't even talk to each other.
+
+So we need to narrow
+that gap between data,
+
+turning that into actual information
+for the patient, physician,
+
+public health worker,
+
+and speed its safe and effective use
+in the community clinic and bedside.
+
+The pandemic has instigated an immense
+amount of international sharing
+
+and collaboration amongst clinicians
+and researchers to narrow that gap.
+
+What was learned
+in managing patients in Wuhan
+
+and then in the intensive care
+units of Italy
+
+has helped New York City hospitals
+
+and their learnings in turn
+have spread to centers around the world.
+
+Let's take a quick dive into some examples
+
+of what's happening
+across the health care paradigm
+
+in the age of COVID
+
+and the implications for the future.
+
+From new forms of data
+to help prediction of prevention
+
+to faster diagnostics,
+more tailored therapy
+
+and increasingly crowdsourced discovery.
+
+Let's start with prevention.
+
+Now, while our genomes
+impact our health outcomes
+
+and our health spans,
+
+our social determinants of health,
+
+our social, and our day-to-day behaviors
+drive most of our risk for disease
+
+and associated costs.
+
+And we now have an explosion of new tools
+
+to help measure and improve
+our healthy behaviors.
+
+The first Fitbit only launched in 2009.
+
+Wearables are now ubiquitous
+
+and can measure almost every
+element of our physiology,
+
+behavior and even mental health.
+
+And they're evolving all the way
+from disposable tattoos
+
+that can stream vital signs 24/7
+
+to an integration of big data that can --
+
+Even small data from a simple wearable,
+
+tracking the patient discharged home
+after a hip replacement
+
+or a coronavirus infection
+
+can determine if the patient
+is recovering as expected,
+
+walking more, doing great
+
+or not so great and trigger
+early intervention.
+
+We're evolving from a world
+of quantified self
+
+where our digital data
+remains silent on our devices
+
+to one of quantified health
+
+where the data can be shared securely
+with clinical teams
+
+and researchers
+to help optimize prevention,
+
+diagnose disease early
+
+and with feedback loops,
+
+personalize and optimize therapy.
+
+From wristband vitals,
+
+including blood pressure,
+now obtainable without a cuff,
+
+and soon sensors that will measure
+our blood oxygenation levels
+
+to continuous blood sugar monitoring,
+
+to shock'ables, hearables, ring'ables
+that can replace an entire sleep lab
+
+fitting on our finger
+
+to inside’ables, chips beneath our skin,
+to track our physiology and lab values,
+
+to even underwear'ables,
+
+Internet of Medical Things
+sensors so cheap today
+
+you can get a pack of ten of them,
+have one on each pair of your underwear,
+
+now being used to do what's called
+remote patient monitoring
+
+to help detect signs
+of respiratory decompensation
+
+of patients with bronchitis or COVID.
+
+Breath'ables are showing promise.
+
+Nanonoses that can detect molecules
+in our breath correlating to cancer,
+
+metabolic disease and even
+diagnosing infectious disease.
+
+In fact, we now don't need
+to wear anything.
+
+Invisibles, ambient sensing
+from AI-enabled cameras
+
+can track her vital signs.
+
+To voice as a biomarker to manage
+and detect mental health challenges,
+
+signs of heart disease,
+
+now being able to differentiate
+between a cough from a common cold
+
+to that one caused by coronavirus.
+
+And we'll soon be exuding
+our digital exhaust 24/7,
+
+our digitome.
+
+How do we make sense
+and truly leverage it?
+
+One path is through crowdsourcing.
+
+The million-participant All of Us trial
+
+from the National Institutes of Health
+is doing just that
+
+where data donors, and I'm one,
+can contribute our medical records,
+
+genomes and wearable data
+
+to build a much better
+and diverse data set,
+
+crossing racial and socioeconomic groups
+
+to help foster better
+precision medicine for all of us.
+
+Integrating this information
+for the individual and public health
+
+will lead to predictalitics,
+
+our own personal check engine lights
+
+that can give us early proactive warning.
+
+And recent work is demonstrating that
+wearables can detect presymptomatically
+
+the onset of the flu,
+
+or, as recently published by Stanford,
+
+in 83 percent of COVID patients
+
+smartwatches can detect
+COVID infections early,
+
+often days before onset of symptoms.
+
+Self-reporting websites
+like Covid Near You
+
+enable us to locally generate
+infections maps,
+
+and combined with our social graphs
+and contact tracing apps,
+
+may provide us detailed suggestions
+about who we might want to consider
+
+being near or socially distanced from.
+
+What about advancements
+in diagnostics and monitoring?
+
+What used to require
+a full clinic or laboratory
+
+can now fit into a digital doctor's bag
+
+or the pocket of a patient.
+
+From COVID quarantine kits
+
+enabling tracking of oxygen saturation,
+temperature and lung sounds,
+
+we're starting to integrate
+these into virtual visits,
+
+providing real-time enhancements
+of a virtual physical exam.
+
+And the diagnostic tools
+are becoming increasingly infused
+
+with AI machine learning,
+
+including consumer ultrasounds,
+
+which can bring diagnostics
+anywhere at very low cost,
+
+including the ability
+to evaluate the lungs
+
+in suspected COVID patients.
+
+The laboratory has shrunk
+to microfluidic platforms
+
+that can be attached to our smartphones
+
+and enable anyone to take measurements
+from blood or saliva.
+
+Many of these diagnostics are leveraging
+the smartphone and its camera
+
+for a medical selfie.
+
+For example, instead of
+taking your urine to the lab
+
+to diagnose a potential
+urinary tract infection,
+
+in the privacy of your home
+simply dip the urine dipstick,
+
+take a picture with your smartphone camera
+
+and have the results made available
+immediately to your doctor and pharmacy.
+
+Similar phone-based apps and approaches
+are being used and developed
+
+for fast, frequent,
+cheap and easy COVID testing.
+
+Novel approaches to community level
+diagnostics are also being explored,
+
+including next gen sequencing of sewage
+for early detection of COVID-19,
+
+identifying hotspots and predicted
+outbreaks a week or more early.
+
+The explosion of data sources, however,
+
+is really beyond the capacity
+of the human mind
+
+to effectively integrate.
+
+We're now getting help from AI,
+
+or as I call it, IA,
+intelligence augmentation.
+
+IA is being leveraged
+in reading CT scans to diagnose COVID,
+
+to enhancing the vision
+of a gastroenterologist
+
+performing a colonoscopy
+
+to identify lesions
+they might have missed.
+
+And AI is playing
+an active role in helping identify
+
+and develop new antivirals.
+
+And while AI is often perceived
+as a threat by some clinicians,
+
+it can't replace
+the human touch or empathy.
+
+And I don't think doctors or nurses
+will be replaced by AI,
+
+but doctors and health care systems
+
+who’re collaborating with AI in the future
+will be replacing those who don’t.
+
+Finally, therapy.
+
+The pandemic has dramatically accelerated
+the use of virtual visits.
+
+Telemedicine visits are up on the order
+of a thousand percent in many settings.
+
+And I don't think we'll ever revert
+to pre-COVID levels
+
+as patients and clinicians are discovering
+the compelling convenience and efficacy.
+
+Even before virtual zoom
+or facetime with the clinician,
+
+asynchronous screening and support
+has been provided
+
+by ever-smarter chat bots
+that can help discern symptoms
+
+and triage problems
+effectively at lower cost.
+
+This includes virtualization
+
+and virtual augmentation
+to meet our mental health crisis,
+
+exacerbated by the many
+economic and other stressors
+
+which accompany this pandemic.
+
+3D-printing is finding
+a role in health care,
+
+with newfound applications
+
+from printing personal masks
+to critical parts of ventilators
+
+and being leveraged
+by the growing maker movement,
+
+which is playing a major role
+in pandemic response,
+
+from making face shields and masks
+
+to improvising do-it-yourself ventilators.
+
+All together, these efforts
+are enabling the potential
+
+for democratization of health
+and medicine across the planet
+
+and access to information and care
+that was previously inaccessible.
+
+Clinical trials are being reshaped,
+leveraging smart devices,
+
+cloud-based analytic platforms
+and collaborators around the world.
+
+That's at this convergence
+of many rapidly developing
+
+and exponential technologies
+
+that we have the real potential to reshape
+
+and scale health care at our pandemic age.
+
+One where we can dramatically expand
+access to basic health care,
+
+increasingly personalized and proactive,
+
+leveraging the scale of digital
+platforms and technologies,
+
+enhancing digital connection and empathy,
+
+and the ability to blend
+virtual and in-person care,
+
+and leveraging the power of the crowd
+to share and build better maps
+
+that guide our individual health
+
+and public health journeys,
+
+and to develop validated
+and scaled solutions.
+
+So imagine a new generation of volunteers,
+
+a global health corps
+
+similar to the volunteer paramedics
+and firemen of today
+
+that can be upskilled,
+
+use the powerful new tools
+to respond early
+
+and collectively to enhance
+contact tracing, isolation and quarantine,
+
+and to help identify and address
+social and other disparities.
+
+So coming full circle.
+
+Twenty four years after I was
+at the launch of Apollo 17,
+
+I found myself as a medical student
+on a research clerkship
+
+at Johnson Space Center.
+
+And much to my surprise,
+one day in the clinic,
+
+I ran right into Gene Cernan,
+
+the Apollo 17 commander
+and the last man to walk on the Moon.
+
+After enthusiastically sharing
+my childhood memories of his launch,
+
+he shared one of his famous lines:
+
+"I walked on the Moon. What can't you do?"
+
+Indeed, what can't we do
+if we work together as one
+
+in the face of this pandemic?
+
+And just as the near tragedy of Apollo 13
+
+rallied NASA to work
+creatively and collectively,
+
+so too can this in our pandemic age
+lead to our finest hour,
+
+bring on a true health age.
+
+I believe this is possible
+if we all get out of our linear mindsets,
+
+take exponential steps
+and collaboratively go forth collectively,
+
+not only to solve
+the challenges of this pandemic
+
+and predict the
+future of health and medicine,
+
+but boldly to go forth together
+
+to accelerate a far better one
+for everyone on Spaceship Earth.
+
+Thanks.

@@ -1,0 +1,492 @@
+I am a repair geek.
+
+I grew up fixing things with my dad;
+it was what we did.
+
+We fixed our TV,
+we fixed our refrigerator,
+
+we fixed stuff that didn't need fixing.
+
+We fixed our Volkswagen Beetle.
+
+In our home,
+
+if something broke, we took it
+as an opportunity to have fun.
+
+We loved the idea and the challenge
+of bringing things back to life.
+
+And I still love that feeling,
+
+which to me is just thrilling.
+
+I did it recently.
+
+My laptop was overheating,
+
+I thought it might be the fan,
+
+I ordered a fan,
+
+I put the fan in, I turned it on,
+
+and the fan went "whir"
+
+like, “Yes! That really worked.”
+
+It was a great feeling.
+
+Now I know this kind of repair
+probably sounds very old-fashioned,
+
+and I probably look
+a little old-fashioned,
+
+but it's much more than saving money.
+
+It's how we keep the things
+that we like in use.
+
+It helps us keep things out of the trash.
+
+It helps bring jobs into our communities,
+
+and it can help solve the digital divide.
+
+Now, since 2013, I've been
+the executive director
+
+of the Digital Right to Repair Coalition,
+
+otherwise known as repair.org.
+
+Our members do all the Rs:
+
+We repair, we reuse,
+we resell and we recycle.
+
+And in doing this work,
+I've come to realize
+
+that repair is right now central
+
+to all of our sustainability goals.
+
+If we can fix our stuff a little more
+frequently, keep it in use,
+
+we're keeping it out of the front
+of the waste stream at the front end.
+
+So we'll have less to process
+at the back end.
+
+If we are going to have any control
+over our e-waste problem,
+
+we have to talk about repair.
+
+Let me give you a sense of scale.
+
+Back in 2013,
+
+the EPA estimated
+that the average US household
+
+already owned 28 digitally-driven
+gizmos and gadgets.
+
+It was everything from garage-door openers
+
+and hot tub controls to smart toasters.
+
+If we just do a little math and multiply
+
+28 times are roughly
+123 million households,
+
+we come up with a pretty staggering
+
+three and a half billion pieces of e-waste
+
+that don't belong in our landfills,
+
+and they are costly
+
+and difficult to put back as raw materials
+
+if those processes even exist.
+
+When we look a little more closely
+at what's even possible with recycling,
+
+I think we've been ignoring
+some really ugly truths.
+
+By the time a laptop or a refrigerator
+
+or even an electric toothbrush
+gets in our hands,
+
+almost all of the environmental
+damage has already been done.
+
+All the costs of mining and refining
+and smelting and transportation.
+
+And we don't see these costs
+when we go to the store,
+
+and we don't see the human costs
+of terrible labor conditions
+
+and exposure to toxic materials.
+
+So even if we can't agree
+on how to calculate these costs,
+
+I think we can agree that fixing more
+and throwing away less just makes sense.
+
+There's a lot of other advantages
+of repairing things
+
+other than just the obvious.
+
+Repair is what lets us keep
+our older devices in use,
+
+and it allows a secondary market
+for the products that we want to resell.
+
+And secondary markets
+are why used equipment is so affordable
+
+because the used seller
+has to compete with new.
+
+So if a new gadget is 1,000 dollars,
+
+we expect a pretty big discount
+to buy that same item used.
+
+Let's start with 50 percent.
+
+So now we have an affordability capability
+
+that is central to crossing
+the digital divide.
+
+We had five million students
+that went to virtual school this past year
+
+that didn't have enabling technology.
+
+And that's because parents
+and school districts couldn't buy new.
+
+We still have a lot of chip shortages,
+
+and these are going to be
+with us for a while.
+
+And I think we have to think very
+seriously about doing more repair,
+
+not just to make things last longer
+
+but also to be more resilient
+as an economy.
+
+Repair is also a point of entry
+for a lot of our engineers and innovators.
+
+I heard Steve Wozniak
+speak very recently --
+
+Apple Steve Wozniak --
+
+He spoke very recently
+about his growth and development
+
+at a time when he was repairing
+things as a kid.
+
+And it was central
+to his development as an engineer.
+
+He grew up pretty much
+the same time I did,
+
+where repairs were very ordinary.
+
+Consumers were empowered to take
+their vacuum tubes to the local store,
+
+plug them in and see if they work
+
+and then buy a replacement on the spot.
+
+And there were lots of options for repair
+within the community
+
+to help with the more
+difficult challenges.
+
+I think you've probably noticed
+
+that these mom and pop
+businesses disappeared
+
+or all but disappeared in our communities.
+
+And it’s not because we don’t want
+to fix our stuff,
+
+it's because they were not allowed to buy
+the essential repair materials
+
+that enabled them to stay in business.
+
+So if we can back that back
+
+and make it possible
+for our local repair shops
+
+to buy parts and tools,
+
+then those businesses will come back
+
+and they will bring back with them
+jobs that feed families.
+
+And our nerdy kids will be
+able to open things up,
+
+figure out how they work
+
+and become the engineers
+and innovators of our future.
+
+Repair jobs, which I mentioned,
+
+they’re great jobs,
+
+and they don't require an advanced degree.
+
+I'll give you an example.
+
+There's a charity
+in Minnesota called Tech Dump,
+
+and they take in donated electronics,
+
+and then they hire adults
+that are hard to employ,
+
+many of whom coming out
+of the criminal justice system.
+
+They train them to make repairs.
+
+They then take the repaired goods,
+
+sell them and use the proceeds
+to fund more training.
+
+They’re keeping equipment
+out of the waste stream;
+
+they’re bringing good-quality equipment
+to their community in a used format;
+
+and they are bringing people out
+of poverty and into the workforce.
+
+What's really got me irritated
+
+(Laughs)
+
+is that at this point,
+
+the vast majority of products
+on the market today
+
+cannot be repaired by any party
+
+without being totally dependent
+on the manufacturer.
+
+And the day the manufacturer decides
+they don't want you to fix it,
+
+it's over.
+
+This is a completely artificial problem.
+
+Manufacturers used to provide
+comprehensive documentation
+
+and schematics and shipped
+it with every product.
+
+It was expected
+that you could fix your stuff.
+
+Then once the internet allowed
+this documentation to be hosted online,
+
+manufacturers stopped printing,
+
+which made sense
+because printing was expensive.
+
+And then somewhere
+along the line, somebody said,
+
+"Ah, we need to know
+who's using our website."
+
+So they demanded a login.
+
+And then another bright light said,
+
+"Oh, we can charge."
+
+So they put up a paywall.
+
+And then a third bright light said,
+
+"We can't let anybody
+have this information at all.
+
+They might compete with us."
+
+And that's where we are today.
+
+We can't get what we need
+to fix our stuff.
+
+Now, I can tell you
+because I've had a front-row seat,
+
+this trend towards a throwaway economy
+is reversing all over the world.
+
+And it's really fun to be able
+to tell you about it.
+
+Back in 2014,
+
+we put forward our very first
+digital “Right to Repair” bill,
+
+and that became the template
+for dozens of other bills.
+
+And this year, we've had 27 states
+take up the same legislation.
+
+These bills are starting to pass.
+
+There's been a lot of help
+from the Federal Trade Commission
+
+and also the Biden administration,
+
+in saying we really, as a country,
+
+need to be able to fix our stuff,
+and we need competition for repair.
+
+It's not just us.
+
+Canada and Australia
+have got similar processes underway.
+
+The European Union has put forward
+a set of regulations that just took effect
+
+that are limiting the use of adhesives
+in the construction of products
+
+because if you can't get into the thing,
+
+you can't fix the thing.
+
+France has yet another idea.
+
+They are requiring manufacturers to rate
+themselves on their repairability,
+
+and then they are posting those scores
+for consumers to consider pre-purchase.
+
+There are groups forming up
+all over the world
+
+that help people repair stuff
+
+even without government
+or regulatory change.
+
+You may have seen Repair Cafés
+advertised in your community.
+
+That first Repair Café
+started in 2009 in Denmark.
+
+There are now over 2,000
+official chapters.
+
+There are web sites, YouTube
+
+and a company called ifixit.com
+
+that hosts tens of thousands
+of repair tutorials
+
+to help people learn
+how to fix their stuff.
+
+Last year,
+
+they recorded 116 million
+unique users on their website,
+
+so I think it's pretty clear
+people do want to fix their stuff.
+
+So I'm very encouraged by the fact
+that our throwaway economy,
+
+the trend is reversing.
+
+And we are going to be able
+to fix our stuff.
+
+We're going to be able
+to use the things we want
+
+in the way that we want them.
+
+We will be able to cross
+the digital divide,
+
+and we will have more jobs,
+
+and we will all get that great
+“Yes! I fixed it!” feeling.
+
+So the next time
+something around you breaks,
+
+don't take "broken" for an answer.
+
+Go fix something.
+
+(Applause)
+
+Thank you.

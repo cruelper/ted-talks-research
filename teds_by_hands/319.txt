@@ -1,0 +1,372 @@
+A few years back,
+
+my friend's dad asked me to show him
+my mom's house on the map.
+
+I knew we didn't have
+Street View in Zimbabwe yet,
+
+but I looked anyway,
+
+and of course, we couldn't find it.
+
+When you look at most mapping platforms,
+
+you will find that parts
+of the African continent
+
+are largely missing.
+
+And I've wondered:
+
+Is it the people?
+
+Is it the technology?
+
+Or is it the terrain?
+
+For nearly a billion people
+on the continent,
+
+it's an accepted reality
+
+that certain technologies
+are just not built for us.
+
+When Cyclone Idai flattened
+parts of Mozambique,
+
+Zimbabwe and Malawi in 2019,
+
+killing 1,300 people and displacing
+hundreds of thousands of others,
+
+it left more than just destruction.
+
+It left a new awareness
+of the consequences of omission
+
+in the way we build technology.
+
+As rescue workers arrived in the region
+in search of survivors,
+
+we learned that thousands
+of displaced people
+
+were in unmapped areas,
+
+making it difficult to reach them
+with much-needed food
+
+and medical supplies.
+
+There was no accurate accounting
+of what had been lost.
+
+For those in unmapped areas,
+
+a natural disaster often means
+no one will come to find you.
+
+Thankfully, as the tools used
+to build some of the maps we use today
+
+become more easily accessible,
+
+we can be part of the solution.
+
+Anyone with a computer or a cell phone
+
+can play a role in improving
+the representation of communities
+
+that are missing accurate maps.
+
+In two weeks,
+
+I photographed 2,000 miles of Zimbabwe,
+
+and with every single mile I captured,
+
+I got closer to an answer
+
+and a better sense of what it means
+to not be on the map.
+
+As I started to prepare
+for my mapping journey,
+
+I learned that while many
+of the maps we use today
+
+are built on proprietary technology,
+
+the pieces that make up that canvas
+often have open-source origins.
+
+I could combine those pieces
+with off-the-shelf products
+
+to build maps that are accessible
+
+on both commercial
+and open-source platforms.
+
+I started with a very rudimentary setup:
+
+a 360-degree action camera
+stuck outside the window
+
+of my brother's car.
+
+After capturing a few dozen
+miles of city streets,
+
+I borrowed a proper camera
+from the Street View camera loan program,
+
+allowing me to capture
+high-resolution imagery,
+
+complete with location, speed
+and other vital layers of data.
+
+I adapted that camera
+to sit on a backpack I could carry,
+
+and with the help
+of a few more contraptions,
+
+we were able to mount it
+to the dash of a helicopter,
+
+the bow of a speedboat
+
+and the hood of an all-terrain vehicle.
+
+My journey started at Victoria Falls,
+
+one of the seven
+natural wonders of the world,
+
+and then I headed east
+
+to the 11th-century city
+of Great Zimbabwe,
+
+before retracing my footprints home,
+
+finally putting my hometown on the map.
+
+And yet, much of the region
+remains all but invisible
+
+on some of the most widely used
+mapping platforms.
+
+Beyond navigation,
+
+maps are a proxy for what we care about.
+
+They tell us about the quality
+of the air we breathe,
+
+the potential for
+renewable energy solutions
+
+and the safety of our streets.
+
+These lines retrace
+the journeys we've taken.
+
+In a sense, maps
+are a form of storytelling.
+
+When you look at the state of mapping
+on the African continent today,
+
+you'll find a patchwork of coverage,
+
+often driven by humanitarian need
+in the wake of natural disasters,
+
+rather than by deliberate
+and sustained efforts
+
+to build out digital infrastructure
+
+and improve overall service delivery.
+
+What the continent is lacking
+
+are maps that tell the story
+of how people live,
+
+work
+
+and spend time,
+
+illuminating environmental
+and social issues.
+
+With more than 600 million cell phones
+in the hands of people
+
+between Cape Town and Cairo
+
+and centers of innovation
+in the cities in between,
+
+this is achievable.
+
+Every single one of those devices,
+
+in the hands of a contributor
+to an open-source mapping platform,
+
+becomes a powerful source of imagery
+
+that forms a vital layer of data on maps.
+
+With virtual maps,
+
+mapping is no longer
+just about cartography.
+
+It's become a way to preserve places
+
+that are undergoing constant
+and sometimes dramatic change.
+
+High-resolution imagery
+turns maps into a living canvas
+
+on which we can instantly experience
+
+the rhythm and visual
+iconography of a city,
+
+often from thousands of miles away.
+
+City planners are able
+to measure traffic density
+
+or pick out problem intersections,
+
+and in the case of Northern Ontario,
+
+where I mapped ice roads in partnership
+with the local government,
+
+you can now explore
+500 miles of winter roads
+
+along the western edge of the James Bay.
+
+Every winter, after 10 days
+of minus 20-degree temperatures,
+
+engineers begin the work
+to build the road of the season.
+
+These roads only exist for 90 days,
+
+connecting communities
+across hundreds of miles of frozen tundra.
+
+Being on the winter roads
+of Northern Ontario
+
+after mapping parts of Namibia,
+one of the warmest places on the planet,
+
+exposed me to the many ways
+in which communities are using maps
+
+to understand the pace and impact
+of changes in the environment.
+
+So after mapping 3,000 miles in Zimbabwe,
+Namibia and Northern Ontario
+
+and publishing nearly
+half a million images to Street View,
+
+reaching more than
+26 million people on Maps,
+
+I know it's not the technology,
+
+it's not the people,
+
+and it's clearly not the terrain.
+
+Every other day,
+
+I hear from scientists who are using maps
+
+to understand how our built environment
+influences health outcomes,
+
+teachers using virtual reality
+in the classroom
+
+and humanitarian workers using maps
+to protect the vulnerable.
+
+A dad wrote to me to say
+he'd finally been able to show his girls
+
+the house in which he grew up
+
+and the hospital in which
+he was born, in Harare.
+
+Think about the last time
+you gave directions to a stranger.
+
+When we contribute to connected maps,
+
+we're giving directions to millions.
+
+And that stranger may be
+the occasional tourist,
+
+a researcher,
+
+a first responder,
+
+a rescue worker working
+in unfamiliar terrain.
+
+As we begin to think about
+how to bridge the digital divide,
+
+we should go beyond
+the traditional narrative
+
+of data extraction and consumption
+
+and think more critically
+about the role you and I play
+
+in the creation of the technologies
+and tools we use every day.
+
+The goal is not to map
+every inch of the planet,
+
+but to spare a moment to think about
+where those tools are most needed,
+
+the consequences of our mission
+
+and the role you and I can play
+in filling those gaps
+
+and building a more connected world
+
+together.
+
+Thank you.

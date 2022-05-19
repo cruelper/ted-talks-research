@@ -1,0 +1,193 @@
+You are the captain of the Mallory 7,
+an interstellar cargo transport.
+
+On your way to the New Lindley spaceport,
+you receive a distress call.
+
+There’s been an explosion
+on the Telic 12
+
+and its passengers are running
+out of oxygen.
+
+As you set a course to intercept, 
+you check the Telic 12′s manifest.
+
+It’s currently transporting 
+30 middle-aged individuals
+
+from some of Earth’s poorest districts 
+to the labor center on New Lindley,
+
+where they'll be assigned
+jobs on the spaceport.
+
+But as you approach the Telic 12, 
+you receive a second distress call.
+
+A luxury space cruiser called 
+the Pareto has lost a thruster,
+
+sending them careening 
+towards an asteroid belt.
+
+Without your help, the 20 college students
+headed for vacation
+
+aboard the Pareto are all doomed.
+
+So with only enough time to save one ship,
+which one should you choose?
+
+This dilemma is an example of a broader
+class of problems
+
+where a life-saving resource— 
+such as a donated organ or vaccine—
+
+is scarce.
+
+There are many schools of thought 
+on how to approach these problems,
+
+and one of the most influential
+is utilitarianism,
+
+an ethical view first systematically
+developed
+
+by Jeremy Bentham and John Stuart Mill.
+
+In this view,
+you should choose the action
+
+which promises the greatest
+sum of happiness.
+
+Though, how to define and measure 
+happiness is a difficult question.
+
+For example, hedonists would suggest 
+a happy life
+
+contains the most pleasure 
+and the least pain.
+
+Others might say it’s the life 
+where your desires are most fulfilled.
+
+However happiness is defined,
+
+most would agree that saving 30 lives 
+has the potential
+
+to generate more happiness than saving 20.
+
+But is it enough to consider 
+how many lives would be saved?
+
+Or should you also consider how many
+life years would be?
+
+Assuming a life expectancy of 80, 
+saving the lives of the students,
+
+with an average age of 20, 
+saves 1,200 life years,
+
+while saving the workers, 
+with an average age of 45, saves 1,050.
+
+All things being equal, 
+a longer life should promise
+
+a greater sum of happiness
+than a shorter one.
+
+So perhaps saving the smaller ship
+actually has the potential
+
+to generate the most happiness.
+
+If all these calculations feel a bit cold,
+
+you may want to consider
+a different approach.
+
+The philosopher Derek Parfit argues 
+we should give priority to the worse off,
+
+since benefits to those groups 
+matter more
+
+than equivalent benefits to the well-off.
+
+In this view, it’s more urgent to help
+those whose basic needs aren’t met
+
+even if they’re harder to help 
+than those who are flourishing.
+
+But often, determining which group is 
+truly worse off can get complicated fast.
+
+In our case, Earth is still beset 
+by drastic inequalities
+
+in wealth and opportunity.
+
+And those able to afford
+a vacation on New Lindley
+
+and transport on a luxury cruiser
+
+are no doubt among the most well-off 
+people on the planet.
+
+The workers, by contrast, 
+are among the most disadvantaged,
+
+traveling away from home for months
+at a time to perform service work.
+
+With fewer resources and opportunities,
+
+it’s likely they’ve experienced more
+hardship in their lives
+
+than the vacationers,
+
+so maybe they’re more deserving of rescue?
+
+On the other hand, the students have
+experienced less life overall—
+
+so perhaps they’re worse off?
+
+Or maybe none of these variables
+should influence our decision.
+
+The philosopher John Taurek famously 
+argued that in these types of cases,
+
+the numbers don’t count.
+
+Each person is deserving 
+of equal concern and respect,
+
+so the best way to decide which passengers
+to save is to flip a coin.
+
+While this might seem arbitrary at first,
+this approach treats all parties equally,
+
+giving each individual 
+an equal chance of being rescued.
+
+Could any passenger argue that they're
+being treated unfairly by a coin flip?
+
+It’s tough to say.
+
+But how they— and you— feel about the 
+result may be another dilemma altogether.

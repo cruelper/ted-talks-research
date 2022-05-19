@@ -1,0 +1,234 @@
+There I was, an American woman,
+
+up to my knees in muck,
+wielding these strange metal boxes.
+
+I was in rural Bangladesh,
+
+deploying sensors that we'd built
+
+in order to understand why
+the ground water was making people sick.
+
+And I attracted some attention.
+
+But my tech simply measured the problem.
+
+The local communities
+that I'd really come to connect with
+
+were expecting a solution.
+
+So I raised funds,
+hired engineers from the city
+
+in order to dig a deep well
+and bypass the arsenic
+
+and provide access to clean water.
+
+And we celebrated.
+
+But as I boarded the plane,
+I thought, “What if it breaks?”
+
+I'm an engineer.
+
+I know that's not if but when.
+
+When the well breaks, who will fix it?
+
+How will they pay for it?
+
+And will they even know
+there's a problem in the first place?
+
+And I soon learned
+that this is all too often
+
+how lifesaving equipment
+is deployed globally
+
+in countries with limited
+electricity and infrastructure.
+
+I kept thinking,
+I don't want to just build sensors
+
+that measure a problem once it's very bad.
+
+What if instead we brought together
+the tech built to measure
+
+together with the equipment
+built to solve?
+
+What could we unlock?
+
+Take vaccines.
+
+Vaccines won't work if they
+get too hot or, surprisingly, too cold,
+
+so distributing vaccines
+requires refrigerators,
+
+big and small,
+
+to function reliably.
+
+Fridges can save lives,
+
+but all too often,
+like any kitchen appliance, they break.
+
+One study in South Asia found
+
+that over half of vaccine doses
+showed evidence of temperature damage
+
+by the time of the end of their journey.
+
+This means that the children
+that would have received those vaccines
+
+may not have actually been protected.
+
+Fridge failure is a big problem,
+
+and it can happen anywhere.
+
+Here in California,
+
+in 2015, Stanford Children's Health
+discovered a fridge
+
+that had been malfunctioning
+for up to eight months.
+
+Staff contacted 1,500 families
+about revaccinating those children.
+
+But what if you can't just
+get the families on the phone?
+
+What if they live a six-hour walk away?
+
+What if that first shot is your only shot?
+
+The stakes are high,
+especially now with COVID vaccines.
+
+Now, in May 2021, in Tanzania,
+
+a failing fridge with our smart sensor
+
+prompted an immediate response
+from the regional immunization officer,
+
+and a technician was out to the site
+and fixed some faulty wiring,
+
+and all the vaccines
+at that site stayed safe.
+
+Real-time sensor data
+made all the difference.
+
+We built a simple solution
+that continuously monitors the temperature
+
+and keeps that fridge
+in Tanzania connected.
+
+It sends an immediate text message
+automatically when the fridge fails,
+
+and importantly, the nurses
+and the technicians are ready
+
+and equipped to respond
+and fix the problem.
+
+My team and our partners
+have scaled this technology
+
+to over 15,000 sites
+across Asia and Africa,
+
+protecting the vaccine supply
+
+for one in 10 babies
+born on Earth each year.
+
+(Applause)
+
+And the same data that's used
+to actually detect the broken equipment
+
+can also be used to reveal
+the strongest links in the chain.
+
+These are the best sites and routes
+to use in an emergency.
+
+My team is working now with countries
+
+to reveal these pathways
+for COVID vaccines,
+
+so using sensor data
+for identifying the best vaccine sites
+
+in terms of temperature control.
+
+In turn, these sites can then serve
+as a backbone for all vaccine delivery.
+
+Now and in the future.
+
+So here's what I've learned.
+
+Sensor data can change the game
+
+by providing a common source
+of ground truth
+
+that enables coordinated action
+required to maintain lifesaving equipment.
+
+Not just vaccine fridges
+
+but any equipment deployed to save lives,
+
+from solar panels on hospitals
+to ventilators and oxygen tanks.
+
+But in order to realize these benefits,
+
+we need to invest in data
+
+and ensure that
+local communities and countries
+
+are in the driver's seat
+
+and that they have access
+to the resources they need
+
+to act on what their data is telling them.
+
+It's worth it.
+
+I know, because I have seen
+how the same tech can be used to measure,
+
+solve big problems
+and sustain those solutions.
+
+Just as my friends in Bangladesh
+were right to expect all along.
+
+Thank you.
+
+(Applause)

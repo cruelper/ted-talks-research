@@ -1,0 +1,201 @@
+On April 12, 1961,
+Soviet cosmonaut Yuri Gagarin
+
+piloted a 2,400 kilogram spacecraft 
+in humanity’s first manned space flight.
+
+One week later, Bell Aerosystems debuted
+another advancement in aviation:
+
+the gas-powered rocket pack.
+
+Capable of flying 35 meters 
+in just 13 seconds,
+
+the rocket pack thrilled onlookers.
+
+But the device’s engineers
+were less enthused.
+
+Despite years of cutting-edge work,
+
+they knew this short flight was all
+the rocket pack could muster.
+
+So why was a massive spacecraft easier
+to send flying than a single pilot?
+
+According to Newton's laws of motion,
+
+the physics behind flight are
+actually quite simple.
+
+All you need is a powerful enough
+upward force
+
+to counteract the downward force 
+of gravity.
+
+And since objects with more mass
+experience stronger gravitational forces,
+
+lighter objects should be easier
+to get off the ground.
+
+However, modern jet engines,
+our primary tool for flight,
+
+actually get more efficient
+the larger they are.
+
+Jet engines work by sucking in huge
+volumes of air,
+
+and then expelling that air
+as quickly as possible.
+
+While most of this actually bypasses
+the inner machinery,
+
+it still contributes to a huge portion
+of the engine's thrust.
+
+But the air that does enter 
+the engine’s core gets compressed
+
+by a series of tightly packed blades.
+
+That compressed air then enters
+the combustion chamber,
+
+where it is injected with jet fuel
+and ignited.
+
+The heat causes the compressed air 
+to rapidly expand,
+
+bursting out of the exhaust 
+and propelling the engine forward.
+
+As air leaves the engine it also turns 
+a turbine embedded in the exhaust nozzle.
+
+This turbine powers the fan
+and the compressor blades,
+
+creating a cycle that maintains thrust
+for as long as there’s fuel to burn.
+
+The more air an engine can take in and 
+expel the more thrust it can produce.
+
+On a modern jet, the diameter 
+of a frontal fan is larger than a truck.
+
+And even spinning 
+at relatively low speeds,
+
+these engines produce more than enough
+thrust to maintain the necessary speed
+
+for flying a passenger aircraft.
+
+But smaller engines simply can’t 
+take in this much air.
+
+For most of the 20th century,
+engineers couldn’t produce an engine
+
+small and light enough 
+for an individual to wear,
+
+yet powerful enough to lift itself 
+alongside its pilot and fuel.
+
+Designs could only carry enough fuel
+for 30 seconds of flight,
+
+and when airborne, 
+the powerful thrust in a single direction
+
+made jetpacks difficult
+and dangerous to control.
+
+But the new millennium brought advances
+in materials, manufacturing,
+
+and computing technology,
+
+including systems which could manage
+fuel injection with incredible precision.
+
+Together, these dramatically improved 
+the fuel efficiency
+
+and power-to-weight ratio of jet engines.
+
+By 2016, micro-engines the size 
+of a coffee can
+
+and weighing less than 2kg
+
+could achieve 220 Newtons of force.
+
+This was when an English engineer
+named Richard Browning
+
+saw the opportunity to create 
+a new kind of lightweight jetpack.
+
+In addition to a single engine
+strapped to the back,
+
+this so-called Jet Suit involved a pair
+of micro-engines on each arm
+
+to split and balance the thrust.
+
+Working with the back engine,
+these provided three-points of stability,
+
+which some pilots describe as being 
+akin to comfortably leaning on crutches
+
+while a friend supports your back.
+
+It may seem complicated to manage
+all these engines at once,
+
+but many pilots master 
+it in less than a day
+
+with the help of another 
+advanced computer system— their brain.
+
+Various brain regions 
+and multiple sensory systems
+
+perfectly calibrate our sense of balance 
+and spatial orientation,
+
+helping pilots smoothly
+direct their flights.
+
+Slight movements of the arms allow
+operators to increase and decrease lift,
+
+quickly turn in mid-air, 
+or glide forward for up to 5 minutes.
+
+This technology is still fairly new,
+
+and without major advances
+in fuel efficiency and engine technology,
+
+don’t expect to have a jetpack
+of your own any time soon.
+
+But if reaching for the sky
+already got us this far,
+
+who knows where we'll fly next?

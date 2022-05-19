@@ -1,0 +1,351 @@
+As Ethic falls, she remembers.
+
+She remembers the world before 
+they unearthed the crystal.
+
+She remembers the glee she felt 
+when she built her first robot.
+
+But mostly she remembers 
+the friends she’s made
+
+these last few days:
+
+courageous Adila 
+and her resistance movement.
+
+Octavia’s sacrifice to keep
+the guards distracted.
+
+Lemma and her idealistic
+drive to cure everyone.
+
+And Hedge.
+
+Her creation, her responsibility, 
+her failure… her betrayer.
+
+Hedge, who convinced her to collect 
+the three nodes
+
+that she never actually needed.
+
+For Ethic remembers how to operate 
+the World Machine.
+
+If only she could get
+a second chance at it.
+
+Adila has been in radio contact 
+with Octavia,
+
+whom the robots captured and imprisoned
+in the same jail that held Ethic.
+
+Ethic explains that Hedge 
+has manipulated them all,
+
+and will now try to break down 
+the Bradbarrier
+
+and cover the entire world
+in a giant maze,
+
+unless they can stop him.
+
+But she has a plan:
+
+Ethic herself will go 
+to the crystal at the center of the maze
+
+and use its powers to stop Hedge.
+
+Meanwhile, Adila and Lemma will do
+whatever they can to slow Hedge down.
+
+As Ethic weaves her way towards 
+the innermost maze,
+
+her radio picks up a transmission.
+
+Octavia has freed hundreds of members
+of the resistance from stasis.
+
+Together, they’ve staged a jailbreak
+and overwhelmed the guards.
+
+The resistance has access 
+to the World Machine,
+
+but they don’t know how to use it;
+they’ll need Ethic for that.
+
+All they have at their disposal 
+are nearly limitless spools of wire.
+
+The strands are durable, but prisoners
+can break them deliberately
+
+if they need to.
+
+Ethic reaches the entrance to the inner
+most maze… and it’s sealed from within.
+
+She remembers a few things from 
+when she flew over the maze days earlier.
+
+It centers on the crystal.
+
+There are many dead ends, 
+but no paths that loop back on themselves.
+
+Ethic has one opportunity to radio 
+the members of the resistance
+
+a simple set of instructions
+
+before they plunge into the labyrinth
+in search of the exit.
+
+What directions can she give them so
+they can quickly navigate the maze,
+
+open the door, and guide Ethic
+straight back to the crystal?
+
+Pause now to figure it out for yourself.
+
+Hint in 3
+
+Hint in 2
+
+Hint in 1
+
+Here’s a hint:
+
+One of the challenges here is to find 
+a way to indicate where dead ends are,
+
+so that the resistance members
+don’t keep going down them.
+
+Try simplifying the maze 
+to something like this.
+
+Let’s say you’ve just hit this dead end,
+then came back to this intersection.
+
+What could you do to show the next
+person who gets here
+
+that they don’t need 
+to explore that path?
+
+Pause now to figure it out yourself.
+
+Solution in 3
+
+Solution in 2
+
+Solution in 1
+
+Most programming puzzles involve
+giving instructions to a single actor
+
+so that they can accomplish a goal.
+
+Instead, here we have a swarm 
+of individuals,
+
+each of whom can follow
+basic instructions.
+
+That’s unusual in programming, 
+but not unheard of;
+
+researchers are currently experimenting
+with swarms of small robots
+
+to do things like conduct search
+and rescue missions.
+
+The prisoners aren’t robots, but for
+Ethic’s purposes they’ll act like them.
+
+And by working together they can
+achieve their goal much more efficiently.
+
+Because you have a lot of prisoners, 
+you’ll want them to cover a lot of ground.
+
+This matches up well to a maze-mapping
+technique called a depth-first search.
+
+It’s called that because it involves going
+as deeply down a path as possible
+
+before going back.
+
+In other words, if you had 
+a maze like this,
+
+you’d want to explore all the way 
+down one of these branches
+
+before returning to this intersection
+and trying another.
+
+Everyone needs a clear set of instructions
+for what they should do.
+
+Like — first, tie down the loose end 
+of your wire by the crystal,
+
+so it leads back there.
+
+If you find the door,
+open it and hand your spool to Ethic.
+
+If you’re in a passageway, 
+keep going until you hit a dead end
+
+or an intersection.
+
+But what happens
+at either of those places?
+
+If someone encounters a dead end,
+
+they should backtrack 
+to the last intersection.
+
+But they also need to mark it, so no one
+wastes time and goes back there.
+
+The best tool for that is the wire—
+
+one option is to break both sections
+that lead down the dead end path,
+
+and tie the spool to the wire 
+that leads back to the crystal.
+
+The broken wires tell everyone else 
+who gets to this intersection
+
+“Don’t go this way.”
+
+They’ll also guarantee the final path
+will lead straight to the crystal,
+
+rather than visiting dead ends.
+
+Ok, so let’s say someone’s
+at an intersection.
+
+Now which way should they go?
+
+The first priority is to have everyone 
+cover fresh ground
+
+to minimize doubling up.
+
+So if there’s no wire down a direction, 
+go that way.
+
+If there are multiple choices,
+choose one at random.
+
+What if they’re in a sub-section 
+like this, with 3 marked dead ends?
+
+The only thing to do is to go back 
+where they came from.
+
+We now know that this whole section
+is one big dead end,
+
+so they should break and retie the wire
+when they get to the next intersection.
+
+But let’s say they get there, and find
+two options where someone’s exploring,
+
+but no one’s hit a dead end yet.
+
+They may as well choose at random
+and go help explore that path further,
+
+in case it’s the right
+direction for the exit.
+
+This isn’t the only way to solve this
+challenge, but in any correct method,
+
+someone will eventually
+find the way out.
+
+The moment of truth will be when Ethic
+takes their wire and follows it back,
+
+inward towards her goal.
+
+The great thing about this method 
+is that Ethic’s path is straight and true.
+
+The maze doesn’t have loops, so there's
+only one path from door to crystal.
+
+And because everyone has been 
+breaking and retying their wires,
+
+Ethic won’t go down any dead-end paths.
+
+Face to face with her creation, 
+Ethic has a choice:
+
+she can destroy Hedge,
+or set things right.
+
+All of this destruction was her fault, 
+not Hedge’s;
+
+it was her oversight that instructed 
+him to build an infinitely large maze.
+
+His decisions were misguided, 
+but everything he did,
+
+he did to follow his programming.
+
+Ethic accesses his core and fixes 
+her error with a single number:
+
+the size the maze was supposed to reach.
+
+Ethic has prevented catastrophe
+
+and regained possession
+of the World Machine.
+
+Her work with Adila, Octavia, and Lemma
+has already started to help people
+
+and heal the world’s turmoil,
+but there’s much work to be done.
+
+With the forgetting food 
+out of their systems,
+
+the people will become themselves again.
+
+They’ll regain their will to create 
+and progress.
+
+They’ll be free to break down the walls
+they’ve built between each other.
+
+And they may come to approach 
+their future with a little less greed
+
+and a little more... Ethic

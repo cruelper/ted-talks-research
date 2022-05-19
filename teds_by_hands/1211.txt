@@ -1,0 +1,209 @@
+Once each year, thousands of logicians
+descend into the desert for Learning Man,
+
+a week-long event they attend
+to share their ideas,
+
+think through tough problems...
+and mostly to party.
+
+And at the center of that gathering 
+is the world’s most exclusive club,
+
+where under the full moon, 
+the annual logician’s rave takes place.
+
+The entry is guarded 
+by the Demon of Reason,
+
+and the only way to get in is to solve
+one of his dastardly challenges.
+
+You’re attending with 23 
+of your closest logician friends,
+
+but you got lost on the way 
+to the rave and arrived late.
+
+They're already inside, so you must
+face down the demon alone.
+
+He poses you the following question:
+
+When your friends arrived,
+the demon put masks on their faces
+
+and forbade them from communicating
+in any way.
+
+No one at any point could
+see their own masks,
+
+but they stood in a circle where they
+could see everyone else’s.
+
+The demon told the logicians that he 
+distributed the masks in such a way
+
+that each person would eventually be able 
+to figure out their mask’s color
+
+using logic alone.
+
+Then, once every two minutes,
+he rang a bell.
+
+At that point, anyone who could
+come to him
+
+and tell him the color of their mask 
+would be admitted.
+
+Here’s what happened:
+
+Four logicians got in at the first bell.
+
+Some number of logicians, all in red 
+masks, got in at the second bell.
+
+Nobody got in when the third bell rang.
+
+Logicians wearing at least two different
+colors got in at the fourth bell.
+
+All 23 of your friends played 
+the game perfectly logically
+
+and eventually got inside.
+
+Your challenge, the demon explains,
+
+is to tell him how many people gained
+entry when the fifth bell rang.
+
+Can you get into the rave?
+
+Pause here to figure it out yourself.
+
+Answer in 3
+
+Answer in 2
+
+Answer in 1
+
+It’s initially difficult to imagine 
+how anyone could,
+
+using just logic and the colors
+they see on the other masks,
+
+deduce their own mask color.
+
+But even before the first bell, everyone
+will realize something critical.
+
+Let’s imagine a single logician
+with a silver mask.
+
+When she looks around, she’d see 
+multiple colors, but no silver.
+
+So she couldn’t ever know that silver 
+is an option,
+
+making it impossible for her to logically 
+deduce that she must be silver.
+
+That contradicts rule five, so there must
+be at least two masks of each color.
+
+Now, let’s think about what happens
+
+when there are exactly two people wearing 
+the same color mask.
+
+Each of them sees only one mask 
+of that color.
+
+But because they already know 
+that it can’t be the only one,
+
+they immediately know that their own mask 
+is the other.
+
+This must be what happened
+before the first bell:
+
+two pairs of logicians each realized
+their own mask colors
+
+when they saw a unique color in the room.
+
+What happens if there are three people 
+wearing the same color?
+
+Each of them—A, B and C—
+sees two people with that color.
+
+From A’s perspective, B and C would be
+expected to behave the same way
+
+that the orange and purple pairs did, 
+leaving at the first bell.
+
+When that doesn’t happen,
+
+each of the three realizes that they are 
+the third person with that color,
+
+and all three leave at the next bell.
+
+That was what the people 
+with red masks did—
+
+so there must have been three of them.
+
+We’ve now established a basis 
+for inductive reasoning.
+
+Induction is where we can solve 
+the simplest case,
+
+then find a pattern that will allow 
+the same reasoning
+
+to apply 
+to successively larger sets.
+
+The pattern here is that everyone 
+will know what group they’re in
+
+as soon as the previously sized group
+has the opportunity to leave.
+
+After the second bell, 
+there were 16 people.
+
+No one left on the third bell,
+
+so everyone then knew there weren’t 
+any groups of four.
+
+Multiple groups,
+which must have been of five,
+
+left on the fourth bell.
+
+Three groups would
+leave a solitary mask wearer,
+
+which isn’t possible, 
+so it must’ve been two groups.
+
+And that leaves six logicians outside 
+when the fifth bell rings:
+
+the answer to the demon’s riddle.
+
+Nothing left to do but join your friends 
+and dance.

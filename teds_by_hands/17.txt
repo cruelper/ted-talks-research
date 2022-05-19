@@ -1,0 +1,367 @@
+It's my job to find aliens,
+so as you might guess,
+
+I spent a lot of time thinking about them,
+
+imagining little green women
+
+meeting up with their friends,
+commuting to work.
+
+And that gets me thinking
+about alien astronomers
+
+trying to find us in their night sky.
+
+If these alien astronomers
+had looked in our direction
+
+in the last century,
+
+they would have been really excited
+to detect unequivocal signs of technology.
+
+But what if they looked
+ten thousand years ago,
+
+before we showed signs of civilization?
+
+Would they shrug in disappointment
+and go look elsewhere for life?
+
+No, and neither should we.
+
+Instead, we can look
+for other signs of life.
+
+For example, if those alien astronomers
+had looked our way 10,000 years ago,
+
+they might notice that even
+without signs of civilization,
+
+we still looked slightly unusual.
+
+For one, we have
+a thick and temperate atmosphere,
+
+but more notably,
+
+we have suspiciously large amounts
+of oxygen in the atmosphere.
+
+This would be a really encouraging
+sign of life for my alien colleagues
+
+because the composition
+of the Earth's atmosphere
+
+can only sustain itself
+through a biological cycle.
+
+So can we do the same to them?
+
+I'm certainly trying.
+
+I am a quantum astrochemist,
+
+which means I study
+the quantum interactions
+
+between molecules and light in space.
+
+We can't see these molecules
+or even the planets they're on.
+
+But when light from a star
+goes through an alien atmosphere,
+
+each molecule within it
+leaves a unique fingerprint
+
+in the starlight that I can see from here.
+
+And I look for the fingerprints
+
+of molecules that could
+be associated with life,
+
+or biosignatures,
+
+like complex pollutants or oxygen.
+
+In the context of Earth,
+oxygen is a wonderful biosignature,
+
+but oxygen is not that hard to make.
+
+So, for example, if our sun
+had different levels of radiation
+
+or if our oceans were evaporating
+from a runaway greenhouse effect,
+
+then large amounts of oxygen
+could accumulate in our atmosphere
+
+without biology,
+
+and then oxygen would be
+a false positive for life.
+
+So maybe oxygen won't be the solution
+to finding life beyond Earth,
+
+but then what is?
+
+Well, my specialty
+is to look for unusual molecules
+
+that have fewer false positives for life
+
+because they're so difficult to make
+that they're rarely made spontaneously.
+
+And my favorite of those
+unusual molecules is phosphine.
+
+When I first started working on phosphine
+about a decade ago,
+
+people had a hard time
+thinking of it as a biosignature at all.
+
+Instead, it was known
+
+for being this horrific,
+foul-smelling molecule
+
+that messes with life's
+ability to use oxygen,
+
+making it a really effective killer.
+
+Because of this fatal interaction
+with oxygen metabolism,
+
+phosphine is used widely as a pesticide
+
+and sadly for the same reason it was used
+many times in chemical warfare.
+
+Phosphine can be made in the lab,
+
+and it's also produced
+in the extreme environments
+
+found inside gas giants
+like Jupiter and Saturn.
+
+But on rocky planets like the Earth,
+it is rarely created accidentally.
+
+So we don't really expect
+to find phosphine on Earth at all.
+
+And yet we do.
+
+We find it in small amounts
+throughout the globe,
+
+and in some places
+in strangely large quantities,
+
+places like swamps
+and rice fields and lake beds
+
+and the excrements and guts
+of most animals.
+
+And what all of these
+ecosystems have in common
+
+is that they all host organisms
+that are not reliant on oxygen,
+
+so phosphine can't hurt them.
+
+Indeed, phosphine seems to be safely
+and enthusiastically produced
+
+in all of these oxygen-poor ecosystems.
+
+So I figured, maybe other planets
+with life less reliant on oxygen than ours
+
+could also have phosphine,
+but as a really popular biosignature.
+
+And here's the best thing about phosphine.
+
+Because it's so hard to make
+on rocky planets like the Earth,
+
+it has almost no false positives for life.
+
+So I started considering
+what telescopes we would need
+
+to detect phosphine on planets
+in our galactic neighborhood.
+
+Because if we did,
+I predicted it could only mean life.
+
+I was imagining a distant planet,
+
+a oxygen-poor tropical paradise
+
+with a phosphine-rich biosphere
+that we might one day be able to detect.
+
+But turns out phosphine
+was a little more exciting
+
+than I had initially envisaged
+
+because a few months
+after I finished this work
+
+an astronomer, Jane Greaves,
+reached out to me
+
+asking for help with interpreting
+a telescope signal seen here in white.
+
+Then months later,
+another signal, seen here in orange,
+
+that seemed to indicate that phosphine
+might be present not on a distant planet,
+
+but right next door,
+on the clouds of Venus.
+
+So did we do it?
+
+Did we find life beyond Earth?
+We don't know.
+
+These Venus observations
+were noisy and preliminary,
+
+so we still need to confirm,
+without a doubt,
+
+that the signal is real,
+
+and if it is, we need to make sure
+
+it's not another molecule
+mimicking phosphine's fingerprint.
+
+And if it is unambiguously phosphine,
+
+we still need to figure out
+what or who is making it,
+
+because maybe it's true
+
+that life is the best explanation
+for the presence of phosphine
+
+on a planet like Venus.
+
+But maybe that's wrong
+
+and there's an exotic but not biological
+way of making phosphine
+
+that no one has thought of yet.
+
+Either way, as much as I love phosphine,
+
+I don't think that's how we'll find life.
+
+The detection of life will likely
+not come from a single molecule.
+
+No matter how special it is.
+
+We'll have to detect a whole biosphere
+producing a complex network of gases
+
+that together form a message
+that reads: “We’re alive!”
+
+As the Venus story shows,
+
+the detection of life
+will likely be uncertain,
+
+but Venus is the perfect lab for us
+to test our theories of biospheres
+
+and how to interpret them.
+
+If we learn to understand
+the atmosphere of Venus
+
+and the message it contains,
+
+then we can find out if we got it right
+by going there and checking.
+
+And we'll do that
+at the end of the decade.
+
+But this will not be the last time
+
+that we have the discovery
+of a biosignature
+
+on a potentially habitable planet,
+
+and next time we won't be able
+to just go there and check.
+
+So my biggest concern
+
+is not that we will fail to find
+a habitable planet in our lifetimes.
+
+My biggest concern is that we'll point
+our very expensive telescopes
+
+directly at an inhabited planet
+
+and just not know we did it.
+
+But I am determined to not miss life.
+
+So, yes, I will look for the unambiguous
+but quite unlikely signs of technology
+
+like complex pollutants.
+
+And I'll look for
+the pleasant and familiar
+
+but potentially misleading
+signs of life, like oxygen.
+
+And of course, I'll keep looking
+
+for the strange and scary
+biosignatures like phosphine.
+
+But crucially, I will look
+for all the molecules
+
+that can together paint
+a holistic picture of a biosphere.
+
+All of this so that one day
+we'll know life when we see it.
+
+Thank you.

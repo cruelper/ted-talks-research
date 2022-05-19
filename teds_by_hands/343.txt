@@ -1,0 +1,274 @@
+The world that we live in
+is not well-known.
+
+It's fragile.
+
+It’s rich in biodiversity.
+
+And it’s increasingly impacted
+by human activities.
+
+Geologists are beginning to call
+this era the Anthropocene.
+
+Today, our world is in trouble
+because humans are living carelessly.
+
+We are threatening our very future.
+
+We are, as human beings,
+
+going to have to
+collectively come together
+
+and address these challenges.
+
+A sustainable future,
+in my mind, is possible,
+
+but we’re going to have to do many things,
+
+and we're going to have to do these now.
+
+Sustainability really requires
+that we see the world as one system.
+
+Today, in my field, the geospatial field,
+
+we are seeing technologies emerge
+that are becoming interconnected.
+
+They're allowing us to measure,
+
+analyze and understand
+what's occurring on our globe.
+
+We're bringing together geographic
+information from many sources,
+
+virtually describing everything
+that is occurring on our planet.
+
+These technologies are being
+systematically interconnected
+
+with the web,
+
+and opening up,
+
+allowing organizations
+to be able to see information
+
+and create what I like to describe
+
+as a geographic information system
+for our entire planet.
+
+This system promises to be a platform
+
+for better understanding
+and managing our planet,
+
+a kind of nervous system
+for a more sustainable future.
+
+A central part of this system is content.
+
+We are creating
+a living atlas of our planet
+
+that provides a massive collection
+of authoritative data and map layers,
+
+describing information on things
+like population and the economy.
+
+A wealth of information
+on natural systems,
+
+including all the -ologies:
+
+hydrology, biology, vegetation
+
+and, of course, the rich
+biodiversity that sustains us.
+
+This atlas also includes imagery
+from many sources,
+
+from satellites, aerial photography,
+
+describing the changing
+human footprint on our planet.
+
+Some of these layers
+are also almost real-time,
+
+providing information about pollution
+and weather and land cover.
+
+Remote sensing and machine learning
+are making it possible for us
+
+to see things like wildfires
+here in the US,
+
+but also in Greece and Russia,
+
+in Italy and Turkey this year.
+
+This data has been made available
+by thousands of individual,
+
+trusted scientific government
+and NGO organizations
+
+who wish to share and make
+their data available openly.
+
+Recently, my colleagues and I developed
+a new 10-meter global map of land cover
+
+for the entire planet.
+
+This was computed in less than a week
+using AI and machine learning.
+
+It has given us a clear picture
+of land-cover patterns today
+
+and will also be the foundation
+for us to periodically show change,
+
+update the footprint almost in real time.
+
+Here, for example, we can see in Malaysia
+
+where the demand for palm oil
+is impacting and consuming natural areas.
+
+In Buenos Aires, we can see the effect
+of urbanization and sprawl
+
+on impacting natural lands
+around the city.
+
+In Xingu, in Brazil,
+
+this is a really amazing point,
+
+because it's showing where the government
+has actually looked ahead
+
+and protected certain areas
+in special zones
+
+so that biodiversity will be sustained.
+
+GS is also being used to model
+and forecast our future.
+
+For example, this amazing map
+of 2050 land cover
+
+predicts, using various statistical means,
+
+the expansion of where
+the human footprint is going
+
+and how it might impact areas
+of rich biodiversity.
+
+Organizations around the world are already
+leveraging this geospatial nervous system
+
+for better planning and decision making.
+
+In the future,
+
+we're going to have to empower
+virtually every organization
+
+to embrace this new geographic approach.
+
+The geographic approach is a way
+
+to bring all this information together
+
+to see holistically
+how things are interrelated.
+
+A science-based approach
+which is inclusive,
+
+that can bring together
+multiple populations
+
+to be able to create
+more intelligent actions
+
+and create a more sustainable future.
+
+These kinds of advances
+in technology and information
+
+are increasingly available,
+
+but it's going to take more
+than simply technology
+
+to create a sustainable future.
+
+It’s going to require
+major segments of our society --
+
+organizations, governments,
+businesses around the world --
+
+embracing this science,
+
+embracing what technology can offer
+
+and using their creative and design skills
+
+to be able to create a better future.
+
+Ultimately, it'll require all of us
+to integrate this kind of thinking,
+
+this science-based thinking,
+this geographic-approach thinking,
+
+into the way that we make decisions,
+
+both as individuals
+
+and also in all of our institutions,
+
+locally, regionally,
+
+nationally and ultimately globally.
+
+Like the internet
+and other pervasive technologies,
+
+this nervous system
+is going to grow and expand.
+
+It's going to empower
+our collective response
+
+to understanding and taking action --
+not only for climate,
+
+but also all the interrelated challenges
+that we are facing as a global society.
+
+We have the tools and the science
+for better understanding.
+
+Now that we can see as much as we can see,
+
+we must act.
+
+Thank you very much.

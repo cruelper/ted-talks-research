@@ -1,0 +1,485 @@
+When Hurricane Maria
+hit Puerto Rico in 2017,
+
+we all watched as a disaster
+played out on our screens.
+
+At least 160,000 people were displaced,
+
+and nearly 3,000 people died.
+
+Electricity was cut off
+to the entire island,
+
+and some neighborhoods
+didn't get power back for 11 months.
+
+Many of those watching
+didn't know how to help.
+
+Some donated to international NGOs.
+
+Some lobbied their elected officials.
+
+But as with so many crises,
+
+so many of us simply gave in
+and felt helpless.
+
+At the Humanitarian OpenStreetMap Team,
+
+also known as HOT,
+
+we did something different.
+
+We mobilized 6,000 volunteers
+across the world
+
+who mapped every home
+and every road in Puerto Rico.
+
+And here you can see the maps
+those volunteers made taking shape.
+
+Responders then used those maps
+to assess the state of buildings and roads
+
+and to provide emergency funds,
+WiFi and phone-charging points
+
+to people whose homes were damaged.
+
+All crises,
+
+including the COVID-19 pandemic
+we're living through right now,
+
+have devastating characteristics.
+
+But many of them have one thing in common:
+
+the people hit the hardest are often
+literally not on the map.
+
+Right now, more than one billion people
+live in places that are not mapped.
+
+If you look those places up online,
+
+you'll see nothing but a blank.
+
+And that blank isn't just
+a huge statement of disrespect
+
+to our fellow human beings,
+
+it's an injustice,
+
+causing very direct, very real
+and very avoidable human suffering.
+
+So what does not being
+on the digital map actually look like?
+
+I live in Peru, and a few months ago,
+
+some community health workers
+asked us to help them map.
+
+Obviously, where they were wasn't mapped,
+
+so to get there, we asked
+a local mayor to draw the route.
+
+This is what he drew.
+
+This piece of paper
+was hard to follow. (Laughs)
+
+We didn't really know
+what these lines were.
+
+He put some numbers on there
+that he assured us were travel times,
+
+but as we were driving along,
+
+these did not correspond to our reality.
+
+But this isn't about me getting lost
+
+or about shaming
+someone's bad drawing skills.
+
+Think how inefficient it is
+to manage a team
+
+who need to work in this place
+
+without a map to tell them
+where they need to go.
+
+Then, once they're in the right village,
+
+how can they collect some data
+and associate it to that place?
+
+Those community health workers
+know that needs in this region are high,
+
+particularly anemia
+and malnutrition among children.
+
+They just don't know
+where those children are,
+
+or what is causing that problem.
+
+They want to be able to locate
+the home of every child under five,
+
+but how can they do that without a map?
+
+After a brief training,
+we went out to make a map,
+
+and this is what those community
+health workers produced.
+
+This map has everything
+you need to navigate,
+
+like the rivers and bridges,
+
+but it also has every local landmark,
+the school, the football pitch, the plaza.
+
+And I'm pleased to say
+that a few weeks ago,
+
+we got a call from
+those community health workers,
+
+and they're using this map
+in their response containing COVID-19.
+
+So you might be thinking:
+
+Why aren't these places
+on commercial maps?
+
+In short, mapping the most
+vulnerable places in our world
+
+just hasn't been a priority
+for for-profit companies,
+
+whose business models typically rely
+on advertising and data sales.
+
+This leaves out the poorest communities
+
+and means that individual
+aid organizations create maps
+
+for the small areas
+that they're working in
+
+in offline systems which rapidly
+become out-of-date when a project ends.
+
+So what we have here
+is a lack of easily shareable
+
+and easily updatable data.
+
+But we also have a solution.
+
+We map with a tool
+called OpenStreetMap,
+
+which was founded in 2006
+
+and is a free, open-source tool
+which anyone can use to map the world.
+
+Just as anyone can read or edit
+an article on Wikipedia,
+
+anyone can use or edit
+the map in OpenStreetMap,
+
+and the resulting map is public good,
+
+free and open for anyone to use,
+
+creating one map for all of us.
+
+It works in two phases.
+
+Buildings and roads might not
+be on the map yet,
+
+but you can see them clearly
+in satellite imagery.
+
+Volunteers working anywhere in the world
+turn satellite images into maps
+
+through drawing the buildings and roads
+
+on top of them.
+
+We call this a base map.
+
+On average, each time a volunteer logs in,
+
+they map an area less than
+10 kilometers squared,
+
+but add all those contributions together,
+
+and you can map entire cities
+in just a couple of days.
+
+And second, local mapping.
+
+People living and working
+in the places we're mapping
+
+take that base map and color it in,
+
+for example, identifying:
+Is this building a school or a hospital?
+
+Those people add information
+you can't see in a satellite image.
+
+We found people able and eager to map
+
+in even the most challenging
+situations worldwide,
+
+and we've optimized the tools
+to work on smartphones
+
+costing as little as 30 dollars.
+
+Additionally, the tools work offline,
+
+so people without regular access
+to cell service can still contribute,
+
+adding things to the map
+as they go about their daily lives,
+
+and then uploading when they get access
+to cell service or WiFi.
+
+In 10 years, we've seen people
+from all walks of life take part.
+
+Refugees have mapped broken water points.
+
+Rural women have added place names
+in Indigenous languages.
+
+And, in doing so, people become
+active agents of change
+
+in their communities.
+
+Since 2010, HOT has engaged
+over 200,000 volunteers
+
+who have mapped an area
+home to more than 150 million people
+
+in OpenStreetMap.
+
+Those maps have been used
+by search and rescue operations
+
+to free hundreds of people
+trapped in collapsed buildings
+
+after the 2010 Haiti earthquake.
+
+They've been used to provide
+polio vaccinations to children
+
+across all of rural Nigeria.
+
+And they've mapped the camps,
+routes and new homes
+
+of more than eight million refugees
+fleeing South Sudan, Syria and Venezuela.
+
+We work with the biggest
+humanitarian organizations in the world
+
+to make sure these maps have impact --
+
+the Red Cross, Médecins Sans Frontières,
+UNICEF to name a few --
+
+and we currently have a queue
+of more than 2,000 places
+
+needing to be mapped.
+
+So that's the story so far.
+
+But wouldn't it be great
+if these places were on the map
+
+before they were in crisis?
+
+Now we're ready for a step change.
+
+Over the past few years,
+
+we've gained access to global,
+regularly updated satellite imagery.
+
+Machine learning and AI
+are helping human mappers
+
+to work more efficiently.
+
+And worldwide, more and more people
+are willing and able
+
+to map their communities.
+
+Over the next five years,
+
+we'll engage one million volunteers
+who will map an area
+
+home to the one billion
+most vulnerable people
+
+across 94 countries.
+
+To achieve this,
+
+we need to do three things.
+
+First, we need to grow our community
+to one million mappers,
+
+who will build a world
+where everyone everywhere is represented.
+
+We'll set up a network of regional hubs
+
+to train and support those volunteers
+
+to map the vulnerable places
+in their own countries.
+
+Second, we need to invest in technology.
+
+Right now, you can add something
+like a building or a local landmark
+
+to the map in just a few seconds,
+
+but learning to map
+
+and mapping easily
+and quickly on a mobile
+
+can be a problem.
+
+We need to invest in technologies
+
+to make mobile edits to the map
+possible at a massive scale.
+
+And third, we need to raise awareness.
+
+Aid projects across the world need to know
+
+that these maps are free
+and available for them to use
+
+and that they can request maps
+for the areas that they're working in.
+
+For me, this is one of the most
+wonderful things about this project.
+
+It isn't really about HOT
+or any single organization.
+
+It's about creating a foundation
+
+on which so many
+organizations will thrive.
+
+Whatever we do,
+
+disasters and crises will still happen,
+
+and humanitarians
+will still respond to them.
+
+Development programs will continue,
+
+but without maps,
+they'll lack critical information
+
+about what to expect in the community
+before they get there.
+
+With open, free, up-to-date maps,
+
+those programs will have more impact
+than they would do otherwise,
+
+leading to a meaningful difference
+in lives saved or improved.
+
+But it's so much more than that.
+
+It's 2020, and one billion people
+in our world are not visible.
+
+That's wrong.
+
+This is a tool through which
+every citizen of Planet Earth
+
+can become known and seen,
+
+to literally be put on the map.
+
+My peers complain about being
+too overconnected,
+
+so how can it be possible
+for more than a billion people
+
+to remain invisible?
+
+Luckily, this is a problem
+even the laziest among us
+
+can help to solve.
+
+If you can swipe left or right,
+
+you can help.
+
+Map this morning
+
+and influence life-changing
+decisions this afternoon.
+
+Frontline health workers and humanitarians
+are literally waiting for you.
+
+Thank you.

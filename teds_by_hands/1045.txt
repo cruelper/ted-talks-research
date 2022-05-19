@@ -1,0 +1,525 @@
+If you're in charge of a major
+metropolitan city,
+
+it's almost a must these days
+to be sustainable.
+
+Us city dwellers pride ourselves
+
+on living in places that are
+taking action on climate change
+
+and achieving net zero.
+
+But what if you're Don Iveson?
+
+You're the mayor of oil and gas town
+Edmonton, in northern Alberta, Canada.
+
+Or across the Atlantic,
+
+Holly Mumby-Croft,
+
+UK member of parliament for Scunthorpe,
+
+home to one of the last
+steel plants of Britain.
+
+Or much smaller,
+
+you're Dave Smiglewski.
+
+You're the mayor of the little city
+of Granite Falls, Minnesota,
+
+with a large-scale ethanol
+production facility nearby.
+
+All these places,
+
+no matter how far apart
+and how different in size,
+
+have something big in common:
+
+millions of tons
+of greenhouse gas emissions
+
+linked to significant local employment.
+
+And we're going to have to find a way
+
+to maintain the critical economic
+and social functions of these towns
+
+if we're to have any hope
+of combating climate change.
+
+Not an easy feat,
+
+if you think that we can't really put
+a solar panel on a gas processing facility
+
+or a steel mill.
+
+Fortunately, these places have another
+interesting thing in common,
+
+which might offer some hope
+to these local officials.
+
+The main sources
+of pollution in their areas
+
+are in close proximity to rock formations
+
+with the ability to trap carbon dioxide,
+
+the greenhouse gas we often call CO2.
+
+And this puts into reach a potential
+solution to both their problems:
+
+pollution and employment.
+
+It's called "carbon capture and storage."
+
+It's the process whereby
+we capture the CO2,
+
+which results from burning fossil fuels,
+
+before it's emitted into the atmosphere
+
+and instead bury it underground.
+
+Effectively, we take part of what
+we've extracted from the earth --
+
+the carbon --
+
+back to where it came from.
+
+Now, this is not a new idea.
+
+People have been experimenting
+with this technology for decades.
+
+Today, however, there are very few
+operational carbon capture facilities
+
+in the world,
+
+capturing about 14 million
+tons of CO2 equivalent per year.
+
+And while that may sound
+like a big number,
+
+it's less than .1 percent of global
+greenhouse gas emissions.
+
+The International Energy Agency predicts
+
+that we need to capture
+between four and seven gigatons --
+
+that's four to seven
+billion metric tons --
+
+of CO2 per year by 2040
+
+to stay at or below
+two degrees Celsius warming.
+
+And that's a more than
+100 to 200 times increase
+
+in today's carbon capture capacity.
+
+To get us there will definitely require
+a price on greenhouse gas pollution.
+
+There is a cost,
+and it needs to be settled.
+
+And if we're not smart about it,
+
+the price could be very high.
+
+Should we then solely rely
+on the future improvements
+
+in the fundamental technology?
+
+No.
+
+There is another way.
+
+And it's the need for
+well-thought-through rollouts
+
+of what might be called CO2 networks.
+
+In BCG, I lead a team of consultants,
+
+analysts and data scientists
+
+whose focus is on advancing
+carbon capture utilization and storage.
+
+By our estimates,
+
+if we want to hit the IEA forecast,
+
+we need at least 110 billion dollars
+per year for the next 20 years
+
+to build out the required carbon capture
+and storage infrastructure.
+
+And there's only one way to bring down
+this essential but hefty price tag,
+
+which is to share
+the cost through networks.
+
+Consider it the waste
+disposal service for CO2.
+
+Our research suggests that policymakers
+and companies can learn a lot
+
+by looking at a map --
+
+lots of maps, actually,
+
+both the ones that you and I look at
+on our smartphones
+
+as well as the less common ones
+
+that show what lies below the surface
+in terms of depleted oil and gas fields
+
+and saline aquifers with the ability
+to trap CO2 underground.
+
+And by looking at these maps,
+
+we can look for the optimal distances
+between both the sources of emissions,
+
+like Scunthorpe's steel plant,
+
+and the sinks, like the saline
+aquifers of Alberta.
+
+We had a first go,
+
+and it yields interesting results.
+
+By building up a detailed
+database of emitters
+
+as well as potential sinks,
+
+we found up to 200 clusters
+
+that have the ability to be scaled up
+to low-cost carbon networks.
+
+And they can capture more
+than one gigaton of emissions,
+
+a big step to the four to seven
+gigatons that we need.
+
+And when we dig a little deeper,
+
+we find that optimization of distances
+between sinks and sources matters.
+
+It matters a lot in terms of the cost.
+
+Network effects,
+
+which is the mechanism whereby
+the benefits of a system to a user
+
+increases with the amount
+of others' use of it,
+
+can reduce the capture and storage cost
+of many emitters by up a third,
+
+to below 100 dollars
+per ton of CO2 captured,
+
+based on current costs of technology.
+
+And while that is still
+a substantial cost,
+
+it starts to get in the range
+of carbon taxes and market mechanisms
+
+that governments of Western economies
+are starting to think about
+
+or have already put in place.
+
+And we would not be able to achieve it
+
+without collaboration
+and sharing of infrastructure
+
+between neighboring emitters.
+
+Let us walk through
+some of the cities I mentioned.
+
+In assessing areas to build CO2 networks,
+
+we look for three different things.
+
+Firstly, proximity to storage.
+
+Secondly, a cluster
+of at least a few sources
+
+with high amounts
+of CO2 in their flue gas;
+
+the more CO2 in the exhaust,
+
+the cheaper it is to capture.
+
+And thirdly, an ability to scale up
+the network and lower the cost quickly
+
+with few emitters.
+
+Edmonton and its surrounding areas
+provide a good example
+
+of this idea at work.
+
+Suitable underground rock layers
+that can trap CO2 are abundant,
+
+well exceeding what is needed,
+
+and it also meets
+the second and third criteria
+
+in that it has a good combination
+
+of both high- and low-
+concentration CO2 streams
+
+associated with different
+industrial processes.
+
+And it can scale up to low cost quickly.
+
+In one of the clusters,
+
+we find the number of emitters
+with very low capture and storage cost
+
+in the range of 40 to 50 dollars per ton,
+
+but they only represent
+1.2 megatons per year.
+
+The total cluster, however,
+can scale up to 12 megatons --
+
+up to 10 times its original size.
+
+But those first megatons of emissions
+played a crucial role
+
+in scaling up the network
+
+and reducing the cost and risk
+for others down the line.
+
+That's your network effect in action.
+
+And it's not just Edmonton.
+
+If we take Scunthorpe
+in Lincolnshire in the UK,
+
+we see similar dynamics and potential.
+
+The North Sea offers sufficient storage,
+
+and while storing CO2 offshore
+is more expensive than onshore,
+
+there's the potential to reduce this cost
+
+by reusing and repurposing
+existing oil and gas infrastructure.
+
+If the steel mill standalone
+would have to capture and store its CO2,
+
+it would prove very costly.
+
+But it can reduce this cost
+by sharing the infrastructure
+
+with refining and chemical emitters
+en route to the North Sea.
+
+Many of them have cheaper capture cost
+
+with the ability to improve
+the overall economics
+
+and kick-start a network that has
+the ability to scale up to 28 megatons.
+
+Two examples in two different countries
+with 14 megatons of potential --
+
+already double versus what we have today.
+
+And this network effect applies anywhere
+
+and is actually not uncommon
+
+when it comes to building out
+infrastructure.
+
+In fact, CO2 networks could very much
+follow the principles of the past
+
+in terms of how our energy and utility
+infrastructure was developed around us,
+
+whether it's water, gas, electricity,
+local supply chains --
+
+all these networks apply
+local economies of scale
+
+and were built up over time
+with favorable, marginal cost
+
+of adding new connections.
+
+The big difference here
+is we're reversing the flow.
+
+And these networks have the potential
+to enable future innovation
+
+of using CO2 in chemical processes
+to make, for example, building materials
+
+instead of burying the CO2 underground.
+
+Our analysis is a pure economic one.
+
+It does not account for political
+and local geographical barriers,
+
+but creating a favorable
+regulatory environment
+
+and removing these barriers
+will be critical.
+
+Take these two neighboring
+states in the US, for example:
+
+North Dakota,
+
+with ample, cheap storage
+and existing CO2 pipelines,
+
+and the state has put in place
+tax incentives
+
+and financial assistance to use it.
+
+Go next door to Minnesota:
+
+no storage within several hundred miles,
+
+but home to 18 large-scale
+ethanol production facilities,
+
+including the one in Granite Falls,
+
+all of which create a highly concentrated
+stream of CO2 emissions.
+
+Can the blue and the red state
+work together to add 40 megatons
+
+to our carbon capture tally?
+
+We have no more than 20 years
+to bend the curve
+
+and combat climate change --
+
+potentially less.
+
+The gas networks in my two home countries
+of the Netherlands and the UK
+
+were built in similar time frames
+after the Second World War --
+
+massive undertakings
+in infrastructure buildup
+
+and at a time of similar
+high national debt.
+
+It's time to build another network,
+
+one for CO2.
+
+It does not need to last forever.
+
+It can be there just for the transition
+away from fossil fuels.
+
+But we need it now to preserve
+local manufacturing jobs
+
+and our communities
+
+and provide a hope for a better
+and more sustainable future.
+
+It is critical that governments,
+
+both local and national,
+
+as well as companies,
+
+assess the potential
+for carbon capture at a local level,
+
+start to capture the cheapest
+sources of CO2
+
+and build up the network from there.
+
+Only in that way can local communities
+
+like the ones in Edmonton,
+Granite Falls, Scunthorpe and beyond
+
+thrive both economically and sustainably.
+
+Thank you.
