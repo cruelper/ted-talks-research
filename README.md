@@ -5,7 +5,7 @@ This project is a small site research of  ted talks
 During the study, a dataset was obtained:
 https://drive.google.com/file/d/18rS8_2SE_XrseyypLAFbyiGwSNtoMGQC/view?usp=sharing
 
-It contains the following fields: Title,Date,Views,Likes,Topic,Transcript
+It contains the following fields: Title,Date,Views,Likes,Topic,Transcript \n
 Date - date of publication of the video
 Views - the number of views on the video as of the date the dataset was created
 Likes - the number of likes on the video as of the date the dataset was created
